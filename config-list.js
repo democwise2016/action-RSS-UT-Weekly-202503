@@ -53,12 +53,6 @@ let feedList = [
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
   {
-    title: 'AI-最佳拍檔',
-    feedID: 'AI-bestpartners',
-    homepageURL: 'https://www.youtube.com/channel/UCGWYKICLOE8Wxy7q3eYXmPA',
-    itemFilters: ItemFiltersPreset.between3minTo30Min,
-  },
-  {
     title: '35線上賞屋',
     feedID: '35visitchannel',
     homepageURL: 'https://www.youtube.com/channel/UCnWB4yjKnm6AeW-pj4E3dQw',
