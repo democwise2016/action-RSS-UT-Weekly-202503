@@ -70,12 +70,6 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/channel/UCT1YrR_CLpwosODYagzhm7Q',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
-  {
-    title: '六指淵 Huber',
-    feedID: 'huber0203',
-    homepageURL: 'https://www.youtube.com/channel/UC7ia-A8gma8qcdC6GDcjwsQ',
-    itemFilters: ItemFiltersPreset.between3minTo30Min,
-  },
 ]
 
 // 
