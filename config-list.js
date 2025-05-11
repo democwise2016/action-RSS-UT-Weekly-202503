@@ -70,51 +70,6 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/channel/UCT1YrR_CLpwosODYagzhm7Q',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
-  
-  {
-    title: '帥狗聊動漫',
-    feedID: 'HandsomeDoge',
-    homepageURL: 'https://www.youtube.com/channel/UCQkAUoa28FZfffFI8tTQ71g',
-    itemFilters: ItemFiltersPreset.between3minTo30Min,
-  },
-  
-  {
-    title: '工頭堅。旅行長',
-    feedID: 'ctoken',
-    homepageURL: 'https://www.youtube.com/channel/UCO6BMxjvslH_jSo7FZi6DcQ',
-    itemFilters: ItemFiltersPreset.between6minTo60Min,
-  },
-  
-  {
-    title: '在下莫老师 玩 3C',
-    feedID: 'zxmls',
-    homepageURL: 'https://www.youtube.com/channel/UCAbLQp7cSr_hdPfr_Pe1S_g',
-    itemFilters: ItemFiltersPreset.between3minTo30Min,
-  },
-  {
-    title: '阿蝶-遊戲蝶聲 玩遊戲',
-    feedID: 'AvelnaGaming',
-    homepageURL: 'https://www.youtube.com/channel/UCu3z2_3jY7Z_52rZvO251Tg',
-    itemFilters: ItemFiltersPreset.between3minTo30Min,
-  },
-  
-  {
-    title: '老阿貝聊AI繪圖',
-    feedID: 'laoabe',
-    homepageURL: 'https://www.youtube.com/channel/UCq0cd_ZAT08f3_nCL5goHcg',
-    itemFilters: [
-      ItemFiltersPreset.between3minTo30Min,
-    ] // 霸道總裁攀岩開會、網紅天天搞小團體...《絕世網紅》劇情超浮誇？《 志祺今天不讀稿 》EP010｜志祺七七
-  },
-  
-  {
-    title: '雀可美特',
-    feedID: 'checkmatekuhaku',
-    homepageURL: 'https://www.youtube.com/channel/UCoWl-esLvmLkh8iZzARvAJg',
-    itemFilters: [
-      ItemFiltersPreset.between3minTo30Min,
-    ] // 霸道總裁攀岩開會、網紅天天搞小團體...《絕世網紅》劇情超浮誇？《 志祺今天不讀稿 》EP010｜志祺七七
-  },
 ]
 
 // 
