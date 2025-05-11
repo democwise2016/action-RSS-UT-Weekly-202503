@@ -1,0 +1,409 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+  <channel>
+    <title><![CDATA[AI超元域[YT+]]]></title>
+    <link>http://www.youtube.com/feeds/videos.xml?channel_id=UCIomFkAj4Vq_rGX2Jot7D8A</link>
+    <image>
+      <url>https://yt3.googleusercontent.com/6AyGuZqZQctDdjIWe9VYpaCVAD84ADoSpCcuUmaw2ANCPJu88x1A5svwfZpW5Hvhapl5N1nuqQ=s900-b50-c-k-c0x008A95A5-no-rj</url>
+      <title>AI超元域[YT+]</title>
+      <link>http://www.youtube.com/feeds/videos.xml?channel_id=UCIomFkAj4Vq_rGX2Jot7D8A</link>
+    </image>
+    <language>en-us</language>
+    <atom:link href="https://www.youtube.com/feeds/videos.xml?channel_id=UCIomFkAj4Vq_rGX2Jot7D8A" rel="self" type="application/rss+xml"/>
+    <copyright><![CDATA[AI超元域[YT+]]]></copyright>
+    <itunes:author><![CDATA[AI超元域[YT+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[
+      <a href="https://www.youtube.com/channel/UCIomFkAj4Vq_rGX2Jot7D8A" target="_blank">https://www.youtube.com/channel/UCIomFkAj4Vq_rGX2Jot7D8A</a><br />
+<br />
+<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCIomFkAj4Vq_rGX2Jot7D8A" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCIomFkAj4Vq_rGX2Jot7D8A</a>
+      ]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[
+      <a href="https://www.youtube.com/channel/UCIomFkAj4Vq_rGX2Jot7D8A" target="_blank">https://www.youtube.com/channel/UCIomFkAj4Vq_rGX2Jot7D8A</a><br />
+<br />
+<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCIomFkAj4Vq_rGX2Jot7D8A" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCIomFkAj4Vq_rGX2Jot7D8A</a>
+      ]]>
+    </description>
+    <itunes:owner>
+      <itunes:name><![CDATA[AI超元域[YT+]]]></itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://yt3.googleusercontent.com/6AyGuZqZQctDdjIWe9VYpaCVAD84ADoSpCcuUmaw2ANCPJu88x1A5svwfZpW5Hvhapl5N1nuqQ=s900-b50-c-k-c0x008A95A5-no-rj"/>
+<item>
+      <title><![CDATA[🚀支持视觉大模型的开源PDF解析+OCR工具！Docling本地配置从入门到精通保姆级教程！支持LM Studio+InternVL3-9B与Gemini2.5 Pro轻松识别解析模糊PDF扫描文件]]></title>
+      <link>https://www.youtube.com/watch?v=WWPWAi-REl0</link>
+      <itunes:title><![CDATA[🚀支持视觉大模型的开源PDF解析+OCR工具！Docling本地配置从入门到精通保姆级教程！支持LM Studio+InternVL3-9B与Gemini2.5 Pro轻松识别解析模糊PDF扫描文件]]></itunes:title>
+      <itunes:author><![CDATA[AI超元域]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<hr style="clear:both" />
+
+<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/WWPWAi-REl0&t=14" target="_blank"><strong># - docling功能特点和支持格式</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/WWPWAi-REl0_14.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/WWPWAi-REl0&t=38" target="_blank"><strong># - PyCharm环境搭建和依赖安装</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/WWPWAi-REl0_38.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/WWPWAi-REl0&t=60" target="_blank"><strong># - 基础PDF转Markdown代码演示</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/WWPWAi-REl0_60.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/WWPWAi-REl0&t=120" target="_blank"><strong># - 运行代码查看解析效果</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/WWPWAi-REl0_120.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/WWPWAi-REl0&t=164" target="_blank"><strong># - 命令行直接解析PDF文件</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/WWPWAi-REl0_164.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/WWPWAi-REl0&t=221" target="_blank"><strong># - 扫描版PDF处理方案介绍</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/WWPWAi-REl0_221.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/WWPWAi-REl0&t=242" target="_blank"><strong># - 配置LM Studio和InternVL3模型</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/WWPWAi-REl0_242.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/WWPWAi-REl0&t=300" target="_blank"><strong># - docling调用InternVL3模型代码详解</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/WWPWAi-REl0_300.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/WWPWAi-REl0&t=350" target="_blank"><strong># - 处理扫描版PDF文件演示</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/WWPWAi-REl0_350.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/WWPWAi-REl0&t=390" target="_blank"><strong># - 查看InternVL3 OCR解析效果</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/WWPWAi-REl0_390.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/WWPWAi-REl0&t=430" target="_blank"><strong># - 使用Gemini 2.5 Pro模型处理PDF</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/WWPWAi-REl0_430.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/WWPWAi-REl0&t=480" target="_blank"><strong># - 配置Gemini API和代码运行</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/WWPWAi-REl0_480.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/WWPWAi-REl0&t=520" target="_blank"><strong># - 对比Gemini模型解析效果</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/WWPWAi-REl0_520.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/WWPWAi-REl0&t=560" target="_blank"><strong># - 总结和资源获取说明</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/WWPWAi-REl0_560.jpg" /></p></p>
+
+<hr style="clear:both" />
+====
+<p>https://www.youtube.com/watch?v=WWPWAi-REl0</p><p>🚀🚀🚀视频简介：</p><p>✅【企业知识库必备利器保姆级教程】免费开源神器docling震撼来袭！PDF秒变Markdown，扫描文档轻松识别，比付费工具还强大，支持调用InternVL3和Gemini 2.5 Pro模型</p><p>📄 本期视频将详细演示了IBM开源的docling PDF文档解析工具的使用方法！</p><p>🛠️ 视频分为三个部分：</p><p>1.基础使用- 用Python代码和命令行直接解析PDF转Markdown</p><p>2.本地模型 - 配合LM Studio调用InternVL3-9B模型处理扫描版PDF</p><p>3.云端API- 使用Gemini 2.5 Pro模型获得顶级OCR效果</p><p>💻 通过简单代码将复杂PDF文档成功转换为Markdown格式，连表格和图像都能完美保留。</p><p>🔬 针对扫描版PDF，视频展示了如何调用开源视觉模型InternVL3实现精准OCR识别。对于要求更高的场景，还演示了调用Gemini 2.5 Pro API，连模糊不清的扫描文档都能完美解析！</p><p>⚡ 通过docling配合视觉模型，企业知识库项目能轻松处理各种文档格式，大幅提升工作效率！</p><p>📋 视频详细讲解了每个步骤的代码实现，包括模型配置、API调用、批量处理等功能，适合开发者学习参考。</p><p>🎯 最终效果让人惊艳 - 连emoji表情、引用格式、模糊文字都能准确提取，成功率极高！</p><p></p><p>👉👉👉笔记：https://www.aivi.fyi/llms/deploy-Docling+InternVL3+Gemini2.5</p><p>👉👉👉我的开源项目：https://github.com/win4r/AISuperDomain</p><p>👉👉👉请我喝咖啡：https://ko-fi.com/aila</p><p></p><p>🔥🔥🔥YouTube时间戳：</p><p>00:00 - 介绍docling PDF解析工具</p><p>00:14 - docling功能特点和支持格式</p><p>00:38 - PyCharm环境搭建和依赖安装</p><p>01:00 - 基础PDF转Markdown代码演示</p><p>02:00 - 运行代码查看解析效果</p><p>02:44 - 命令行直接解析PDF文件</p><p>03:41 - 扫描版PDF处理方案介绍</p><p>04:02 - 配置LM Studio和InternVL3模型</p><p>05:00 - docling调用InternVL3模型代码详解</p><p>05:50 - 处理扫描版PDF文件演示</p><p>06:30 - 查看InternVL3 OCR解析效果</p><p>07:10 - 使用Gemini 2.5 Pro模型处理PDF</p><p>08:00 - 配置Gemini API和代码运行</p><p>08:40 - 对比Gemini模型解析效果</p><p>09:20 - 总结和资源获取说明</p><p></p><p>#docling #ocr #pdf #pdfpattern #lmstudio #gemini #internvl #agi #ai #vlm #gemini2025</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<hr style="clear:both" />
+
+<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/WWPWAi-REl0&t=14" target="_blank"><strong># - docling功能特点和支持格式</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/WWPWAi-REl0_14.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/WWPWAi-REl0&t=38" target="_blank"><strong># - PyCharm环境搭建和依赖安装</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/WWPWAi-REl0_38.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/WWPWAi-REl0&t=60" target="_blank"><strong># - 基础PDF转Markdown代码演示</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/WWPWAi-REl0_60.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/WWPWAi-REl0&t=120" target="_blank"><strong># - 运行代码查看解析效果</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/WWPWAi-REl0_120.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/WWPWAi-REl0&t=164" target="_blank"><strong># - 命令行直接解析PDF文件</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/WWPWAi-REl0_164.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/WWPWAi-REl0&t=221" target="_blank"><strong># - 扫描版PDF处理方案介绍</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/WWPWAi-REl0_221.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/WWPWAi-REl0&t=242" target="_blank"><strong># - 配置LM Studio和InternVL3模型</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/WWPWAi-REl0_242.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/WWPWAi-REl0&t=300" target="_blank"><strong># - docling调用InternVL3模型代码详解</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/WWPWAi-REl0_300.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/WWPWAi-REl0&t=350" target="_blank"><strong># - 处理扫描版PDF文件演示</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/WWPWAi-REl0_350.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/WWPWAi-REl0&t=390" target="_blank"><strong># - 查看InternVL3 OCR解析效果</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/WWPWAi-REl0_390.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/WWPWAi-REl0&t=430" target="_blank"><strong># - 使用Gemini 2.5 Pro模型处理PDF</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/WWPWAi-REl0_430.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/WWPWAi-REl0&t=480" target="_blank"><strong># - 配置Gemini API和代码运行</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/WWPWAi-REl0_480.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/WWPWAi-REl0&t=520" target="_blank"><strong># - 对比Gemini模型解析效果</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/WWPWAi-REl0_520.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/WWPWAi-REl0&t=560" target="_blank"><strong># - 总结和资源获取说明</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/WWPWAi-REl0_560.jpg" /></p></p>
+
+<hr style="clear:both" />
+====
+<p>https://www.youtube.com/watch?v=WWPWAi-REl0</p><p>🚀🚀🚀视频简介：</p><p>✅【企业知识库必备利器保姆级教程】免费开源神器docling震撼来袭！PDF秒变Markdown，扫描文档轻松识别，比付费工具还强大，支持调用InternVL3和Gemini 2.5 Pro模型</p><p>📄 本期视频将详细演示了IBM开源的docling PDF文档解析工具的使用方法！</p><p>🛠️ 视频分为三个部分：</p><p>1.基础使用- 用Python代码和命令行直接解析PDF转Markdown</p><p>2.本地模型 - 配合LM Studio调用InternVL3-9B模型处理扫描版PDF</p><p>3.云端API- 使用Gemini 2.5 Pro模型获得顶级OCR效果</p><p>💻 通过简单代码将复杂PDF文档成功转换为Markdown格式，连表格和图像都能完美保留。</p><p>🔬 针对扫描版PDF，视频展示了如何调用开源视觉模型InternVL3实现精准OCR识别。对于要求更高的场景，还演示了调用Gemini 2.5 Pro API，连模糊不清的扫描文档都能完美解析！</p><p>⚡ 通过docling配合视觉模型，企业知识库项目能轻松处理各种文档格式，大幅提升工作效率！</p><p>📋 视频详细讲解了每个步骤的代码实现，包括模型配置、API调用、批量处理等功能，适合开发者学习参考。</p><p>🎯 最终效果让人惊艳 - 连emoji表情、引用格式、模糊文字都能准确提取，成功率极高！</p><p></p><p>👉👉👉笔记：https://www.aivi.fyi/llms/deploy-Docling+InternVL3+Gemini2.5</p><p>👉👉👉我的开源项目：https://github.com/win4r/AISuperDomain</p><p>👉👉👉请我喝咖啡：https://ko-fi.com/aila</p><p></p><p>🔥🔥🔥YouTube时间戳：</p><p>00:00 - 介绍docling PDF解析工具</p><p>00:14 - docling功能特点和支持格式</p><p>00:38 - PyCharm环境搭建和依赖安装</p><p>01:00 - 基础PDF转Markdown代码演示</p><p>02:00 - 运行代码查看解析效果</p><p>02:44 - 命令行直接解析PDF文件</p><p>03:41 - 扫描版PDF处理方案介绍</p><p>04:02 - 配置LM Studio和InternVL3模型</p><p>05:00 - docling调用InternVL3模型代码详解</p><p>05:50 - 处理扫描版PDF文件演示</p><p>06:30 - 查看InternVL3 OCR解析效果</p><p>07:10 - 使用Gemini 2.5 Pro模型处理PDF</p><p>08:00 - 配置Gemini API和代码运行</p><p>08:40 - 对比Gemini模型解析效果</p><p>09:20 - 总结和资源获取说明</p><p></p><p>#docling #ocr #pdf #pdfpattern #lmstudio #gemini #internvl #agi #ai #vlm #gemini2025</p>]]>
+      </description>
+      <content:encoded><![CDATA[<hr style="clear:both" />
+
+<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/WWPWAi-REl0&t=14" target="_blank"><strong># - docling功能特点和支持格式</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/WWPWAi-REl0_14.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/WWPWAi-REl0&t=38" target="_blank"><strong># - PyCharm环境搭建和依赖安装</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/WWPWAi-REl0_38.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/WWPWAi-REl0&t=60" target="_blank"><strong># - 基础PDF转Markdown代码演示</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/WWPWAi-REl0_60.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/WWPWAi-REl0&t=120" target="_blank"><strong># - 运行代码查看解析效果</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/WWPWAi-REl0_120.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/WWPWAi-REl0&t=164" target="_blank"><strong># - 命令行直接解析PDF文件</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/WWPWAi-REl0_164.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/WWPWAi-REl0&t=221" target="_blank"><strong># - 扫描版PDF处理方案介绍</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/WWPWAi-REl0_221.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/WWPWAi-REl0&t=242" target="_blank"><strong># - 配置LM Studio和InternVL3模型</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/WWPWAi-REl0_242.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/WWPWAi-REl0&t=300" target="_blank"><strong># - docling调用InternVL3模型代码详解</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/WWPWAi-REl0_300.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/WWPWAi-REl0&t=350" target="_blank"><strong># - 处理扫描版PDF文件演示</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/WWPWAi-REl0_350.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/WWPWAi-REl0&t=390" target="_blank"><strong># - 查看InternVL3 OCR解析效果</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/WWPWAi-REl0_390.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/WWPWAi-REl0&t=430" target="_blank"><strong># - 使用Gemini 2.5 Pro模型处理PDF</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/WWPWAi-REl0_430.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/WWPWAi-REl0&t=480" target="_blank"><strong># - 配置Gemini API和代码运行</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/WWPWAi-REl0_480.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/WWPWAi-REl0&t=520" target="_blank"><strong># - 对比Gemini模型解析效果</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/WWPWAi-REl0_520.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/WWPWAi-REl0&t=560" target="_blank"><strong># - 总结和资源获取说明</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/WWPWAi-REl0_560.jpg" /></p></p>
+
+<hr style="clear:both" />
+====
+<p>https://www.youtube.com/watch?v=WWPWAi-REl0</p><p>🚀🚀🚀视频简介：</p><p>✅【企业知识库必备利器保姆级教程】免费开源神器docling震撼来袭！PDF秒变Markdown，扫描文档轻松识别，比付费工具还强大，支持调用InternVL3和Gemini 2.5 Pro模型</p><p>📄 本期视频将详细演示了IBM开源的docling PDF文档解析工具的使用方法！</p><p>🛠️ 视频分为三个部分：</p><p>1.基础使用- 用Python代码和命令行直接解析PDF转Markdown</p><p>2.本地模型 - 配合LM Studio调用InternVL3-9B模型处理扫描版PDF</p><p>3.云端API- 使用Gemini 2.5 Pro模型获得顶级OCR效果</p><p>💻 通过简单代码将复杂PDF文档成功转换为Markdown格式，连表格和图像都能完美保留。</p><p>🔬 针对扫描版PDF，视频展示了如何调用开源视觉模型InternVL3实现精准OCR识别。对于要求更高的场景，还演示了调用Gemini 2.5 Pro API，连模糊不清的扫描文档都能完美解析！</p><p>⚡ 通过docling配合视觉模型，企业知识库项目能轻松处理各种文档格式，大幅提升工作效率！</p><p>📋 视频详细讲解了每个步骤的代码实现，包括模型配置、API调用、批量处理等功能，适合开发者学习参考。</p><p>🎯 最终效果让人惊艳 - 连emoji表情、引用格式、模糊文字都能准确提取，成功率极高！</p><p></p><p>👉👉👉笔记：https://www.aivi.fyi/llms/deploy-Docling+InternVL3+Gemini2.5</p><p>👉👉👉我的开源项目：https://github.com/win4r/AISuperDomain</p><p>👉👉👉请我喝咖啡：https://ko-fi.com/aila</p><p></p><p>🔥🔥🔥YouTube时间戳：</p><p>00:00 - 介绍docling PDF解析工具</p><p>00:14 - docling功能特点和支持格式</p><p>00:38 - PyCharm环境搭建和依赖安装</p><p>01:00 - 基础PDF转Markdown代码演示</p><p>02:00 - 运行代码查看解析效果</p><p>02:44 - 命令行直接解析PDF文件</p><p>03:41 - 扫描版PDF处理方案介绍</p><p>04:02 - 配置LM Studio和InternVL3模型</p><p>05:00 - docling调用InternVL3模型代码详解</p><p>05:50 - 处理扫描版PDF文件演示</p><p>06:30 - 查看InternVL3 OCR解析效果</p><p>07:10 - 使用Gemini 2.5 Pro模型处理PDF</p><p>08:00 - 配置Gemini API和代码运行</p><p>08:40 - 对比Gemini模型解析效果</p><p>09:20 - 总结和资源获取说明</p><p></p><p>#docling #ocr #pdf #pdfpattern #lmstudio #gemini #internvl #agi #ai #vlm #gemini2025</p>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/WWPWAi-REl0/hqdefault.jpg"/>
+      <pubDate>2025-05-11T13:15:39.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[颠覆传统AI智能体！AutoGen革命性创新GraphFlow技术！让AI团队自动协作！5分钟实现实现智能体工作流自动化！AutoGen GraphFlow保姆级实战教程！支持Qwen3与ollama]]></title>
+      <link>https://www.youtube.com/watch?v=q_IdxUGZsow</link>
+      <itunes:title><![CDATA[颠覆传统AI智能体！AutoGen革命性创新GraphFlow技术！让AI团队自动协作！5分钟实现实现智能体工作流自动化！AutoGen GraphFlow保姆级实战教程！支持Qwen3与ollama]]></itunes:title>
+      <itunes:author><![CDATA[AI超元域]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<hr style="clear:both" />
+
+<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/q_IdxUGZsow&t=0" target="_blank"><strong># :12 - GraphFlow 基于图的执行框架介绍</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/q_IdxUGZsow_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/q_IdxUGZsow&t=0" target="_blank"><strong># :34 - 开发环境准备</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/q_IdxUGZsow_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/q_IdxUGZsow&t=0" target="_blank"><strong># :04 - 顺序执行工作流案例讲解</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/q_IdxUGZsow_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/q_IdxUGZsow&t=0" target="_blank"><strong># :13 - 三个翻译相关Agent的定义与配置</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/q_IdxUGZsow_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/q_IdxUGZsow&t=0" target="_blank"><strong># :08 - 构建顺序执行图与执行流程</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/q_IdxUGZsow_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/q_IdxUGZsow&t=0" target="_blank"><strong># :21 - 执行翻译工作流并观察结果</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/q_IdxUGZsow_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/q_IdxUGZsow&t=0" target="_blank"><strong># :08 - 并行执行工作流案例讲解</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/q_IdxUGZsow_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/q_IdxUGZsow&t=0" target="_blank"><strong># :14 - 文章创作并行工作流的设计方式</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/q_IdxUGZsow_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/q_IdxUGZsow&t=0" target="_blank"><strong># :10 - 执行并行文章创作工作流</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/q_IdxUGZsow_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/q_IdxUGZsow&t=0" target="_blank"><strong># :07 - 旅行规划多Agent系统演示</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/q_IdxUGZsow_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/q_IdxUGZsow&t=0" target="_blank"><strong># :51 - 三天尼泊尔旅程规划案例展示</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/q_IdxUGZsow_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/q_IdxUGZsow&t=0" target="_blank"><strong># :24 - 视频总结与资源获取方式</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/q_IdxUGZsow_0.jpg" /></p></p>
+
+<hr style="clear:both" />
+====
+<p>https://www.youtube.com/watch?v=q_IdxUGZsow</p><p>🚀🚀🚀视频简介：</p><p>✅【重磅教程】AutoGen开源框架新增GraphFlow技术，轻松构建多智能体系统，掌握AI未来发展方向，深度解析AutoGen的革命性GraphFlow功能，从顺序执行到并行工作流，打造超强多智能体应用</p><p>🚀 本视频详细演示了开源AI框架AutoGen新增的革命性GraphFlow技术！GraphFlow是一个基于图的执行框架，能让开发者通过有向图精准控制agent之间的交互方式，支持顺序执行、并行执行、条件执行和循环执行等复杂工作流模式。</p><p>🔍 视频通过三个实用案例展示GraphFlow的强大功能：</p><p>1️⃣ 顺序执行工作流：构建一个三阶段翻译系统，由翻译agent、校对agent和格式化agent按顺序协作，展示了如何在PyCharm中配置环境并调用不同模型（GPT-4.1、Gemini 2.0 Flash和Qwen3-14B）。</p><p>2️⃣ 并行执行工作流：创建一个文章创作系统，多个agent并行处理不同任务（语法检查、风格编辑），最后由终审编辑agent整合输出。</p><p>3️⃣ 旅行规划系统：构建更复杂的多agent系统，包括旅行规划师、当地专家和语言专家，通过MessageFilterAgent控制信息流，完成旅行规划任务。</p><p></p><p>👉👉👉笔记：https://www.aivi.fyi/aiagents/introduce-AutoGen-GraphFlow</p><p>👉👉👉我的开源项目：https://github.com/win4r/AISuperDomain</p><p>👉👉👉请我喝咖啡：https://ko-fi.com/aila</p><p></p><p>🔥🔥🔥YouTube时间戳：</p><p>00:00:00 - AutoGen GraphFlow 简介</p><p>00:00:12 - GraphFlow 基于图的执行框架介绍</p><p>00:00:34 - 开发环境准备</p><p>00:01:04 - 顺序执行工作流案例讲解</p><p>00:03:13 - 三个翻译相关Agent的定义与配置</p><p>00:04:08 - 构建顺序执行图与执行流程</p><p>00:05:21 - 执行翻译工作流并观察结果</p><p>00:06:08 - 并行执行工作流案例讲解</p><p>00:07:14 - 文章创作并行工作流的设计方式</p><p>00:09:10 - 执行并行文章创作工作流</p><p>00:10:07 - 旅行规划多Agent系统演示</p><p>00:11:51 - 三天尼泊尔旅程规划案例展示</p><p>00:12:24 - 视频总结与资源获取方式</p><p></p><p>#autogen #aiagents #aiagent #ollama #qwen3 #gemini #gpt41 #agents #llm #ai #workflow #agi</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<hr style="clear:both" />
+
+<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/q_IdxUGZsow&t=0" target="_blank"><strong># :12 - GraphFlow 基于图的执行框架介绍</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/q_IdxUGZsow_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/q_IdxUGZsow&t=0" target="_blank"><strong># :34 - 开发环境准备</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/q_IdxUGZsow_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/q_IdxUGZsow&t=0" target="_blank"><strong># :04 - 顺序执行工作流案例讲解</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/q_IdxUGZsow_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/q_IdxUGZsow&t=0" target="_blank"><strong># :13 - 三个翻译相关Agent的定义与配置</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/q_IdxUGZsow_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/q_IdxUGZsow&t=0" target="_blank"><strong># :08 - 构建顺序执行图与执行流程</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/q_IdxUGZsow_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/q_IdxUGZsow&t=0" target="_blank"><strong># :21 - 执行翻译工作流并观察结果</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/q_IdxUGZsow_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/q_IdxUGZsow&t=0" target="_blank"><strong># :08 - 并行执行工作流案例讲解</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/q_IdxUGZsow_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/q_IdxUGZsow&t=0" target="_blank"><strong># :14 - 文章创作并行工作流的设计方式</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/q_IdxUGZsow_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/q_IdxUGZsow&t=0" target="_blank"><strong># :10 - 执行并行文章创作工作流</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/q_IdxUGZsow_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/q_IdxUGZsow&t=0" target="_blank"><strong># :07 - 旅行规划多Agent系统演示</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/q_IdxUGZsow_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/q_IdxUGZsow&t=0" target="_blank"><strong># :51 - 三天尼泊尔旅程规划案例展示</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/q_IdxUGZsow_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/q_IdxUGZsow&t=0" target="_blank"><strong># :24 - 视频总结与资源获取方式</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/q_IdxUGZsow_0.jpg" /></p></p>
+
+<hr style="clear:both" />
+====
+<p>https://www.youtube.com/watch?v=q_IdxUGZsow</p><p>🚀🚀🚀视频简介：</p><p>✅【重磅教程】AutoGen开源框架新增GraphFlow技术，轻松构建多智能体系统，掌握AI未来发展方向，深度解析AutoGen的革命性GraphFlow功能，从顺序执行到并行工作流，打造超强多智能体应用</p><p>🚀 本视频详细演示了开源AI框架AutoGen新增的革命性GraphFlow技术！GraphFlow是一个基于图的执行框架，能让开发者通过有向图精准控制agent之间的交互方式，支持顺序执行、并行执行、条件执行和循环执行等复杂工作流模式。</p><p>🔍 视频通过三个实用案例展示GraphFlow的强大功能：</p><p>1️⃣ 顺序执行工作流：构建一个三阶段翻译系统，由翻译agent、校对agent和格式化agent按顺序协作，展示了如何在PyCharm中配置环境并调用不同模型（GPT-4.1、Gemini 2.0 Flash和Qwen3-14B）。</p><p>2️⃣ 并行执行工作流：创建一个文章创作系统，多个agent并行处理不同任务（语法检查、风格编辑），最后由终审编辑agent整合输出。</p><p>3️⃣ 旅行规划系统：构建更复杂的多agent系统，包括旅行规划师、当地专家和语言专家，通过MessageFilterAgent控制信息流，完成旅行规划任务。</p><p></p><p>👉👉👉笔记：https://www.aivi.fyi/aiagents/introduce-AutoGen-GraphFlow</p><p>👉👉👉我的开源项目：https://github.com/win4r/AISuperDomain</p><p>👉👉👉请我喝咖啡：https://ko-fi.com/aila</p><p></p><p>🔥🔥🔥YouTube时间戳：</p><p>00:00:00 - AutoGen GraphFlow 简介</p><p>00:00:12 - GraphFlow 基于图的执行框架介绍</p><p>00:00:34 - 开发环境准备</p><p>00:01:04 - 顺序执行工作流案例讲解</p><p>00:03:13 - 三个翻译相关Agent的定义与配置</p><p>00:04:08 - 构建顺序执行图与执行流程</p><p>00:05:21 - 执行翻译工作流并观察结果</p><p>00:06:08 - 并行执行工作流案例讲解</p><p>00:07:14 - 文章创作并行工作流的设计方式</p><p>00:09:10 - 执行并行文章创作工作流</p><p>00:10:07 - 旅行规划多Agent系统演示</p><p>00:11:51 - 三天尼泊尔旅程规划案例展示</p><p>00:12:24 - 视频总结与资源获取方式</p><p></p><p>#autogen #aiagents #aiagent #ollama #qwen3 #gemini #gpt41 #agents #llm #ai #workflow #agi</p>]]>
+      </description>
+      <content:encoded><![CDATA[<hr style="clear:both" />
+
+<p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/q_IdxUGZsow&t=0" target="_blank"><strong># :12 - GraphFlow 基于图的执行框架介绍</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/q_IdxUGZsow_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/q_IdxUGZsow&t=0" target="_blank"><strong># :34 - 开发环境准备</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/q_IdxUGZsow_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/q_IdxUGZsow&t=0" target="_blank"><strong># :04 - 顺序执行工作流案例讲解</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/q_IdxUGZsow_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/q_IdxUGZsow&t=0" target="_blank"><strong># :13 - 三个翻译相关Agent的定义与配置</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/q_IdxUGZsow_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/q_IdxUGZsow&t=0" target="_blank"><strong># :08 - 构建顺序执行图与执行流程</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/q_IdxUGZsow_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/q_IdxUGZsow&t=0" target="_blank"><strong># :21 - 执行翻译工作流并观察结果</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/q_IdxUGZsow_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/q_IdxUGZsow&t=0" target="_blank"><strong># :08 - 并行执行工作流案例讲解</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/q_IdxUGZsow_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/q_IdxUGZsow&t=0" target="_blank"><strong># :14 - 文章创作并行工作流的设计方式</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/q_IdxUGZsow_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/q_IdxUGZsow&t=0" target="_blank"><strong># :10 - 执行并行文章创作工作流</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/q_IdxUGZsow_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/q_IdxUGZsow&t=0" target="_blank"><strong># :07 - 旅行规划多Agent系统演示</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/q_IdxUGZsow_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/q_IdxUGZsow&t=0" target="_blank"><strong># :51 - 三天尼泊尔旅程规划案例展示</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/q_IdxUGZsow_0.jpg" /></p></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><a href="https://youtu.be/q_IdxUGZsow&t=0" target="_blank"><strong># :24 - 视频总结与资源获取方式</strong></a></p><p style="max-width: calc(100vw - 1rem);  word-wrap: break-word; overflow-wrap: break-word; "><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/q_IdxUGZsow_0.jpg" /></p></p>
+
+<hr style="clear:both" />
+====
+<p>https://www.youtube.com/watch?v=q_IdxUGZsow</p><p>🚀🚀🚀视频简介：</p><p>✅【重磅教程】AutoGen开源框架新增GraphFlow技术，轻松构建多智能体系统，掌握AI未来发展方向，深度解析AutoGen的革命性GraphFlow功能，从顺序执行到并行工作流，打造超强多智能体应用</p><p>🚀 本视频详细演示了开源AI框架AutoGen新增的革命性GraphFlow技术！GraphFlow是一个基于图的执行框架，能让开发者通过有向图精准控制agent之间的交互方式，支持顺序执行、并行执行、条件执行和循环执行等复杂工作流模式。</p><p>🔍 视频通过三个实用案例展示GraphFlow的强大功能：</p><p>1️⃣ 顺序执行工作流：构建一个三阶段翻译系统，由翻译agent、校对agent和格式化agent按顺序协作，展示了如何在PyCharm中配置环境并调用不同模型（GPT-4.1、Gemini 2.0 Flash和Qwen3-14B）。</p><p>2️⃣ 并行执行工作流：创建一个文章创作系统，多个agent并行处理不同任务（语法检查、风格编辑），最后由终审编辑agent整合输出。</p><p>3️⃣ 旅行规划系统：构建更复杂的多agent系统，包括旅行规划师、当地专家和语言专家，通过MessageFilterAgent控制信息流，完成旅行规划任务。</p><p></p><p>👉👉👉笔记：https://www.aivi.fyi/aiagents/introduce-AutoGen-GraphFlow</p><p>👉👉👉我的开源项目：https://github.com/win4r/AISuperDomain</p><p>👉👉👉请我喝咖啡：https://ko-fi.com/aila</p><p></p><p>🔥🔥🔥YouTube时间戳：</p><p>00:00:00 - AutoGen GraphFlow 简介</p><p>00:00:12 - GraphFlow 基于图的执行框架介绍</p><p>00:00:34 - 开发环境准备</p><p>00:01:04 - 顺序执行工作流案例讲解</p><p>00:03:13 - 三个翻译相关Agent的定义与配置</p><p>00:04:08 - 构建顺序执行图与执行流程</p><p>00:05:21 - 执行翻译工作流并观察结果</p><p>00:06:08 - 并行执行工作流案例讲解</p><p>00:07:14 - 文章创作并行工作流的设计方式</p><p>00:09:10 - 执行并行文章创作工作流</p><p>00:10:07 - 旅行规划多Agent系统演示</p><p>00:11:51 - 三天尼泊尔旅程规划案例展示</p><p>00:12:24 - 视频总结与资源获取方式</p><p></p><p>#autogen #aiagents #aiagent #ollama #qwen3 #gemini #gpt41 #agents #llm #ai #workflow #agi</p>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/q_IdxUGZsow/hqdefault.jpg"/>
+      <pubDate>2025-05-09T12:32:13.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[OCR能力倍增！n8n+Gemini 2.5 pro 0506三分钟打造全自动OCR工作流！保姆级教程搭建企业级OCR识别工作流！高难度扫描件实测Gemini2.5！不懂编程也能搭建自己的自动化工作流]]></title>
+      <link>https://www.youtube.com/watch?v=nb87POhO6aA</link>
+      <itunes:title><![CDATA[OCR能力倍增！n8n+Gemini 2.5 pro 0506三分钟打造全自动OCR工作流！保姆级教程搭建企业级OCR识别工作流！高难度扫描件实测Gemini2.5！不懂编程也能搭建自己的自动化工作流]]></itunes:title>
+      <itunes:author><![CDATA[AI超元域]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=nb87POhO6aA
+🚀🚀🚀视频简介：
+✅【震撼OCR技术】Gemini 2.5 Pro挑战极限！扭曲字体、模糊扫描件准确识别，连遮挡文字都能推理还原！5分钟搭建n8n自动化工作流批量处理让企业文档识别效率提升300%，解决企业文档识别痛点的终极方案
+📱 本视频深入测试了谷歌最新发布的Gemini 2.5 Pro模型在OCR文字识别方面的惊人能力！我们使用了多种极具挑战性的图像进行测试：PS扭曲字体的产品包装📦、金属雕刻效果文字✨、模糊旧报纸📰，甚至是有遮挡的复杂扫描件📄。
+🧪 测试结果令人震惊！Gemini 2.5 Pro不仅能完美识别各种扭曲变形的字体，还能通过上下文推理还原被遮挡的文字内容，OCR能力远超前代模型！🚀
+⚙️ 视频第二部分，我们手把手教你如何使用n8n无代码平台搭建自动化OCR工作流，即使不懂编程也能在几分钟内完成！而且还详细讲解了从安装nodejs、搭建n8n环境、配置Gemini API，到实现批量文档自动OCR识别的全过程。✅
+🏆 通过简单几步配置，就能实现批量自动化OCR识别，将结果保存为标准TXT文本，大幅提升工作效率！💯
+
+👉👉👉笔记：https://www.aivi.fyi/llms/deploy-n8n+Gemini-2.5-pro-0506-for-OCR
+👉👉👉我的开源项目：https://github.com/win4r/AISuperDomain
+👉👉👉请我喝咖啡：https://ko-fi.com/aila
+
+🔥🔥🔥YouTube时间戳：
+00:00 - Gemini 2.5 Pro介绍与OCR能力概述
+00:40 - 使用难度较高的扫描图像测试OCR能力
+01:08 - 测试扭曲字体的包装图像
+01:39 - 使用AI Studio进行第一次测试
+02:17 - 金属雕刻效果图像测试
+02:54 - 旧报纸扫描件测试
+03:57 - 模糊图像识别测试
+04:58 - n8n自动化工作流搭建准备
+05:36 - 创建批量OCR工作流
+06:20 - 读取文件节点设置
+07:04 - 循环处理图像
+07:38 - 将图像转为base64编码
+08:07 - 配置Gemini API接口
+09:34 - 转换OCR结果为纯文本
+10:29 - 保存结果到本地文件
+12:34 - 查看OCR识别结果与验证
+13:12 - 总结与代码资源获取方式
+
+#ocr #gemini ni #n8n #n8ntutorial #gemini2025 #gemini25 #aiworkflow #ai #aigc #agi #pdf]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=nb87POhO6aA
+🚀🚀🚀视频简介：
+✅【震撼OCR技术】Gemini 2.5 Pro挑战极限！扭曲字体、模糊扫描件准确识别，连遮挡文字都能推理还原！5分钟搭建n8n自动化工作流批量处理让企业文档识别效率提升300%，解决企业文档识别痛点的终极方案
+📱 本视频深入测试了谷歌最新发布的Gemini 2.5 Pro模型在OCR文字识别方面的惊人能力！我们使用了多种极具挑战性的图像进行测试：PS扭曲字体的产品包装📦、金属雕刻效果文字✨、模糊旧报纸📰，甚至是有遮挡的复杂扫描件📄。
+🧪 测试结果令人震惊！Gemini 2.5 Pro不仅能完美识别各种扭曲变形的字体，还能通过上下文推理还原被遮挡的文字内容，OCR能力远超前代模型！🚀
+⚙️ 视频第二部分，我们手把手教你如何使用n8n无代码平台搭建自动化OCR工作流，即使不懂编程也能在几分钟内完成！而且还详细讲解了从安装nodejs、搭建n8n环境、配置Gemini API，到实现批量文档自动OCR识别的全过程。✅
+🏆 通过简单几步配置，就能实现批量自动化OCR识别，将结果保存为标准TXT文本，大幅提升工作效率！💯
+
+👉👉👉笔记：https://www.aivi.fyi/llms/deploy-n8n+Gemini-2.5-pro-0506-for-OCR
+👉👉👉我的开源项目：https://github.com/win4r/AISuperDomain
+👉👉👉请我喝咖啡：https://ko-fi.com/aila
+
+🔥🔥🔥YouTube时间戳：
+00:00 - Gemini 2.5 Pro介绍与OCR能力概述
+00:40 - 使用难度较高的扫描图像测试OCR能力
+01:08 - 测试扭曲字体的包装图像
+01:39 - 使用AI Studio进行第一次测试
+02:17 - 金属雕刻效果图像测试
+02:54 - 旧报纸扫描件测试
+03:57 - 模糊图像识别测试
+04:58 - n8n自动化工作流搭建准备
+05:36 - 创建批量OCR工作流
+06:20 - 读取文件节点设置
+07:04 - 循环处理图像
+07:38 - 将图像转为base64编码
+08:07 - 配置Gemini API接口
+09:34 - 转换OCR结果为纯文本
+10:29 - 保存结果到本地文件
+12:34 - 查看OCR识别结果与验证
+13:12 - 总结与代码资源获取方式
+
+#ocr #gemini ni #n8n #n8ntutorial #gemini2025 #gemini25 #aiworkflow #ai #aigc #agi #pdf]]>
+      </description>
+      <content:encoded><![CDATA[https://www.youtube.com/watch?v=nb87POhO6aA
+🚀🚀🚀视频简介：
+✅【震撼OCR技术】Gemini 2.5 Pro挑战极限！扭曲字体、模糊扫描件准确识别，连遮挡文字都能推理还原！5分钟搭建n8n自动化工作流批量处理让企业文档识别效率提升300%，解决企业文档识别痛点的终极方案
+📱 本视频深入测试了谷歌最新发布的Gemini 2.5 Pro模型在OCR文字识别方面的惊人能力！我们使用了多种极具挑战性的图像进行测试：PS扭曲字体的产品包装📦、金属雕刻效果文字✨、模糊旧报纸📰，甚至是有遮挡的复杂扫描件📄。
+🧪 测试结果令人震惊！Gemini 2.5 Pro不仅能完美识别各种扭曲变形的字体，还能通过上下文推理还原被遮挡的文字内容，OCR能力远超前代模型！🚀
+⚙️ 视频第二部分，我们手把手教你如何使用n8n无代码平台搭建自动化OCR工作流，即使不懂编程也能在几分钟内完成！而且还详细讲解了从安装nodejs、搭建n8n环境、配置Gemini API，到实现批量文档自动OCR识别的全过程。✅
+🏆 通过简单几步配置，就能实现批量自动化OCR识别，将结果保存为标准TXT文本，大幅提升工作效率！💯
+
+👉👉👉笔记：https://www.aivi.fyi/llms/deploy-n8n+Gemini-2.5-pro-0506-for-OCR
+👉👉👉我的开源项目：https://github.com/win4r/AISuperDomain
+👉👉👉请我喝咖啡：https://ko-fi.com/aila
+
+🔥🔥🔥YouTube时间戳：
+00:00 - Gemini 2.5 Pro介绍与OCR能力概述
+00:40 - 使用难度较高的扫描图像测试OCR能力
+01:08 - 测试扭曲字体的包装图像
+01:39 - 使用AI Studio进行第一次测试
+02:17 - 金属雕刻效果图像测试
+02:54 - 旧报纸扫描件测试
+03:57 - 模糊图像识别测试
+04:58 - n8n自动化工作流搭建准备
+05:36 - 创建批量OCR工作流
+06:20 - 读取文件节点设置
+07:04 - 循环处理图像
+07:38 - 将图像转为base64编码
+08:07 - 配置Gemini API接口
+09:34 - 转换OCR结果为纯文本
+10:29 - 保存结果到本地文件
+12:34 - 查看OCR识别结果与验证
+13:12 - 总结与代码资源获取方式
+
+#ocr #gemini ni #n8n #n8ntutorial #gemini2025 #gemini25 #aiworkflow #ai #aigc #agi #pdf]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/nb87POhO6aA/hqdefault.jpg"/>
+      <pubDate>2025-05-07T08:51:13.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[🚀unsloth微调Qwen3大模型保姆级视频教程！从数据处理到LoRA微调Qwen3-14B到4比特量化并且用LM Studio运行！零代码基础也能完成的LoRA高效微调全过程详解！小白也能轻松入门]]></title>
+      <link>https://www.youtube.com/watch?v=opk1f-XtIsw</link>
+      <itunes:title><![CDATA[🚀unsloth微调Qwen3大模型保姆级视频教程！从数据处理到LoRA微调Qwen3-14B到4比特量化并且用LM Studio运行！零代码基础也能完成的LoRA高效微调全过程详解！小白也能轻松入门]]></itunes:title>
+      <itunes:author><![CDATA[AI超元域]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=opk1f-XtIsw
+🚀🚀🚀视频简介：
+✅【保姆级教程】如何利用Unsloth框架让你的Qwen3大模型变身数学解题专家——详细微调步骤与实操演示从配置到测试全流程。让阿里巴巴的Qwen3大模型为你所用：从环境配置到数据处理，零代码基础也能完成的LoRA高效微调全过程详解。
+✅本视频详细演示了如何使用Unsloth框架对阿里巴巴的Qwen3系列开源大模型进行LoRA微调 🧠，让模型具备普通对话和深度思考的双模式能力！
+从微调原理讲起 📚，讲解何时需要微调大模型及LoRA技术的优势。
+通过Colab平台 💻，完整展示环境配置、数据处理、参数设置和微调全过程。
+微调后的模型不仅保留自然对话能力 💬，还能解决复杂数学问题 🔢！
+最后，将微调后的模型以4比特量化为GGUF格式 📊，部署到LM Studio进行本地测试。
+无需高端设备 ✨，普通电脑也能轻松运行这个强大的AI助手！🌟
+
+👉👉👉colab笔记：https://colab.research.google.com/drive/1pfv8UvNyLhB0ZKbhl7jbCeHcHBUN12Ai?usp=sharing
+👉👉👉博客笔记：https://www.aivi.fyi/llms/Fine-Tuning-Qwen3-14B
+👉👉👉我的开源项目：https://github.com/win4r/AISuperDomain
+👉👉👉请我喝咖啡：https://ko-fi.com/aila
+
+🔥🔥🔥YouTube时间戳：
+00:00:00 - 阿里巴巴发布的Qwen3系列开源大模型简介
+00:00:14 - 如何使用unsloth框架微调Qwen3模型
+00:00:39 - 什么情况下需要微调大模型
+00:01:44 - LoRA微调的优势与应用场景
+00:02:24 - 双模式能力微调案例介绍
+00:03:03 - 准备谷歌Colab环境与设置
+00:04:02 - 加载和处理数据集
+00:07:01 - 开始执行模型微调过程
+00:07:26 - 测试普通对话与思考模式效果
+00:08:01 - 保存微调后模型到Hugging Face
+00:09:19 - 量化模型并保存到Google Drive
+00:11:04 - 在LM Studio中加载微调后的模型
+00:11:59 - 测试微调后模型的数学解题能力
+00:12:42 - 视频总结与资源获取方式
+
+#qwen3 #qwen #finetuning #finetune #llm #ai #aigc #agi #unsloth #lora]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=opk1f-XtIsw
+🚀🚀🚀视频简介：
+✅【保姆级教程】如何利用Unsloth框架让你的Qwen3大模型变身数学解题专家——详细微调步骤与实操演示从配置到测试全流程。让阿里巴巴的Qwen3大模型为你所用：从环境配置到数据处理，零代码基础也能完成的LoRA高效微调全过程详解。
+✅本视频详细演示了如何使用Unsloth框架对阿里巴巴的Qwen3系列开源大模型进行LoRA微调 🧠，让模型具备普通对话和深度思考的双模式能力！
+从微调原理讲起 📚，讲解何时需要微调大模型及LoRA技术的优势。
+通过Colab平台 💻，完整展示环境配置、数据处理、参数设置和微调全过程。
+微调后的模型不仅保留自然对话能力 💬，还能解决复杂数学问题 🔢！
+最后，将微调后的模型以4比特量化为GGUF格式 📊，部署到LM Studio进行本地测试。
+无需高端设备 ✨，普通电脑也能轻松运行这个强大的AI助手！🌟
+
+👉👉👉colab笔记：https://colab.research.google.com/drive/1pfv8UvNyLhB0ZKbhl7jbCeHcHBUN12Ai?usp=sharing
+👉👉👉博客笔记：https://www.aivi.fyi/llms/Fine-Tuning-Qwen3-14B
+👉👉👉我的开源项目：https://github.com/win4r/AISuperDomain
+👉👉👉请我喝咖啡：https://ko-fi.com/aila
+
+🔥🔥🔥YouTube时间戳：
+00:00:00 - 阿里巴巴发布的Qwen3系列开源大模型简介
+00:00:14 - 如何使用unsloth框架微调Qwen3模型
+00:00:39 - 什么情况下需要微调大模型
+00:01:44 - LoRA微调的优势与应用场景
+00:02:24 - 双模式能力微调案例介绍
+00:03:03 - 准备谷歌Colab环境与设置
+00:04:02 - 加载和处理数据集
+00:07:01 - 开始执行模型微调过程
+00:07:26 - 测试普通对话与思考模式效果
+00:08:01 - 保存微调后模型到Hugging Face
+00:09:19 - 量化模型并保存到Google Drive
+00:11:04 - 在LM Studio中加载微调后的模型
+00:11:59 - 测试微调后模型的数学解题能力
+00:12:42 - 视频总结与资源获取方式
+
+#qwen3 #qwen #finetuning #finetune #llm #ai #aigc #agi #unsloth #lora]]>
+      </description>
+      <content:encoded><![CDATA[https://www.youtube.com/watch?v=opk1f-XtIsw
+🚀🚀🚀视频简介：
+✅【保姆级教程】如何利用Unsloth框架让你的Qwen3大模型变身数学解题专家——详细微调步骤与实操演示从配置到测试全流程。让阿里巴巴的Qwen3大模型为你所用：从环境配置到数据处理，零代码基础也能完成的LoRA高效微调全过程详解。
+✅本视频详细演示了如何使用Unsloth框架对阿里巴巴的Qwen3系列开源大模型进行LoRA微调 🧠，让模型具备普通对话和深度思考的双模式能力！
+从微调原理讲起 📚，讲解何时需要微调大模型及LoRA技术的优势。
+通过Colab平台 💻，完整展示环境配置、数据处理、参数设置和微调全过程。
+微调后的模型不仅保留自然对话能力 💬，还能解决复杂数学问题 🔢！
+最后，将微调后的模型以4比特量化为GGUF格式 📊，部署到LM Studio进行本地测试。
+无需高端设备 ✨，普通电脑也能轻松运行这个强大的AI助手！🌟
+
+👉👉👉colab笔记：https://colab.research.google.com/drive/1pfv8UvNyLhB0ZKbhl7jbCeHcHBUN12Ai?usp=sharing
+👉👉👉博客笔记：https://www.aivi.fyi/llms/Fine-Tuning-Qwen3-14B
+👉👉👉我的开源项目：https://github.com/win4r/AISuperDomain
+👉👉👉请我喝咖啡：https://ko-fi.com/aila
+
+🔥🔥🔥YouTube时间戳：
+00:00:00 - 阿里巴巴发布的Qwen3系列开源大模型简介
+00:00:14 - 如何使用unsloth框架微调Qwen3模型
+00:00:39 - 什么情况下需要微调大模型
+00:01:44 - LoRA微调的优势与应用场景
+00:02:24 - 双模式能力微调案例介绍
+00:03:03 - 准备谷歌Colab环境与设置
+00:04:02 - 加载和处理数据集
+00:07:01 - 开始执行模型微调过程
+00:07:26 - 测试普通对话与思考模式效果
+00:08:01 - 保存微调后模型到Hugging Face
+00:09:19 - 量化模型并保存到Google Drive
+00:11:04 - 在LM Studio中加载微调后的模型
+00:11:59 - 测试微调后模型的数学解题能力
+00:12:42 - 视频总结与资源获取方式
+
+#qwen3 #qwen #finetuning #finetune #llm #ai #aigc #agi #unsloth #lora]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/opk1f-XtIsw/hqdefault.jpg"/>
+      <pubDate>2025-05-03T14:08:27.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[🚀AI颠覆数学领域！客观测评6710亿参数开源大模型DeepSeek-Prover-V2-671B！专攻形式化定理证明，彻底改变研究者探索数学真理的方式！代数、几何、微积分样样精通！AI取代数学家教！]]></title>
+      <link>https://www.youtube.com/watch?v=wRYo-Ua4Zbc</link>
+      <itunes:title><![CDATA[🚀AI颠覆数学领域！客观测评6710亿参数开源大模型DeepSeek-Prover-V2-671B！专攻形式化定理证明，彻底改变研究者探索数学真理的方式！代数、几何、微积分样样精通！AI取代数学家教！]]></itunes:title>
+      <itunes:author><![CDATA[AI超元域]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=wRYo-Ua4Zbc
+🚀🚀🚀视频简介：
+✅【真实客观测评】当AI遇上数学：深度解析DeepSeek-Prover-V2如何运用形式化推理解决阶乘、线性代数、积分等多领域数学难题的惊艳表现
+📊 本期视频详细测评了DeepSeek最新发布的数学定理证明大模型！
+🔍 通过15道不同难度和领域的数学题全面测试模型性能，涵盖代数、几何、数论、积分等领域。
+👨‍🏫 从简单的青蛙爬井问题到复杂的LaTeX格式高等数学，模型仅错3题，展现出令人惊叹的推理能力和详细解题步骤！
+🚀 见证AI如何解决代币博弈、巧克力工厂时间计算等复杂问题，为数学学习和研究带来革命性辅助工具。
+
+👉👉👉笔记：https://www.aivi.fyi/llms/introduce-DeepSeek-Prover-V2-671B
+👉👉👉我的开源项目：https://github.com/win4r/AISuperDomain
+👉👉👉请我喝咖啡：https://ko-fi.com/aila
+
+🔥🔥🔥YouTube时间戳：
+00:00:00 - DeepSeek发布数学证明大模型DeepSeek-Prover-V2-671B
+00:00:20 - 模型特点与适用领域
+00:00:35 - 开始测试模型数学能力
+00:01:08 - 第一题：青蛙爬井问题
+00:01:45 - 第二题：弹珠颜色比例计算
+00:02:26 - 第三题：2*3网格染色方法数量
+00:03:01 - 第四题：整数乘积与差值问题
+00:03:32 - 第五题：阶乘与2024的关系
+00:03:59 - 第六题：巧克力工厂打包时间
+00:04:44 - 第七题：画框面积比例
+00:05:11 - 第八题：代币博弈问题
+00:05:59 - 之后的题目：高级数论与代数题
+00:09:23 - 总结：模型在15道测试题中答对12题
+00:09:55 - 视频结束
+
+#deepseek #deepseekai #deepseekv2 #ai #aigc #aimathsteacher #aicoding #llm #aiagents]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=wRYo-Ua4Zbc
+🚀🚀🚀视频简介：
+✅【真实客观测评】当AI遇上数学：深度解析DeepSeek-Prover-V2如何运用形式化推理解决阶乘、线性代数、积分等多领域数学难题的惊艳表现
+📊 本期视频详细测评了DeepSeek最新发布的数学定理证明大模型！
+🔍 通过15道不同难度和领域的数学题全面测试模型性能，涵盖代数、几何、数论、积分等领域。
+👨‍🏫 从简单的青蛙爬井问题到复杂的LaTeX格式高等数学，模型仅错3题，展现出令人惊叹的推理能力和详细解题步骤！
+🚀 见证AI如何解决代币博弈、巧克力工厂时间计算等复杂问题，为数学学习和研究带来革命性辅助工具。
+
+👉👉👉笔记：https://www.aivi.fyi/llms/introduce-DeepSeek-Prover-V2-671B
+👉👉👉我的开源项目：https://github.com/win4r/AISuperDomain
+👉👉👉请我喝咖啡：https://ko-fi.com/aila
+
+🔥🔥🔥YouTube时间戳：
+00:00:00 - DeepSeek发布数学证明大模型DeepSeek-Prover-V2-671B
+00:00:20 - 模型特点与适用领域
+00:00:35 - 开始测试模型数学能力
+00:01:08 - 第一题：青蛙爬井问题
+00:01:45 - 第二题：弹珠颜色比例计算
+00:02:26 - 第三题：2*3网格染色方法数量
+00:03:01 - 第四题：整数乘积与差值问题
+00:03:32 - 第五题：阶乘与2024的关系
+00:03:59 - 第六题：巧克力工厂打包时间
+00:04:44 - 第七题：画框面积比例
+00:05:11 - 第八题：代币博弈问题
+00:05:59 - 之后的题目：高级数论与代数题
+00:09:23 - 总结：模型在15道测试题中答对12题
+00:09:55 - 视频结束
+
+#deepseek #deepseekai #deepseekv2 #ai #aigc #aimathsteacher #aicoding #llm #aiagents]]>
+      </description>
+      <content:encoded><![CDATA[https://www.youtube.com/watch?v=wRYo-Ua4Zbc
+🚀🚀🚀视频简介：
+✅【真实客观测评】当AI遇上数学：深度解析DeepSeek-Prover-V2如何运用形式化推理解决阶乘、线性代数、积分等多领域数学难题的惊艳表现
+📊 本期视频详细测评了DeepSeek最新发布的数学定理证明大模型！
+🔍 通过15道不同难度和领域的数学题全面测试模型性能，涵盖代数、几何、数论、积分等领域。
+👨‍🏫 从简单的青蛙爬井问题到复杂的LaTeX格式高等数学，模型仅错3题，展现出令人惊叹的推理能力和详细解题步骤！
+🚀 见证AI如何解决代币博弈、巧克力工厂时间计算等复杂问题，为数学学习和研究带来革命性辅助工具。
+
+👉👉👉笔记：https://www.aivi.fyi/llms/introduce-DeepSeek-Prover-V2-671B
+👉👉👉我的开源项目：https://github.com/win4r/AISuperDomain
+👉👉👉请我喝咖啡：https://ko-fi.com/aila
+
+🔥🔥🔥YouTube时间戳：
+00:00:00 - DeepSeek发布数学证明大模型DeepSeek-Prover-V2-671B
+00:00:20 - 模型特点与适用领域
+00:00:35 - 开始测试模型数学能力
+00:01:08 - 第一题：青蛙爬井问题
+00:01:45 - 第二题：弹珠颜色比例计算
+00:02:26 - 第三题：2*3网格染色方法数量
+00:03:01 - 第四题：整数乘积与差值问题
+00:03:32 - 第五题：阶乘与2024的关系
+00:03:59 - 第六题：巧克力工厂打包时间
+00:04:44 - 第七题：画框面积比例
+00:05:11 - 第八题：代币博弈问题
+00:05:59 - 之后的题目：高级数论与代数题
+00:09:23 - 总结：模型在15道测试题中答对12题
+00:09:55 - 视频结束
+
+#deepseek #deepseekai #deepseekv2 #ai #aigc #aimathsteacher #aicoding #llm #aiagents]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/wRYo-Ua4Zbc/hqdefault.jpg"/>
+      <pubDate>2025-05-01T08:23:05.000Z</pubDate>
+    </item></channel>
+</rss>
