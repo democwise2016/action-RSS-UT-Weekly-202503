@@ -65,12 +65,6 @@ let feedList = [
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
   {
-    title: '山小日子',
-    feedID: 'Samsdailyproduction',
-    homepageURL: 'https://www.youtube.com/channel/UCcFEKnC141Fg-YSltWOmDaA',
-    itemFilters: ItemFiltersPreset.between3minTo30Min,
-  },
-  {
     title: '钟文泽',
     feedID: 'zhongwenze',
     homepageURL: 'https://www.youtube.com/channel/UCT1YrR_CLpwosODYagzhm7Q',
