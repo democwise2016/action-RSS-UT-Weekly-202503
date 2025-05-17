@@ -70,6 +70,12 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/channel/UCT1YrR_CLpwosODYagzhm7Q',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
+  {
+    title: '翼王 玩 3C',
+    feedID: 'WingStudio666',
+    homepageURL: 'https://www.youtube.com/channel/UCxcuxsAjdnQaiRwYb5CVISw',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
 ]
 
 // 
