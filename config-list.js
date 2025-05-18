@@ -76,6 +76,12 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/channel/UCxcuxsAjdnQaiRwYb5CVISw',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
+  {
+    title: '三個字SunGuts 聊 健康',
+    feedID: 'sunguts',
+    homepageURL: 'https://www.youtube.com/channel/UCTPPmVw8pCUmw9tfY_MaKNg',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
 ]
 
 // 
