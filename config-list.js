@@ -34,6 +34,9 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/channel/UCXgnKgUBxUlRABoWK7a5A5Q',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
+
+  // ======  以上 5 個 ==========
+  
   {
     title: '技术爬爬虾  TechShrimp',
     feedID: 'Tech_Shrimp',
@@ -64,6 +67,9 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/channel/UCckzc03-ycrpB1XIUfRhpnw',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
+
+  // ======  以上 10 個 ==========
+  
   {
     title: '钟文泽',
     feedID: 'zhongwenze',
@@ -82,6 +88,22 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/channel/UCTPPmVw8pCUmw9tfY_MaKNg',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
+
+  {
+    title: '嚼豆 聊 遊戲王',
+    feedID: 'DOW2233',
+    homepageURL: 'https://www.youtube.com/channel/UCerJk0-d22M7MFy8opOuyjA',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
+
+  {
+    title: '逸馬的桌遊小教室',
+    feedID: 'YeeMaBG',
+    homepageURL: 'https://www.youtube.com/channel/UCrTXSmSiUVSrLrK5FZ16BGA',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
+
+  // ===== 以上 15 個，滿了！ =========
 ]
 
 // 
