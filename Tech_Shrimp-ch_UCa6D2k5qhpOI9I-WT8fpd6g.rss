@@ -30,6 +30,70 @@
     </itunes:owner>
     <itunes:image href="https://yt3.ggpht.com/rRAzG2m5CPpd5eI-WTIlldG2mb9AHVV0AbqxrbSqV8z-E1BX0OUfhl5IC0nYUCepGsXs3A8l=s88-c-k-c0x00ffffff-no-rj"/>
 <item>
+      <title><![CDATA[Big Data Enters the Agent Era: DataBuddy End-to-End Hands-On Tutorial]]></title>
+      <link>https://www.youtube.com/watch?v=afo79QH-dzk</link>
+      <itunes:title><![CDATA[Big Data Enters the Agent Era: DataBuddy End-to-End Hands-On Tutorial]]></itunes:title>
+      <itunes:author><![CDATA[技术爬爬虾  TechShrimp]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/afo79QH-dzk/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=afo79QH-dzk">https://www.youtube.com/watch?v=afo79QH-dzk</a></p><h1>值得閱讀的理由</h1><ul><li>深入了解 AI Agent 時代下，企業數據架構如何從傳統人工處理轉向全鏈路自動化與對話式交互。</li><li>掌握騰訊雲 DataBuddy 透過 Unity Semantics 統一語義層，將自然語言轉 SQL 的準確率提升至 95.9% 以上的關鍵技術。</li><li>學習如何應對 AI Agent 的安全與治理風險，包含 Prompt 注入防禦、最小權限原則與自動化敏感數據遮罩機制。</li></ul><hr /><h1>摘要</h1><h2>Agent 時代來臨與對話式數倉構建</h2><p>作者指出，隨著數據的主要使用者逐漸由人類轉移至 <strong>AI Agent</strong>，查詢的頻率與複雜度正呈指數級增長，這對底層數據系統的效能與即時性帶來極大考驗。為了解決這一痛點，騰訊雲推出了大數據 Agent 工作台 <strong>DataBuddy</strong>。作者展示了系統如何透過自然語言對話，將繁複的數倉建構流程壓縮至小時級，無論是關聯式資料庫還是 Excel 文件，都能自動完成架構分層、<strong>ETL 代碼生成</strong>與數據驗證，大幅減少高達 80% 的重複性工作。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/afo79QH-dzk_246.jpg" /></p><h2>統一語義層與動態數據分析實踐</h2><p>為了解決大語言模型在生成 SQL 時常發生的「幻覺」問題，作者深入剖析了 DataBuddy 採用的 <strong>Unity Semantics 統一語義層</strong>架構。該架構建立了涵蓋表結構、指標代碼到業務術語的<strong>六層知識體系</strong>，將自然語言查詢的準確率從 83.5% 大幅躍升至 95.9% 以上。作者以影片租賃數倉為例，實機展示了透過對話直接進行 <strong>RFM 客戶分群</strong>與偏好洞察，並能依據反饋動態修正語義規則，形成持續累積業務資產的<strong>知識飛輪</strong>。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/afo79QH-dzk_465.jpg" /></p><h2>智慧數據治理與企業級安全防禦</h2><p>除了開發與分析，作者進一步介紹了 DataBuddy 內建的治理 Agent，它能主動檢測元數據缺失並對敏感數據進行<strong>批次脫敏遮罩</strong>。針對 Agent 面臨的 Prompt 劫持、權限提升及錯誤 SQL 風險，系統建構了符合 <strong>OWASP Top 10 for LLMs</strong> 標準的雙向安全護欄，具備秒級威脅偵測與高風險操作的人工確認機制。最後，作者強調 DataBuddy 原生連接 <strong>DLC 資料湖運算引擎</strong>，可無縫繼承現有資產與排程，真正實現了全自然語言驅動的新一代數據工作流程。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=afo79QH-dzk">https://www.youtube.com/watch?v=afo79QH-dzk</a></p><p>#DataBuddy #agent  #TencentCloud  #bigdata  #dataplatform  #datawarehouse  #AI  #dataanalysis  #datagovernance </p><p></p><p>00:00 Introduction</p><p>01:58 Data Engineering</p><p>04:06 Data Analytics</p><p>07:45 Data Governance</p><p>09:19 Enterprise Platform</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/afo79QH-dzk/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=afo79QH-dzk">https://www.youtube.com/watch?v=afo79QH-dzk</a></p><h1>值得閱讀的理由</h1><ul><li>深入了解 AI Agent 時代下，企業數據架構如何從傳統人工處理轉向全鏈路自動化與對話式交互。</li><li>掌握騰訊雲 DataBuddy 透過 Unity Semantics 統一語義層，將自然語言轉 SQL 的準確率提升至 95.9% 以上的關鍵技術。</li><li>學習如何應對 AI Agent 的安全與治理風險，包含 Prompt 注入防禦、最小權限原則與自動化敏感數據遮罩機制。</li></ul><hr /><h1>摘要</h1><h2>Agent 時代來臨與對話式數倉構建</h2><p>作者指出，隨著數據的主要使用者逐漸由人類轉移至 <strong>AI Agent</strong>，查詢的頻率與複雜度正呈指數級增長，這對底層數據系統的效能與即時性帶來極大考驗。為了解決這一痛點，騰訊雲推出了大數據 Agent 工作台 <strong>DataBuddy</strong>。作者展示了系統如何透過自然語言對話，將繁複的數倉建構流程壓縮至小時級，無論是關聯式資料庫還是 Excel 文件，都能自動完成架構分層、<strong>ETL 代碼生成</strong>與數據驗證，大幅減少高達 80% 的重複性工作。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/afo79QH-dzk_246.jpg" /></p><h2>統一語義層與動態數據分析實踐</h2><p>為了解決大語言模型在生成 SQL 時常發生的「幻覺」問題，作者深入剖析了 DataBuddy 採用的 <strong>Unity Semantics 統一語義層</strong>架構。該架構建立了涵蓋表結構、指標代碼到業務術語的<strong>六層知識體系</strong>，將自然語言查詢的準確率從 83.5% 大幅躍升至 95.9% 以上。作者以影片租賃數倉為例，實機展示了透過對話直接進行 <strong>RFM 客戶分群</strong>與偏好洞察，並能依據反饋動態修正語義規則，形成持續累積業務資產的<strong>知識飛輪</strong>。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/afo79QH-dzk_465.jpg" /></p><h2>智慧數據治理與企業級安全防禦</h2><p>除了開發與分析，作者進一步介紹了 DataBuddy 內建的治理 Agent，它能主動檢測元數據缺失並對敏感數據進行<strong>批次脫敏遮罩</strong>。針對 Agent 面臨的 Prompt 劫持、權限提升及錯誤 SQL 風險，系統建構了符合 <strong>OWASP Top 10 for LLMs</strong> 標準的雙向安全護欄，具備秒級威脅偵測與高風險操作的人工確認機制。最後，作者強調 DataBuddy 原生連接 <strong>DLC 資料湖運算引擎</strong>，可無縫繼承現有資產與排程，真正實現了全自然語言驅動的新一代數據工作流程。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=afo79QH-dzk">https://www.youtube.com/watch?v=afo79QH-dzk</a></p><p>#DataBuddy #agent  #TencentCloud  #bigdata  #dataplatform  #datawarehouse  #AI  #dataanalysis  #datagovernance </p><p></p><p>00:00 Introduction</p><p>01:58 Data Engineering</p><p>04:06 Data Analytics</p><p>07:45 Data Governance</p><p>09:19 Enterprise Platform</p>]]>
+      </description>
+      <content:encoded><![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/afo79QH-dzk/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=afo79QH-dzk">https://www.youtube.com/watch?v=afo79QH-dzk</a></p><h1>值得閱讀的理由</h1><ul><li>深入了解 AI Agent 時代下，企業數據架構如何從傳統人工處理轉向全鏈路自動化與對話式交互。</li><li>掌握騰訊雲 DataBuddy 透過 Unity Semantics 統一語義層，將自然語言轉 SQL 的準確率提升至 95.9% 以上的關鍵技術。</li><li>學習如何應對 AI Agent 的安全與治理風險，包含 Prompt 注入防禦、最小權限原則與自動化敏感數據遮罩機制。</li></ul><hr /><h1>摘要</h1><h2>Agent 時代來臨與對話式數倉構建</h2><p>作者指出，隨著數據的主要使用者逐漸由人類轉移至 <strong>AI Agent</strong>，查詢的頻率與複雜度正呈指數級增長，這對底層數據系統的效能與即時性帶來極大考驗。為了解決這一痛點，騰訊雲推出了大數據 Agent 工作台 <strong>DataBuddy</strong>。作者展示了系統如何透過自然語言對話，將繁複的數倉建構流程壓縮至小時級，無論是關聯式資料庫還是 Excel 文件，都能自動完成架構分層、<strong>ETL 代碼生成</strong>與數據驗證，大幅減少高達 80% 的重複性工作。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/afo79QH-dzk_246.jpg" /></p><h2>統一語義層與動態數據分析實踐</h2><p>為了解決大語言模型在生成 SQL 時常發生的「幻覺」問題，作者深入剖析了 DataBuddy 採用的 <strong>Unity Semantics 統一語義層</strong>架構。該架構建立了涵蓋表結構、指標代碼到業務術語的<strong>六層知識體系</strong>，將自然語言查詢的準確率從 83.5% 大幅躍升至 95.9% 以上。作者以影片租賃數倉為例，實機展示了透過對話直接進行 <strong>RFM 客戶分群</strong>與偏好洞察，並能依據反饋動態修正語義規則，形成持續累積業務資產的<strong>知識飛輪</strong>。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/afo79QH-dzk_465.jpg" /></p><h2>智慧數據治理與企業級安全防禦</h2><p>除了開發與分析，作者進一步介紹了 DataBuddy 內建的治理 Agent，它能主動檢測元數據缺失並對敏感數據進行<strong>批次脫敏遮罩</strong>。針對 Agent 面臨的 Prompt 劫持、權限提升及錯誤 SQL 風險，系統建構了符合 <strong>OWASP Top 10 for LLMs</strong> 標準的雙向安全護欄，具備秒級威脅偵測與高風險操作的人工確認機制。最後，作者強調 DataBuddy 原生連接 <strong>DLC 資料湖運算引擎</strong>，可無縫繼承現有資產與排程，真正實現了全自然語言驅動的新一代數據工作流程。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=afo79QH-dzk">https://www.youtube.com/watch?v=afo79QH-dzk</a></p><p>#DataBuddy #agent  #TencentCloud  #bigdata  #dataplatform  #datawarehouse  #AI  #dataanalysis  #datagovernance </p><p></p><p>00:00 Introduction</p><p>01:58 Data Engineering</p><p>04:06 Data Analytics</p><p>07:45 Data Governance</p><p>09:19 Enterprise Platform</p>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/afo79QH-dzk/hqdefault.jpg"/>
+      <pubDate>2026-09-22T10:01:18.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[Agent搜索和记忆的基础设施：腾讯云 Elastichsearch Service 企业版详细攻略]]></title>
+      <link>https://www.youtube.com/watch?v=ky7_1K3wfAY</link>
+      <itunes:title><![CDATA[Agent搜索和记忆的基础设施：腾讯云 Elastichsearch Service 企业版详细攻略]]></itunes:title>
+      <itunes:author><![CDATA[技术爬爬虾  TechShrimp]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/ky7_1K3wfAY/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=ky7_1K3wfAY">https://www.youtube.com/watch?v=ky7_1K3wfAY</a></p><h1>值得閱讀的理由</h1><ul><li>深入了解搜尋技術如何從傳統倒排索引、向量語意檢索，跨入智慧體驅動的「Agentic Search」新時代。</li><li>掌握企業在面對億級高併發資料時，如何透過雲端託管方案實現高達 90% 以上的硬體成本精簡。</li><li>學習騰訊雲 ES 企業版之 Disk-BBQ 磁碟向量技術、RRF 混合檢索架構，以及開箱即用搭建 RAG 知識庫的完整實操流程。</li></ul><hr /><h1>摘要</h1><h2>搜尋技術演進與企業維運挑戰</h2><p>作者指出，搜尋技術經歷了三個核心階段的演變：最初是依賴倒排索引的<strong>關鍵詞搜尋</strong>，接著發展為基於向量索引的<strong>語意搜尋</strong>，如今則正式邁入由智慧體驅動、具備自主規劃與迭代循環能力的 <strong>Agentic Search</strong>。然而，大規模企業自建 Elasticsearch（ES）集群面臨極高的維運與硬體門檻，例如微信讀書的「AI問書」功能在導入騰訊雲託管方案後，伺服器需求從 400 台大幅縮減至 30 台，展現出雲端架構在降本增效上的顯著優勢。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/ky7_1K3wfAY_83.jpg" /></p><h2>騰訊雲 ES 企業版的四大核心優勢</h2><p>為了滿足 Agentic Search 與龐大數據的需求，騰訊雲推出了專屬的 ES 企業版，具備四大核心能力。在檢索層面，採用自研的 <strong>Disk-BBQ</strong> 磁碟型向量檢索技術，大幅降低對昂貴記憶體的依賴，並支援 GPU 索引加速與 <strong>RRF（倒數排名融合）混合檢索</strong>；在 AI 整合方面，提供開箱即用的推理模型接入；在儲存與管理上，則結合冷熱數據分離、物件儲存（COS）壓縮與跨集群統一查詢，達成極致的成本節省與架構整合。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/ky7_1K3wfAY_200.jpg" /></p><h2>實機操作：RRF 混合檢索與一鍵建構 RAG</h2><p>作者進一步實操展示了如何在控制台快速配置具備 RRF 混合檢索能力的 ES 集群，並透過 Kibana 介面設定向量化流水線，兼顧關鍵字匹配與深層語意關聯。最後，作者示範了透過 ES 開發平台一鍵上傳多種格式文件，系統能自動完成文檔切分、向量灌庫與線上測試問答，幫助開發者完全免除底層繁複維運，迅速建立起高可用且符合企業規格的 <strong>RAG 知識庫</strong>系統。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/ky7_1K3wfAY_469.jpg" /></p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=ky7_1K3wfAY">https://www.youtube.com/watch?v=ky7_1K3wfAY</a></p><p>会员频道有自制课程《小白玩转Git/Github，全功能精讲》</p><p></p><p>00:00  引言</p><p>02:02  腾讯云ES企业版</p><p>05:15  ES极简教程</p><p>07:50  RAG应用</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/ky7_1K3wfAY/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=ky7_1K3wfAY">https://www.youtube.com/watch?v=ky7_1K3wfAY</a></p><h1>值得閱讀的理由</h1><ul><li>深入了解搜尋技術如何從傳統倒排索引、向量語意檢索，跨入智慧體驅動的「Agentic Search」新時代。</li><li>掌握企業在面對億級高併發資料時，如何透過雲端託管方案實現高達 90% 以上的硬體成本精簡。</li><li>學習騰訊雲 ES 企業版之 Disk-BBQ 磁碟向量技術、RRF 混合檢索架構，以及開箱即用搭建 RAG 知識庫的完整實操流程。</li></ul><hr /><h1>摘要</h1><h2>搜尋技術演進與企業維運挑戰</h2><p>作者指出，搜尋技術經歷了三個核心階段的演變：最初是依賴倒排索引的<strong>關鍵詞搜尋</strong>，接著發展為基於向量索引的<strong>語意搜尋</strong>，如今則正式邁入由智慧體驅動、具備自主規劃與迭代循環能力的 <strong>Agentic Search</strong>。然而，大規模企業自建 Elasticsearch（ES）集群面臨極高的維運與硬體門檻，例如微信讀書的「AI問書」功能在導入騰訊雲託管方案後，伺服器需求從 400 台大幅縮減至 30 台，展現出雲端架構在降本增效上的顯著優勢。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/ky7_1K3wfAY_83.jpg" /></p><h2>騰訊雲 ES 企業版的四大核心優勢</h2><p>為了滿足 Agentic Search 與龐大數據的需求，騰訊雲推出了專屬的 ES 企業版，具備四大核心能力。在檢索層面，採用自研的 <strong>Disk-BBQ</strong> 磁碟型向量檢索技術，大幅降低對昂貴記憶體的依賴，並支援 GPU 索引加速與 <strong>RRF（倒數排名融合）混合檢索</strong>；在 AI 整合方面，提供開箱即用的推理模型接入；在儲存與管理上，則結合冷熱數據分離、物件儲存（COS）壓縮與跨集群統一查詢，達成極致的成本節省與架構整合。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/ky7_1K3wfAY_200.jpg" /></p><h2>實機操作：RRF 混合檢索與一鍵建構 RAG</h2><p>作者進一步實操展示了如何在控制台快速配置具備 RRF 混合檢索能力的 ES 集群，並透過 Kibana 介面設定向量化流水線，兼顧關鍵字匹配與深層語意關聯。最後，作者示範了透過 ES 開發平台一鍵上傳多種格式文件，系統能自動完成文檔切分、向量灌庫與線上測試問答，幫助開發者完全免除底層繁複維運，迅速建立起高可用且符合企業規格的 <strong>RAG 知識庫</strong>系統。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/ky7_1K3wfAY_469.jpg" /></p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=ky7_1K3wfAY">https://www.youtube.com/watch?v=ky7_1K3wfAY</a></p><p>会员频道有自制课程《小白玩转Git/Github，全功能精讲》</p><p></p><p>00:00  引言</p><p>02:02  腾讯云ES企业版</p><p>05:15  ES极简教程</p><p>07:50  RAG应用</p>]]>
+      </description>
+      <content:encoded><![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/ky7_1K3wfAY/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=ky7_1K3wfAY">https://www.youtube.com/watch?v=ky7_1K3wfAY</a></p><h1>值得閱讀的理由</h1><ul><li>深入了解搜尋技術如何從傳統倒排索引、向量語意檢索，跨入智慧體驅動的「Agentic Search」新時代。</li><li>掌握企業在面對億級高併發資料時，如何透過雲端託管方案實現高達 90% 以上的硬體成本精簡。</li><li>學習騰訊雲 ES 企業版之 Disk-BBQ 磁碟向量技術、RRF 混合檢索架構，以及開箱即用搭建 RAG 知識庫的完整實操流程。</li></ul><hr /><h1>摘要</h1><h2>搜尋技術演進與企業維運挑戰</h2><p>作者指出，搜尋技術經歷了三個核心階段的演變：最初是依賴倒排索引的<strong>關鍵詞搜尋</strong>，接著發展為基於向量索引的<strong>語意搜尋</strong>，如今則正式邁入由智慧體驅動、具備自主規劃與迭代循環能力的 <strong>Agentic Search</strong>。然而，大規模企業自建 Elasticsearch（ES）集群面臨極高的維運與硬體門檻，例如微信讀書的「AI問書」功能在導入騰訊雲託管方案後，伺服器需求從 400 台大幅縮減至 30 台，展現出雲端架構在降本增效上的顯著優勢。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/ky7_1K3wfAY_83.jpg" /></p><h2>騰訊雲 ES 企業版的四大核心優勢</h2><p>為了滿足 Agentic Search 與龐大數據的需求，騰訊雲推出了專屬的 ES 企業版，具備四大核心能力。在檢索層面，採用自研的 <strong>Disk-BBQ</strong> 磁碟型向量檢索技術，大幅降低對昂貴記憶體的依賴，並支援 GPU 索引加速與 <strong>RRF（倒數排名融合）混合檢索</strong>；在 AI 整合方面，提供開箱即用的推理模型接入；在儲存與管理上，則結合冷熱數據分離、物件儲存（COS）壓縮與跨集群統一查詢，達成極致的成本節省與架構整合。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/ky7_1K3wfAY_200.jpg" /></p><h2>實機操作：RRF 混合檢索與一鍵建構 RAG</h2><p>作者進一步實操展示了如何在控制台快速配置具備 RRF 混合檢索能力的 ES 集群，並透過 Kibana 介面設定向量化流水線，兼顧關鍵字匹配與深層語意關聯。最後，作者示範了透過 ES 開發平台一鍵上傳多種格式文件，系統能自動完成文檔切分、向量灌庫與線上測試問答，幫助開發者完全免除底層繁複維運，迅速建立起高可用且符合企業規格的 <strong>RAG 知識庫</strong>系統。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/ky7_1K3wfAY_469.jpg" /></p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=ky7_1K3wfAY">https://www.youtube.com/watch?v=ky7_1K3wfAY</a></p><p>会员频道有自制课程《小白玩转Git/Github，全功能精讲》</p><p></p><p>00:00  引言</p><p>02:02  腾讯云ES企业版</p><p>05:15  ES极简教程</p><p>07:50  RAG应用</p>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/ky7_1K3wfAY/hqdefault.jpg"/>
+      <pubDate>2026-08-26T10:45:54.000Z</pubDate>
+    </item><item>
       <title><![CDATA[Cherry Studio V2 来了，超详细攻略 + 真实使用场景分享]]></title>
       <link>https://www.youtube.com/watch?v=H1kVXogxpQQ</link>
       <itunes:title><![CDATA[Cherry Studio V2 来了，超详细攻略 + 真实使用场景分享]]></itunes:title>
