@@ -1,0 +1,247 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+  <channel>
+    <title><![CDATA[AI超元域[YT+]]]></title>
+    <link>http://www.youtube.com/feeds/videos.xml?channel_id=UCIomFkAj4Vq_rGX2Jot7D8A</link>
+    <image>
+      <url>https://yt3.ggpht.com/6AyGuZqZQctDdjIWe9VYpaCVAD84ADoSpCcuUmaw2ANCPJu88x1A5svwfZpW5Hvhapl5N1nuqQ=s88-c-k-c0x00ffffff-no-rj</url>
+      <title>AI超元域[YT+]</title>
+      <link>http://www.youtube.com/feeds/videos.xml?channel_id=UCIomFkAj4Vq_rGX2Jot7D8A</link>
+    </image>
+    <language>en-us</language>
+    <atom:link href="https://www.youtube.com/feeds/videos.xml?channel_id=UCIomFkAj4Vq_rGX2Jot7D8A" rel="self" type="application/rss+xml"/>
+    <copyright><![CDATA[AI超元域[YT+]]]></copyright>
+    <itunes:author><![CDATA[AI超元域[YT+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[
+      AI从业者，擅长大模型微调、RAG、AI智能体开发等。<br />
+<br />
+<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCIomFkAj4Vq_rGX2Jot7D8A" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCIomFkAj4Vq_rGX2Jot7D8A</a>
+      ]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[
+      AI从业者，擅长大模型微调、RAG、AI智能体开发等。<br />
+<br />
+<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCIomFkAj4Vq_rGX2Jot7D8A" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCIomFkAj4Vq_rGX2Jot7D8A</a>
+      ]]>
+    </description>
+    <itunes:owner>
+      <itunes:name><![CDATA[AI超元域[YT+]]]></itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://yt3.ggpht.com/6AyGuZqZQctDdjIWe9VYpaCVAD84ADoSpCcuUmaw2ANCPJu88x1A5svwfZpW5Hvhapl5N1nuqQ=s88-c-k-c0x00ffffff-no-rj"/>
+<item>
+      <title><![CDATA[🚀Claude Fable 5.5动画视频生成能力深度实测！8个视频动画案例，连音效都能合成！从提示词到动画成片，每个都是大片效果！不给图片也能做动画！从儿童动画到科普视频，从电影特效到纪录片画质]]></title>
+      <link>https://www.youtube.com/watch?v=C8hMcdSYtKk</link>
+      <itunes:title><![CDATA[🚀Claude Fable 5.5动画视频生成能力深度实测！8个视频动画案例，连音效都能合成！从提示词到动画成片，每个都是大片效果！不给图片也能做动画！从儿童动画到科普视频，从电影特效到纪录片画质]]></itunes:title>
+      <itunes:author><![CDATA[AI超元域]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/C8hMcdSYtKk/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=C8hMcdSYtKk">https://www.youtube.com/watch?v=C8hMcdSYtKk</a></p><h1>值得閱讀的理由</h1>
+<ul>
+  <li>深入實測最新 AI 影片與動畫生成模型（Claude Fable 5.5）的強大功能與實際表現。</li>
+  <li>透過多個豐富的實際案例（如藝術發展史、科普地質變遷、AI 推理過程等），展示從提示詞到精緻成片的大片級效果。</li>
+  <li>解析該模型在圖像融合、自動音效合成及複雜場景刻畫上的突破與應用潛力。</li>
+</ul>
+<hr />
+<h1>摘要</h1>
+<p>本影片由「AI超元域」頻道發布，針對即將發布的 <strong>Claude Fable 5.5</strong> 動畫與影片生成模型進行深度實測。主講者在影片中展示了多個透過該模型製作的代表性動畫案例，並強調其在畫面精緻度與音效合成上的卓越表現。</p>
+
+<h2>各案例實際表現與特色</h2>
+<p>影片首先展示了對近期熱門影片的復刻測試。透過上傳 OpenAI 相關宣傳圖、標誌及 AI 生成的圖像素材搭配完整提示詞，模型成功生成了包含自動合成音效的高品質 MP4 影片，其畫面流暢度與音效表現均達到極佳水準。此外，在展示藝術發展史的動畫中，即使未提供圖像素材，僅憑提示詞描述，模型便能自動生成不同時代（如梵谷畫風）且光影與反光效果極其逼真的貓咪動畫。</p>
+
+<p>接著，影片測試了日常時間流逝與手錶細節拆解的動畫，其精緻程度令畫面呈現出極高的真實感。在較短的提示詞測試中，例如製作 15 秒的彈球動畫或復刻特定短片，模型不僅能精準呈現質感（如木製桌子紋理與高亮文字特效），還能將彈球自然轉化為模型標誌性的元素，並全程由系統自行合成對應音效。而在圖像動態化測試中，上傳蝴蝶圖片後，模型能讓蝴蝶依序飛入畫面並最終精準組成指定圖案，保持了原始圖片的風格與一致性。</p>
+
+<h2>科普與大模型推理動畫</h2>
+<p>在大型科普案例中，主講者要求模型生成一場長達數分鐘的地質代變遷史動畫。畫面從埃迪卡拉紀的多細胞生物、寒武紀的三葉蟲、奧陶紀的角石、到泥盆紀的鄧氏魚、石炭紀的巨脈蜻蜓與巨型蜈蚣，乃至二疊紀的水龍獸、三疊紀與侏儸紀的恐龍奔跑、白堊紀的霸王龍、隕石撞擊、古近紀、新近紀直到第四季的猛瑪象與冰河時期人類。模型不僅還現了各個時期的獨特環境（如石炭紀的霧氣與植物、二疊紀的乾旱感、冰河紀的冰川效果），還在生物奔跑時展現了地面震動的細節。</p>
+
+<p>最後，影片展示了以 Token 旅程為主題的動畫，極其精準且直觀地呈現了大模型的內部推理步驟與過程。主講者總結指出，經過實際對比，Claude Fable 5.5 的生成效果明顯優於其他同類模型，並預告未來將公開更多實測項目。影片網址：[https://www.youtube.com/watch?v=C8hMcdSYtKk](https://www.youtube.com/watch?v=C8hMcdSYtKk)</p>
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=C8hMcdSYtKk">https://www.youtube.com/watch?v=C8hMcdSYtKk</a></p><p>🚀视频简介：</p><p></p><p>✅ Claude Fable 5.5交出了MP4：图片素材、动画细节与合成音效，8个案例展示实际效果</p><p></p><p>🎬 这次把Claude Fable 5.5交出的动画直接放出来看：8个案例，从宣传短片到地质年代与大模型推理主题动画。测试全部在Claude官方桌面版进行，片中展示了MP4成片，也能听到它合成的音效。</p><p></p><p>🦋 有的案例上传图片，有的只写提示词。静图里的蝴蝶依次飞入画面，最终组成原图图案；没有提供图片的艺术史和一天生活动画，则展示了画风变化、手表拆解以及补出的建筑和跑步场景。弹球、文字高亮和木纹质感，也会逐一看效果。</p><p></p><p>🔎 地质年代动画是另一项重点：看跨时代场景怎样呈现，再分享相同提示词下与Claude Opus 5.5、GPT-6 Astra的体验差异。最后播放《一个Token的旅程》。跨模型感受限定在本次地质动画。你最想用它做哪一种动画？</p><p></p><p>👉👉👉我的开源项目: <a href="https://github.com/win4r/">https://github.com/win4r/</a></p><p>👉👉👉请我喝咖啡: <a href="https://ko-fi.com/aila">https://ko-fi.com/aila</a></p><p></p><p></p><p>🔥🔥🔥YouTube时间戳：</p><p>00:00 内测体验与动画实测</p><p>01:13 官方桌面版实测环境</p><p>01:41 宣传动画与音效合成</p><p>02:52 艺术发展史风格切换</p><p>03:44 一天生活与手表拆解</p><p>04:52 弹球动效与合成音效</p><p>05:40 高亮文字与木纹质感</p><p>06:14 蝴蝶起舞与原图构图</p><p>07:05 地质年代变迁动画</p><p>12:06 一个Token的旅程</p><p>15:52 本期回顾与后续预告</p><p></p><p>#fable55 #fable51 #fable5 #opus55 #aianimation #aivideo #aivideos #claude #anthropic #claudefable #claudefable5 #claudefable55 #ai #aigc #agi #aishorts #aiart</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/C8hMcdSYtKk/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=C8hMcdSYtKk">https://www.youtube.com/watch?v=C8hMcdSYtKk</a></p><h1>值得閱讀的理由</h1>
+<ul>
+  <li>深入實測最新 AI 影片與動畫生成模型（Claude Fable 5.5）的強大功能與實際表現。</li>
+  <li>透過多個豐富的實際案例（如藝術發展史、科普地質變遷、AI 推理過程等），展示從提示詞到精緻成片的大片級效果。</li>
+  <li>解析該模型在圖像融合、自動音效合成及複雜場景刻畫上的突破與應用潛力。</li>
+</ul>
+<hr />
+<h1>摘要</h1>
+<p>本影片由「AI超元域」頻道發布，針對即將發布的 <strong>Claude Fable 5.5</strong> 動畫與影片生成模型進行深度實測。主講者在影片中展示了多個透過該模型製作的代表性動畫案例，並強調其在畫面精緻度與音效合成上的卓越表現。</p>
+
+<h2>各案例實際表現與特色</h2>
+<p>影片首先展示了對近期熱門影片的復刻測試。透過上傳 OpenAI 相關宣傳圖、標誌及 AI 生成的圖像素材搭配完整提示詞，模型成功生成了包含自動合成音效的高品質 MP4 影片，其畫面流暢度與音效表現均達到極佳水準。此外，在展示藝術發展史的動畫中，即使未提供圖像素材，僅憑提示詞描述，模型便能自動生成不同時代（如梵谷畫風）且光影與反光效果極其逼真的貓咪動畫。</p>
+
+<p>接著，影片測試了日常時間流逝與手錶細節拆解的動畫，其精緻程度令畫面呈現出極高的真實感。在較短的提示詞測試中，例如製作 15 秒的彈球動畫或復刻特定短片，模型不僅能精準呈現質感（如木製桌子紋理與高亮文字特效），還能將彈球自然轉化為模型標誌性的元素，並全程由系統自行合成對應音效。而在圖像動態化測試中，上傳蝴蝶圖片後，模型能讓蝴蝶依序飛入畫面並最終精準組成指定圖案，保持了原始圖片的風格與一致性。</p>
+
+<h2>科普與大模型推理動畫</h2>
+<p>在大型科普案例中，主講者要求模型生成一場長達數分鐘的地質代變遷史動畫。畫面從埃迪卡拉紀的多細胞生物、寒武紀的三葉蟲、奧陶紀的角石、到泥盆紀的鄧氏魚、石炭紀的巨脈蜻蜓與巨型蜈蚣，乃至二疊紀的水龍獸、三疊紀與侏儸紀的恐龍奔跑、白堊紀的霸王龍、隕石撞擊、古近紀、新近紀直到第四季的猛瑪象與冰河時期人類。模型不僅還現了各個時期的獨特環境（如石炭紀的霧氣與植物、二疊紀的乾旱感、冰河紀的冰川效果），還在生物奔跑時展現了地面震動的細節。</p>
+
+<p>最後，影片展示了以 Token 旅程為主題的動畫，極其精準且直觀地呈現了大模型的內部推理步驟與過程。主講者總結指出，經過實際對比，Claude Fable 5.5 的生成效果明顯優於其他同類模型，並預告未來將公開更多實測項目。影片網址：[https://www.youtube.com/watch?v=C8hMcdSYtKk](https://www.youtube.com/watch?v=C8hMcdSYtKk)</p>
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=C8hMcdSYtKk">https://www.youtube.com/watch?v=C8hMcdSYtKk</a></p><p>🚀视频简介：</p><p></p><p>✅ Claude Fable 5.5交出了MP4：图片素材、动画细节与合成音效，8个案例展示实际效果</p><p></p><p>🎬 这次把Claude Fable 5.5交出的动画直接放出来看：8个案例，从宣传短片到地质年代与大模型推理主题动画。测试全部在Claude官方桌面版进行，片中展示了MP4成片，也能听到它合成的音效。</p><p></p><p>🦋 有的案例上传图片，有的只写提示词。静图里的蝴蝶依次飞入画面，最终组成原图图案；没有提供图片的艺术史和一天生活动画，则展示了画风变化、手表拆解以及补出的建筑和跑步场景。弹球、文字高亮和木纹质感，也会逐一看效果。</p><p></p><p>🔎 地质年代动画是另一项重点：看跨时代场景怎样呈现，再分享相同提示词下与Claude Opus 5.5、GPT-6 Astra的体验差异。最后播放《一个Token的旅程》。跨模型感受限定在本次地质动画。你最想用它做哪一种动画？</p><p></p><p>👉👉👉我的开源项目: <a href="https://github.com/win4r/">https://github.com/win4r/</a></p><p>👉👉👉请我喝咖啡: <a href="https://ko-fi.com/aila">https://ko-fi.com/aila</a></p><p></p><p></p><p>🔥🔥🔥YouTube时间戳：</p><p>00:00 内测体验与动画实测</p><p>01:13 官方桌面版实测环境</p><p>01:41 宣传动画与音效合成</p><p>02:52 艺术发展史风格切换</p><p>03:44 一天生活与手表拆解</p><p>04:52 弹球动效与合成音效</p><p>05:40 高亮文字与木纹质感</p><p>06:14 蝴蝶起舞与原图构图</p><p>07:05 地质年代变迁动画</p><p>12:06 一个Token的旅程</p><p>15:52 本期回顾与后续预告</p><p></p><p>#fable55 #fable51 #fable5 #opus55 #aianimation #aivideo #aivideos #claude #anthropic #claudefable #claudefable5 #claudefable55 #ai #aigc #agi #aishorts #aiart</p>]]>
+      </description>
+      <content:encoded><![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/C8hMcdSYtKk/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=C8hMcdSYtKk">https://www.youtube.com/watch?v=C8hMcdSYtKk</a></p><h1>值得閱讀的理由</h1>
+<ul>
+  <li>深入實測最新 AI 影片與動畫生成模型（Claude Fable 5.5）的強大功能與實際表現。</li>
+  <li>透過多個豐富的實際案例（如藝術發展史、科普地質變遷、AI 推理過程等），展示從提示詞到精緻成片的大片級效果。</li>
+  <li>解析該模型在圖像融合、自動音效合成及複雜場景刻畫上的突破與應用潛力。</li>
+</ul>
+<hr />
+<h1>摘要</h1>
+<p>本影片由「AI超元域」頻道發布，針對即將發布的 <strong>Claude Fable 5.5</strong> 動畫與影片生成模型進行深度實測。主講者在影片中展示了多個透過該模型製作的代表性動畫案例，並強調其在畫面精緻度與音效合成上的卓越表現。</p>
+
+<h2>各案例實際表現與特色</h2>
+<p>影片首先展示了對近期熱門影片的復刻測試。透過上傳 OpenAI 相關宣傳圖、標誌及 AI 生成的圖像素材搭配完整提示詞，模型成功生成了包含自動合成音效的高品質 MP4 影片，其畫面流暢度與音效表現均達到極佳水準。此外，在展示藝術發展史的動畫中，即使未提供圖像素材，僅憑提示詞描述，模型便能自動生成不同時代（如梵谷畫風）且光影與反光效果極其逼真的貓咪動畫。</p>
+
+<p>接著，影片測試了日常時間流逝與手錶細節拆解的動畫，其精緻程度令畫面呈現出極高的真實感。在較短的提示詞測試中，例如製作 15 秒的彈球動畫或復刻特定短片，模型不僅能精準呈現質感（如木製桌子紋理與高亮文字特效），還能將彈球自然轉化為模型標誌性的元素，並全程由系統自行合成對應音效。而在圖像動態化測試中，上傳蝴蝶圖片後，模型能讓蝴蝶依序飛入畫面並最終精準組成指定圖案，保持了原始圖片的風格與一致性。</p>
+
+<h2>科普與大模型推理動畫</h2>
+<p>在大型科普案例中，主講者要求模型生成一場長達數分鐘的地質代變遷史動畫。畫面從埃迪卡拉紀的多細胞生物、寒武紀的三葉蟲、奧陶紀的角石、到泥盆紀的鄧氏魚、石炭紀的巨脈蜻蜓與巨型蜈蚣，乃至二疊紀的水龍獸、三疊紀與侏儸紀的恐龍奔跑、白堊紀的霸王龍、隕石撞擊、古近紀、新近紀直到第四季的猛瑪象與冰河時期人類。模型不僅還現了各個時期的獨特環境（如石炭紀的霧氣與植物、二疊紀的乾旱感、冰河紀的冰川效果），還在生物奔跑時展現了地面震動的細節。</p>
+
+<p>最後，影片展示了以 Token 旅程為主題的動畫，極其精準且直觀地呈現了大模型的內部推理步驟與過程。主講者總結指出，經過實際對比，Claude Fable 5.5 的生成效果明顯優於其他同類模型，並預告未來將公開更多實測項目。影片網址：[https://www.youtube.com/watch?v=C8hMcdSYtKk](https://www.youtube.com/watch?v=C8hMcdSYtKk)</p>
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=C8hMcdSYtKk">https://www.youtube.com/watch?v=C8hMcdSYtKk</a></p><p>🚀视频简介：</p><p></p><p>✅ Claude Fable 5.5交出了MP4：图片素材、动画细节与合成音效，8个案例展示实际效果</p><p></p><p>🎬 这次把Claude Fable 5.5交出的动画直接放出来看：8个案例，从宣传短片到地质年代与大模型推理主题动画。测试全部在Claude官方桌面版进行，片中展示了MP4成片，也能听到它合成的音效。</p><p></p><p>🦋 有的案例上传图片，有的只写提示词。静图里的蝴蝶依次飞入画面，最终组成原图图案；没有提供图片的艺术史和一天生活动画，则展示了画风变化、手表拆解以及补出的建筑和跑步场景。弹球、文字高亮和木纹质感，也会逐一看效果。</p><p></p><p>🔎 地质年代动画是另一项重点：看跨时代场景怎样呈现，再分享相同提示词下与Claude Opus 5.5、GPT-6 Astra的体验差异。最后播放《一个Token的旅程》。跨模型感受限定在本次地质动画。你最想用它做哪一种动画？</p><p></p><p>👉👉👉我的开源项目: <a href="https://github.com/win4r/">https://github.com/win4r/</a></p><p>👉👉👉请我喝咖啡: <a href="https://ko-fi.com/aila">https://ko-fi.com/aila</a></p><p></p><p></p><p>🔥🔥🔥YouTube时间戳：</p><p>00:00 内测体验与动画实测</p><p>01:13 官方桌面版实测环境</p><p>01:41 宣传动画与音效合成</p><p>02:52 艺术发展史风格切换</p><p>03:44 一天生活与手表拆解</p><p>04:52 弹球动效与合成音效</p><p>05:40 高亮文字与木纹质感</p><p>06:14 蝴蝶起舞与原图构图</p><p>07:05 地质年代变迁动画</p><p>12:06 一个Token的旅程</p><p>15:52 本期回顾与后续预告</p><p></p><p>#fable55 #fable51 #fable5 #opus55 #aianimation #aivideo #aivideos #claude #anthropic #claudefable #claudefable5 #claudefable55 #ai #aigc #agi #aishorts #aiart</p>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/C8hMcdSYtKk/hqdefault.jpg"/>
+      <pubDate>2026-10-21T13:53:49.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[🚀MiniMax M3.1 Flash客观深度实测！我用OpenCode挑战3个长程开发任务，最难一项耗时5小时，性能与细节能否经得起检验？能否超越DeepSeek V4.1 Flash？还能生成动画]]></title>
+      <link>https://www.youtube.com/watch?v=BNfnfYpvawM</link>
+      <itunes:title><![CDATA[🚀MiniMax M3.1 Flash客观深度实测！我用OpenCode挑战3个长程开发任务，最难一项耗时5小时，性能与细节能否经得起检验？能否超越DeepSeek V4.1 Flash？还能生成动画]]></itunes:title>
+      <itunes:author><![CDATA[AI超元域]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/BNfnfYpvawM/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=BNfnfYpvawM">https://www.youtube.com/watch?v=BNfnfYpvawM</a></p><h1>值得閱讀的理由</h1><ul><li>深入了解國產新模型 MiniMax M3.1 Flash 在長達近 6 小時極限長程開發中的真實編程實力與瓶頸。</li><li>客觀對比模型在 3D 空間建模、macOS 原生應用開發、高難度架構復刻及動畫生成等多維度任務的實作表現。</li><li>獲取高達 8.95 億 Token 的實際消耗與 97.2% 快取命中率等第一手工程數據，為長上下文開發提供重要評估依據。</li></ul><hr /><h1>摘要</h1><h2>官方網頁端功能與視覺動畫實測</h2><p>作者首先針對最新發布的 <strong>MiniMax M3.1 Flash</strong> 展開官方網頁測試。在室內平面圖建模任務中，模型順利以 3D 技術建構出具備多房間、俯視圖及第一人稱探索的立體空間，但由於缺乏<strong>效能優化</strong>，運行數分鐘即造成電腦劇烈發燙。隨後進行的藝術發展史動畫實測中，模型展現了良好的光影與背景壁畫還原力，但在<strong>肢體結構</strong>與動物形態的細節呈現上仍略顯不自然。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/BNfnfYpvawM_234.jpg" /></p><h2>OpenCode 長程挑戰：原生播放器與極光號飛船</h2><p>隨後，作者將模型接入 <strong>OpenCode</strong> 進行嚴苛的長程實戰任務。首先耗時 2 小時 40 分鐘成功開發出具備 Apple Music 風格的 <strong>macOS 原生音樂播放器</strong>，不僅 UI 還原度極高且運行平穩無過熱問題。第二項挑戰則是耗費 3 小時 32 分鐘復刻科幻小說中的<strong>「極光號」宇宙飛船</strong>，模型雖然完整搭建出艦內主要區域並搭配音效，但在運作效能與精細度上相較於 DeepSeek 模型仍稍有遜色。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/BNfnfYpvawM_437.jpg" /></p><h2>挑戰聖家堂極限結構與 8.95 億 Token 消耗分析</h2><p>難度最高的任務是耗時 5 小時 51 分鐘使用前端技術重現巴塞隆納<strong>聖家堂</strong>，雖然其內部光影與彩色玻璃特效令人驚豔，但過於複雜的外部幾何結構未能完全復刻且帶來極高系統負載。作者最後透過 Hermes 實測了模型優異的動態細節還原能力，並統計本次長程開發共累計消耗了 <strong>8.95 億 Token</strong>，後台<strong>快取命中率高達 97.2%</strong>，為大規模 AI 編程的效能與成本提供了重要參考。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=BNfnfYpvawM">https://www.youtube.com/watch?v=BNfnfYpvawM</a></p><p>🚀视频简介：</p><p>✅8.95亿Token！实测MiniMax M3.1 Flash，长程开发项目交出的作品究竟怎么样？</p><p>MiniMax M3.1 Flash 刚发布，我就把它接入 OpenCode，挑战几项实际开发任务：macOS 原生音乐播放器、科幻小说中的极光号飞船，以及巴塞罗那圣家堂。三项任务分别耗时 2 小时 40 分钟、3 小时 32 分钟和 5 小时 51 分钟。</p><p>还测试了动画生成等能力，实测效果请观看视频哦😊</p><p></p><p>👉👉👉我的开源项目: <a href="https://github.com/win4r/">https://github.com/win4r/</a></p><p>👉👉👉请我喝咖啡: <a href="https://ko-fi.com/aila">https://ko-fi.com/aila</a></p><p></p><p>🔥🔥🔥YouTube 时间戳：</p><p>00:00 MiniMax新模型与实测目标</p><p>00:47 平面图构建双层可探索3D房屋</p><p>02:56 艺术发展史动画实测</p><p>03:54 OpenCode开发macOS音乐播放器</p><p>05:38 3小时32分开发极光号飞船</p><p>07:17 5小时51分挑战圣家堂</p><p>08:39 Hermes黑洞骑行动画</p><p>09:07 Hermes昼夜变化动画</p><p>09:28 开发耗时与8.95亿Token统计</p><p>10:07 97.2%缓存命中率与总结</p><p></p><p></p><p>#minimaxai #minimax #opencode #hermes #aigc #aiagents #agents #ai #vibecoding #aianimation #aivideo #ai #agi #aicoding #minimaxm31</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/BNfnfYpvawM/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=BNfnfYpvawM">https://www.youtube.com/watch?v=BNfnfYpvawM</a></p><h1>值得閱讀的理由</h1><ul><li>深入了解國產新模型 MiniMax M3.1 Flash 在長達近 6 小時極限長程開發中的真實編程實力與瓶頸。</li><li>客觀對比模型在 3D 空間建模、macOS 原生應用開發、高難度架構復刻及動畫生成等多維度任務的實作表現。</li><li>獲取高達 8.95 億 Token 的實際消耗與 97.2% 快取命中率等第一手工程數據，為長上下文開發提供重要評估依據。</li></ul><hr /><h1>摘要</h1><h2>官方網頁端功能與視覺動畫實測</h2><p>作者首先針對最新發布的 <strong>MiniMax M3.1 Flash</strong> 展開官方網頁測試。在室內平面圖建模任務中，模型順利以 3D 技術建構出具備多房間、俯視圖及第一人稱探索的立體空間，但由於缺乏<strong>效能優化</strong>，運行數分鐘即造成電腦劇烈發燙。隨後進行的藝術發展史動畫實測中，模型展現了良好的光影與背景壁畫還原力，但在<strong>肢體結構</strong>與動物形態的細節呈現上仍略顯不自然。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/BNfnfYpvawM_234.jpg" /></p><h2>OpenCode 長程挑戰：原生播放器與極光號飛船</h2><p>隨後，作者將模型接入 <strong>OpenCode</strong> 進行嚴苛的長程實戰任務。首先耗時 2 小時 40 分鐘成功開發出具備 Apple Music 風格的 <strong>macOS 原生音樂播放器</strong>，不僅 UI 還原度極高且運行平穩無過熱問題。第二項挑戰則是耗費 3 小時 32 分鐘復刻科幻小說中的<strong>「極光號」宇宙飛船</strong>，模型雖然完整搭建出艦內主要區域並搭配音效，但在運作效能與精細度上相較於 DeepSeek 模型仍稍有遜色。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/BNfnfYpvawM_437.jpg" /></p><h2>挑戰聖家堂極限結構與 8.95 億 Token 消耗分析</h2><p>難度最高的任務是耗時 5 小時 51 分鐘使用前端技術重現巴塞隆納<strong>聖家堂</strong>，雖然其內部光影與彩色玻璃特效令人驚豔，但過於複雜的外部幾何結構未能完全復刻且帶來極高系統負載。作者最後透過 Hermes 實測了模型優異的動態細節還原能力，並統計本次長程開發共累計消耗了 <strong>8.95 億 Token</strong>，後台<strong>快取命中率高達 97.2%</strong>，為大規模 AI 編程的效能與成本提供了重要參考。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=BNfnfYpvawM">https://www.youtube.com/watch?v=BNfnfYpvawM</a></p><p>🚀视频简介：</p><p>✅8.95亿Token！实测MiniMax M3.1 Flash，长程开发项目交出的作品究竟怎么样？</p><p>MiniMax M3.1 Flash 刚发布，我就把它接入 OpenCode，挑战几项实际开发任务：macOS 原生音乐播放器、科幻小说中的极光号飞船，以及巴塞罗那圣家堂。三项任务分别耗时 2 小时 40 分钟、3 小时 32 分钟和 5 小时 51 分钟。</p><p>还测试了动画生成等能力，实测效果请观看视频哦😊</p><p></p><p>👉👉👉我的开源项目: <a href="https://github.com/win4r/">https://github.com/win4r/</a></p><p>👉👉👉请我喝咖啡: <a href="https://ko-fi.com/aila">https://ko-fi.com/aila</a></p><p></p><p>🔥🔥🔥YouTube 时间戳：</p><p>00:00 MiniMax新模型与实测目标</p><p>00:47 平面图构建双层可探索3D房屋</p><p>02:56 艺术发展史动画实测</p><p>03:54 OpenCode开发macOS音乐播放器</p><p>05:38 3小时32分开发极光号飞船</p><p>07:17 5小时51分挑战圣家堂</p><p>08:39 Hermes黑洞骑行动画</p><p>09:07 Hermes昼夜变化动画</p><p>09:28 开发耗时与8.95亿Token统计</p><p>10:07 97.2%缓存命中率与总结</p><p></p><p></p><p>#minimaxai #minimax #opencode #hermes #aigc #aiagents #agents #ai #vibecoding #aianimation #aivideo #ai #agi #aicoding #minimaxm31</p>]]>
+      </description>
+      <content:encoded><![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/BNfnfYpvawM/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=BNfnfYpvawM">https://www.youtube.com/watch?v=BNfnfYpvawM</a></p><h1>值得閱讀的理由</h1><ul><li>深入了解國產新模型 MiniMax M3.1 Flash 在長達近 6 小時極限長程開發中的真實編程實力與瓶頸。</li><li>客觀對比模型在 3D 空間建模、macOS 原生應用開發、高難度架構復刻及動畫生成等多維度任務的實作表現。</li><li>獲取高達 8.95 億 Token 的實際消耗與 97.2% 快取命中率等第一手工程數據，為長上下文開發提供重要評估依據。</li></ul><hr /><h1>摘要</h1><h2>官方網頁端功能與視覺動畫實測</h2><p>作者首先針對最新發布的 <strong>MiniMax M3.1 Flash</strong> 展開官方網頁測試。在室內平面圖建模任務中，模型順利以 3D 技術建構出具備多房間、俯視圖及第一人稱探索的立體空間，但由於缺乏<strong>效能優化</strong>，運行數分鐘即造成電腦劇烈發燙。隨後進行的藝術發展史動畫實測中，模型展現了良好的光影與背景壁畫還原力，但在<strong>肢體結構</strong>與動物形態的細節呈現上仍略顯不自然。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/BNfnfYpvawM_234.jpg" /></p><h2>OpenCode 長程挑戰：原生播放器與極光號飛船</h2><p>隨後，作者將模型接入 <strong>OpenCode</strong> 進行嚴苛的長程實戰任務。首先耗時 2 小時 40 分鐘成功開發出具備 Apple Music 風格的 <strong>macOS 原生音樂播放器</strong>，不僅 UI 還原度極高且運行平穩無過熱問題。第二項挑戰則是耗費 3 小時 32 分鐘復刻科幻小說中的<strong>「極光號」宇宙飛船</strong>，模型雖然完整搭建出艦內主要區域並搭配音效，但在運作效能與精細度上相較於 DeepSeek 模型仍稍有遜色。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/BNfnfYpvawM_437.jpg" /></p><h2>挑戰聖家堂極限結構與 8.95 億 Token 消耗分析</h2><p>難度最高的任務是耗時 5 小時 51 分鐘使用前端技術重現巴塞隆納<strong>聖家堂</strong>，雖然其內部光影與彩色玻璃特效令人驚豔，但過於複雜的外部幾何結構未能完全復刻且帶來極高系統負載。作者最後透過 Hermes 實測了模型優異的動態細節還原能力，並統計本次長程開發共累計消耗了 <strong>8.95 億 Token</strong>，後台<strong>快取命中率高達 97.2%</strong>，為大規模 AI 編程的效能與成本提供了重要參考。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=BNfnfYpvawM">https://www.youtube.com/watch?v=BNfnfYpvawM</a></p><p>🚀视频简介：</p><p>✅8.95亿Token！实测MiniMax M3.1 Flash，长程开发项目交出的作品究竟怎么样？</p><p>MiniMax M3.1 Flash 刚发布，我就把它接入 OpenCode，挑战几项实际开发任务：macOS 原生音乐播放器、科幻小说中的极光号飞船，以及巴塞罗那圣家堂。三项任务分别耗时 2 小时 40 分钟、3 小时 32 分钟和 5 小时 51 分钟。</p><p>还测试了动画生成等能力，实测效果请观看视频哦😊</p><p></p><p>👉👉👉我的开源项目: <a href="https://github.com/win4r/">https://github.com/win4r/</a></p><p>👉👉👉请我喝咖啡: <a href="https://ko-fi.com/aila">https://ko-fi.com/aila</a></p><p></p><p>🔥🔥🔥YouTube 时间戳：</p><p>00:00 MiniMax新模型与实测目标</p><p>00:47 平面图构建双层可探索3D房屋</p><p>02:56 艺术发展史动画实测</p><p>03:54 OpenCode开发macOS音乐播放器</p><p>05:38 3小时32分开发极光号飞船</p><p>07:17 5小时51分挑战圣家堂</p><p>08:39 Hermes黑洞骑行动画</p><p>09:07 Hermes昼夜变化动画</p><p>09:28 开发耗时与8.95亿Token统计</p><p>10:07 97.2%缓存命中率与总结</p><p></p><p></p><p>#minimaxai #minimax #opencode #hermes #aigc #aiagents #agents #ai #vibecoding #aianimation #aivideo #ai #agi #aicoding #minimaxm31</p>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/BNfnfYpvawM/hqdefault.jpg"/>
+      <pubDate>2026-10-20T15:15:58.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[🚀6亿Token只花了30元！我用DeepSeek-V4.1-Flash-1017连做7项开发测试，表现到底如何？在DeepSeek Harness中实测动画制作、游戏开发、iOS原生应用和前端开发]]></title>
+      <link>https://www.youtube.com/watch?v=wwesbpJ0Yrg</link>
+      <itunes:title><![CDATA[🚀6亿Token只花了30元！我用DeepSeek-V4.1-Flash-1017连做7项开发测试，表现到底如何？在DeepSeek Harness中实测动画制作、游戏开发、iOS原生应用和前端开发]]></itunes:title>
+      <itunes:author><![CDATA[AI超元域]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/wwesbpJ0Yrg/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=wwesbpJ0Yrg">https://www.youtube.com/watch?v=wwesbpJ0Yrg</a></p><h1>值得閱讀的理由</h1><ul><li>深入了解 DeepSeek 模型在動畫生成、3D 建模、遊戲引擎與原生行動端等多維度複雜程式開發的真實實踐能力。</li><li>直擊 AI 生成專案在實際運行時的互動表現與缺陷，包含操控失誤、模型穿模、介面適配問題及硬體負載狀況。</li><li>見證高達 6.19 億 Token 的高強度多任務開發實測，揭曉極致性價比的運算成本花費。</li></ul><hr /><h1>摘要</h1><h2>測試背景與環境配置</h2><p>作者針對 DeepSeek 最新發布的模型展開一系列嚴苛的程式開發實測，並選用 <strong>DeepSeek-Harness</strong> 作為測試環境，設定為高推理層級以評估其極限能力。本次評測涵蓋視覺動畫、三維建築、物理互動遊戲以及行動端原生應用等七大挑戰，旨在檢視生成成果的完整度、互動體驗與潛在運行錯誤。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/wwesbpJ0Yrg_66.jpg" /></p><h2>歷史動畫與三維空間重現</h2><p>首先在視覺生成方面，模型耗時約 49 分鐘產出一段包含背景配樂的<strong>藝術發展史動畫</strong>，成片氛圍良好，但在人物比例與生物細節上略有瑕疵。隨後作者挑戰重現<strong>巴塞隆納聖家堂</strong>與《清明上河圖》中的<strong>虹橋場景</strong>，模型成功構建出能自由漫遊的外觀與內部細節，展現出宏大的空間塑造力；然而高負載運算導致設備嚴重發燙，且虹橋船隻過橋時亦出現了穿模等渲染破圖問題。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/wwesbpJ0Yrg_408.jpg" /></p><h2>複雜載具建模與遊戲引擎開發</h2><p>在遊戲與載具實測中，作者要求復刻科幻小說中的<strong>極光號宇宙飛船</strong>，模型以 1 小時 21 分鐘精緻呈現引擎尾焰、外觀結構乃至內部載人艙的房舍與植被細節。接著測試 3D <strong>海戰遊戲</strong>與基於 Godot 引擎的<strong>侏羅紀坦克射擊遊戲</strong>，雖然遊戲架構完整且已具備基本遊玩性，優於過往早期版本，但在航向操作反向、船體傾覆以及瞄準卡頓報錯等操控與邏輯細節上，仍暴露出需要人工修復的缺陷。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/wwesbpJ0Yrg_623.jpg" /></p><h2>iOS 原生應用適配與整體成本結算</h2><p>最後一項任務是開發一款<strong>原生 iOS 背單字應用</strong>，此項目消耗了全場最高的運算資源。實機測試時，在 iPad 端雖順利展示單字卡片翻轉、朗讀發音與聽力測驗反饋，但底部導航列卻無法點擊；隨後移至 iPhone 端驗證，底部導航與頁面切換功能均能正常運作。最終作者結算本輪高強度測試，共計消耗了 <strong>6.19 億 Token</strong>，總費用僅花費 <strong>30.04 元人民幣</strong>，展現出驚人的開發性價比。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/wwesbpJ0Yrg_800.jpg" /></p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=wwesbpJ0Yrg">https://www.youtube.com/watch?v=wwesbpJ0Yrg</a></p><p>🚀视频简介：</p><p></p><p>DeepSeek-V4.1-Flash-1017编程实测：7项任务花费30.04元，看看画面效果、实际交互和运行问题</p><p></p><p>本期视频记录的Token用量达到6.19亿。动画、三维场景、游戏和原生iOS应用，实际运行效果究竟怎样？</p><p></p><p>本期在DeepSeek Harness中实测DeepSeek-V4.1-Flash-1017，沿用此前的多组提示词，检查艺术史动画、圣家堂、海战、《清明上河图》虹桥、极光号飞船、坦克游戏和背单词应用。从生成文件到上手操作，逐项看建筑内外细节、载人舱结构、游戏操控和手机平板交互。</p><p></p><p>动画生成了带配乐的成片，飞船能进入载人舱探索，背单词应用也展示了卡片发音、翻转和听力测试。同时，海战转向错误、场景穿模、运行发热以及平板导航失灵，也暴露出实际使用的问题。视频保留了这些体验差异，结尾再核对本轮花费与用量。</p><p></p><p>👉👉👉我的开源项目:<a href="https://github.com/win4r/">https://github.com/win4r/</a></p><p>👉👉👉请我喝咖啡:<a href="https://ko-fi.com/aila">https://ko-fi.com/aila</a></p><p></p><p>🔥🔥🔥YouTube时间戳：</p><p>00:00 官方基准与测试目标</p><p>01:06 调用配置与初始余额</p><p>01:35 艺术史动画生成实测</p><p>03:18 圣家堂外观与内部探索</p><p>04:57 海战游戏操控问题</p><p>06:48 虹桥场景与穿模问题</p><p>08:33 极光号飞船内外探索</p><p>10:17 游戏引擎开发与运行报错</p><p>11:16 背单词应用双端测试</p><p>13:20 总花费与用量揭晓</p><p></p><p>#deepseek #deepseekharness #deepseekv4 #deepseekv41 #deepseekv41flash #aicoding #vibecoding #aiagents #harnessengineering #harness #aigc #agi #ai #aianimation #aigame</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/wwesbpJ0Yrg/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=wwesbpJ0Yrg">https://www.youtube.com/watch?v=wwesbpJ0Yrg</a></p><h1>值得閱讀的理由</h1><ul><li>深入了解 DeepSeek 模型在動畫生成、3D 建模、遊戲引擎與原生行動端等多維度複雜程式開發的真實實踐能力。</li><li>直擊 AI 生成專案在實際運行時的互動表現與缺陷，包含操控失誤、模型穿模、介面適配問題及硬體負載狀況。</li><li>見證高達 6.19 億 Token 的高強度多任務開發實測，揭曉極致性價比的運算成本花費。</li></ul><hr /><h1>摘要</h1><h2>測試背景與環境配置</h2><p>作者針對 DeepSeek 最新發布的模型展開一系列嚴苛的程式開發實測，並選用 <strong>DeepSeek-Harness</strong> 作為測試環境，設定為高推理層級以評估其極限能力。本次評測涵蓋視覺動畫、三維建築、物理互動遊戲以及行動端原生應用等七大挑戰，旨在檢視生成成果的完整度、互動體驗與潛在運行錯誤。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/wwesbpJ0Yrg_66.jpg" /></p><h2>歷史動畫與三維空間重現</h2><p>首先在視覺生成方面，模型耗時約 49 分鐘產出一段包含背景配樂的<strong>藝術發展史動畫</strong>，成片氛圍良好，但在人物比例與生物細節上略有瑕疵。隨後作者挑戰重現<strong>巴塞隆納聖家堂</strong>與《清明上河圖》中的<strong>虹橋場景</strong>，模型成功構建出能自由漫遊的外觀與內部細節，展現出宏大的空間塑造力；然而高負載運算導致設備嚴重發燙，且虹橋船隻過橋時亦出現了穿模等渲染破圖問題。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/wwesbpJ0Yrg_408.jpg" /></p><h2>複雜載具建模與遊戲引擎開發</h2><p>在遊戲與載具實測中，作者要求復刻科幻小說中的<strong>極光號宇宙飛船</strong>，模型以 1 小時 21 分鐘精緻呈現引擎尾焰、外觀結構乃至內部載人艙的房舍與植被細節。接著測試 3D <strong>海戰遊戲</strong>與基於 Godot 引擎的<strong>侏羅紀坦克射擊遊戲</strong>，雖然遊戲架構完整且已具備基本遊玩性，優於過往早期版本，但在航向操作反向、船體傾覆以及瞄準卡頓報錯等操控與邏輯細節上，仍暴露出需要人工修復的缺陷。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/wwesbpJ0Yrg_623.jpg" /></p><h2>iOS 原生應用適配與整體成本結算</h2><p>最後一項任務是開發一款<strong>原生 iOS 背單字應用</strong>，此項目消耗了全場最高的運算資源。實機測試時，在 iPad 端雖順利展示單字卡片翻轉、朗讀發音與聽力測驗反饋，但底部導航列卻無法點擊；隨後移至 iPhone 端驗證，底部導航與頁面切換功能均能正常運作。最終作者結算本輪高強度測試，共計消耗了 <strong>6.19 億 Token</strong>，總費用僅花費 <strong>30.04 元人民幣</strong>，展現出驚人的開發性價比。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/wwesbpJ0Yrg_800.jpg" /></p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=wwesbpJ0Yrg">https://www.youtube.com/watch?v=wwesbpJ0Yrg</a></p><p>🚀视频简介：</p><p></p><p>DeepSeek-V4.1-Flash-1017编程实测：7项任务花费30.04元，看看画面效果、实际交互和运行问题</p><p></p><p>本期视频记录的Token用量达到6.19亿。动画、三维场景、游戏和原生iOS应用，实际运行效果究竟怎样？</p><p></p><p>本期在DeepSeek Harness中实测DeepSeek-V4.1-Flash-1017，沿用此前的多组提示词，检查艺术史动画、圣家堂、海战、《清明上河图》虹桥、极光号飞船、坦克游戏和背单词应用。从生成文件到上手操作，逐项看建筑内外细节、载人舱结构、游戏操控和手机平板交互。</p><p></p><p>动画生成了带配乐的成片，飞船能进入载人舱探索，背单词应用也展示了卡片发音、翻转和听力测试。同时，海战转向错误、场景穿模、运行发热以及平板导航失灵，也暴露出实际使用的问题。视频保留了这些体验差异，结尾再核对本轮花费与用量。</p><p></p><p>👉👉👉我的开源项目:<a href="https://github.com/win4r/">https://github.com/win4r/</a></p><p>👉👉👉请我喝咖啡:<a href="https://ko-fi.com/aila">https://ko-fi.com/aila</a></p><p></p><p>🔥🔥🔥YouTube时间戳：</p><p>00:00 官方基准与测试目标</p><p>01:06 调用配置与初始余额</p><p>01:35 艺术史动画生成实测</p><p>03:18 圣家堂外观与内部探索</p><p>04:57 海战游戏操控问题</p><p>06:48 虹桥场景与穿模问题</p><p>08:33 极光号飞船内外探索</p><p>10:17 游戏引擎开发与运行报错</p><p>11:16 背单词应用双端测试</p><p>13:20 总花费与用量揭晓</p><p></p><p>#deepseek #deepseekharness #deepseekv4 #deepseekv41 #deepseekv41flash #aicoding #vibecoding #aiagents #harnessengineering #harness #aigc #agi #ai #aianimation #aigame</p>]]>
+      </description>
+      <content:encoded><![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/wwesbpJ0Yrg/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=wwesbpJ0Yrg">https://www.youtube.com/watch?v=wwesbpJ0Yrg</a></p><h1>值得閱讀的理由</h1><ul><li>深入了解 DeepSeek 模型在動畫生成、3D 建模、遊戲引擎與原生行動端等多維度複雜程式開發的真實實踐能力。</li><li>直擊 AI 生成專案在實際運行時的互動表現與缺陷，包含操控失誤、模型穿模、介面適配問題及硬體負載狀況。</li><li>見證高達 6.19 億 Token 的高強度多任務開發實測，揭曉極致性價比的運算成本花費。</li></ul><hr /><h1>摘要</h1><h2>測試背景與環境配置</h2><p>作者針對 DeepSeek 最新發布的模型展開一系列嚴苛的程式開發實測，並選用 <strong>DeepSeek-Harness</strong> 作為測試環境，設定為高推理層級以評估其極限能力。本次評測涵蓋視覺動畫、三維建築、物理互動遊戲以及行動端原生應用等七大挑戰，旨在檢視生成成果的完整度、互動體驗與潛在運行錯誤。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/wwesbpJ0Yrg_66.jpg" /></p><h2>歷史動畫與三維空間重現</h2><p>首先在視覺生成方面，模型耗時約 49 分鐘產出一段包含背景配樂的<strong>藝術發展史動畫</strong>，成片氛圍良好，但在人物比例與生物細節上略有瑕疵。隨後作者挑戰重現<strong>巴塞隆納聖家堂</strong>與《清明上河圖》中的<strong>虹橋場景</strong>，模型成功構建出能自由漫遊的外觀與內部細節，展現出宏大的空間塑造力；然而高負載運算導致設備嚴重發燙，且虹橋船隻過橋時亦出現了穿模等渲染破圖問題。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/wwesbpJ0Yrg_408.jpg" /></p><h2>複雜載具建模與遊戲引擎開發</h2><p>在遊戲與載具實測中，作者要求復刻科幻小說中的<strong>極光號宇宙飛船</strong>，模型以 1 小時 21 分鐘精緻呈現引擎尾焰、外觀結構乃至內部載人艙的房舍與植被細節。接著測試 3D <strong>海戰遊戲</strong>與基於 Godot 引擎的<strong>侏羅紀坦克射擊遊戲</strong>，雖然遊戲架構完整且已具備基本遊玩性，優於過往早期版本，但在航向操作反向、船體傾覆以及瞄準卡頓報錯等操控與邏輯細節上，仍暴露出需要人工修復的缺陷。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/wwesbpJ0Yrg_623.jpg" /></p><h2>iOS 原生應用適配與整體成本結算</h2><p>最後一項任務是開發一款<strong>原生 iOS 背單字應用</strong>，此項目消耗了全場最高的運算資源。實機測試時，在 iPad 端雖順利展示單字卡片翻轉、朗讀發音與聽力測驗反饋，但底部導航列卻無法點擊；隨後移至 iPhone 端驗證，底部導航與頁面切換功能均能正常運作。最終作者結算本輪高強度測試，共計消耗了 <strong>6.19 億 Token</strong>，總費用僅花費 <strong>30.04 元人民幣</strong>，展現出驚人的開發性價比。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/wwesbpJ0Yrg_800.jpg" /></p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=wwesbpJ0Yrg">https://www.youtube.com/watch?v=wwesbpJ0Yrg</a></p><p>🚀视频简介：</p><p></p><p>DeepSeek-V4.1-Flash-1017编程实测：7项任务花费30.04元，看看画面效果、实际交互和运行问题</p><p></p><p>本期视频记录的Token用量达到6.19亿。动画、三维场景、游戏和原生iOS应用，实际运行效果究竟怎样？</p><p></p><p>本期在DeepSeek Harness中实测DeepSeek-V4.1-Flash-1017，沿用此前的多组提示词，检查艺术史动画、圣家堂、海战、《清明上河图》虹桥、极光号飞船、坦克游戏和背单词应用。从生成文件到上手操作，逐项看建筑内外细节、载人舱结构、游戏操控和手机平板交互。</p><p></p><p>动画生成了带配乐的成片，飞船能进入载人舱探索，背单词应用也展示了卡片发音、翻转和听力测试。同时，海战转向错误、场景穿模、运行发热以及平板导航失灵，也暴露出实际使用的问题。视频保留了这些体验差异，结尾再核对本轮花费与用量。</p><p></p><p>👉👉👉我的开源项目:<a href="https://github.com/win4r/">https://github.com/win4r/</a></p><p>👉👉👉请我喝咖啡:<a href="https://ko-fi.com/aila">https://ko-fi.com/aila</a></p><p></p><p>🔥🔥🔥YouTube时间戳：</p><p>00:00 官方基准与测试目标</p><p>01:06 调用配置与初始余额</p><p>01:35 艺术史动画生成实测</p><p>03:18 圣家堂外观与内部探索</p><p>04:57 海战游戏操控问题</p><p>06:48 虹桥场景与穿模问题</p><p>08:33 极光号飞船内外探索</p><p>10:17 游戏引擎开发与运行报错</p><p>11:16 背单词应用双端测试</p><p>13:20 总花费与用量揭晓</p><p></p><p>#deepseek #deepseekharness #deepseekv4 #deepseekv41 #deepseekv41flash #aicoding #vibecoding #aiagents #harnessengineering #harness #aigc #agi #ai #aianimation #aigame</p>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/wwesbpJ0Yrg/hqdefault.jpg"/>
+      <pubDate>2026-10-17T17:04:25.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[🚀Meta Muse免费视频生成实测：从吉卜力动画、真人生活抓拍到科幻大片再到仙侠视频，音画一起生成，再手把手教你用三张参考图控制人物、服装与场景，完整流程一次看懂！超越MiniMax H3效果炸裂！]]></title>
+      <link>https://www.youtube.com/watch?v=xgdOEnFLZUg</link>
+      <itunes:title><![CDATA[🚀Meta Muse免费视频生成实测：从吉卜力动画、真人生活抓拍到科幻大片再到仙侠视频，音画一起生成，再手把手教你用三张参考图控制人物、服装与场景，完整流程一次看懂！超越MiniMax H3效果炸裂！]]></itunes:title>
+      <itunes:author><![CDATA[AI超元域]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/xgdOEnFLZUg/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=xgdOEnFLZUg">https://www.youtube.com/watch?v=xgdOEnFLZUg</a></p><h1>值得閱讀的理由</h1><ul><li>透過多種風格的實測，了解 Meta Muse 生成影片時的畫面、聲音與提示詞遵循表現。</li><li>掌握影片生成額度、註冊方式與生成速度等實用資訊，評估免費方案是否足以支援創作。</li><li>學會運用定妝照、服裝照與場景照，提升影片中人物、服飾與背景的一致性。</li></ul><hr /><h1>摘要</h1><h2>認識 Muse 與免費額度</h2><p>作者介紹 Meta 的 Muse 影片生成工具，並展示它能將<strong>畫面、對白與音效一併生成</strong>。作者也說明免費額度的使用方式，指出單次生成會消耗一定比例的額度，並介紹透過註冊及邀請碼取得額外資源的方法。</p><p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/xgdOEnFLZUg_94.jpg" /></p></p><h2>多種風格影片實測</h2><p>作者依序測試手繪水彩動畫、真人生活抓拍、科幻場景、自然風雨與仙俠畫面。展示內容涵蓋人物動作、表情、環境細節、中文對白及音效，藉此呈現 Muse 對提示詞的理解與不同風格的生成效果。作者也現場測試生成速度，並分享影片完成所需時間。</p><p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/xgdOEnFLZUg_438.jpg" /></p></p><h2>以參考圖維持人物一致性</h2><p>影片後半段，作者示範一套人物一致性流程：先準備人物<strong>定妝照</strong>，再製作服裝照與場景照，並在提示詞中指定每張參考圖的用途。接著，作者將三張圖片用於生成雪地人像影片，安排人物轉圈、看雪及說出「北方的雪好美」。</p><p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/xgdOEnFLZUg_633.jpg" /></p></p><h2>成果與創作應用</h2><p>作者展示生成影片，並指出畫面呈現了飄雪、腳印、服裝細節與人物受冷時的臉部變化。作者總結，透過參考圖和清楚的提示詞，可以更好地控制人物、服裝及場景；結合工具的免費額度，這套流程也可用於動畫、生活短片或 AI 短劇創作。</p><p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/xgdOEnFLZUg_676.jpg" /></p></p><hr /></final><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=xgdOEnFLZUg">https://www.youtube.com/watch?v=xgdOEnFLZUg</a></p><p>🚀视频简介：</p><p>✅ 科幻大片、御剑翻车、雨夜女友和吉卜力少女，居然都在同一个AI里生成！Meta Muse多风格视频实测，画面、对白与音效一起体验，最后手把手拆解人物一致性流程，看看免费额度能做什么！</p><p>🎬 免费额度能做出怎样的 AI 视频？本期实测 Meta Muse，从吉卜力动画、真人生活抓拍，到飞碟坠海、麦田雷雨和仙侠场景，一起看提示词遵循、画面细节、中文对白与环境音效！</p><p>⚡ 同时展示本次生成速度与免费额度消耗。</p><p>🧩 后半段完整拆解人物一致性流程：先准备定妆照，再生成服装照与场景照，最后用三张参考图组合生成雪地人像视频。</p><p>🎥 想尝试动画、生活短片或 AI 短剧，可以从这套流程入手。</p><p></p><p>👉👉👉我的开源项目：<a href="https://github.com/win4r/">https://github.com/win4r/</a></p><p>👉👉👉请我喝咖啡：<a href="https://ko-fi.com/aila">https://ko-fi.com/aila</a></p><p></p><p>🔥🔥🔥YouTube时间戳：</p><p>00:00 Muse视频生成介绍与本期看点</p><p>00:51 Muse Video：音画同生与效果介绍</p><p>01:06 免费额度消耗与每周用量估算</p><p>01:34 注册Muse与邀请码奖励</p><p>01:51 吉卜力手绘水彩动画实测</p><p>02:46 真人生活抓拍：动作、对白与细节</p><p>04:03 科幻电影片段：沙漠飞碟与坠海场景</p><p>05:54 自然场景实测：麦田雷雨与音效</p><p>06:18 仙侠视频：御剑反转与云雾场景</p><p>07:17 视频生成速度现场实测</p><p>08:25 人物一致性：定妆照、服装照与场景照</p><p>09:49 三张参考图生成雪地人像视频</p><p></p><p>#muse #meta #metamuse #aiagents #agents #musevideo #aivideo #aiart #aianimation #aigc #ai #agi #openai #dots #aicoding #vibecoding #aifilm #aimovie</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/xgdOEnFLZUg/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=xgdOEnFLZUg">https://www.youtube.com/watch?v=xgdOEnFLZUg</a></p><h1>值得閱讀的理由</h1><ul><li>透過多種風格的實測，了解 Meta Muse 生成影片時的畫面、聲音與提示詞遵循表現。</li><li>掌握影片生成額度、註冊方式與生成速度等實用資訊，評估免費方案是否足以支援創作。</li><li>學會運用定妝照、服裝照與場景照，提升影片中人物、服飾與背景的一致性。</li></ul><hr /><h1>摘要</h1><h2>認識 Muse 與免費額度</h2><p>作者介紹 Meta 的 Muse 影片生成工具，並展示它能將<strong>畫面、對白與音效一併生成</strong>。作者也說明免費額度的使用方式，指出單次生成會消耗一定比例的額度，並介紹透過註冊及邀請碼取得額外資源的方法。</p><p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/xgdOEnFLZUg_94.jpg" /></p></p><h2>多種風格影片實測</h2><p>作者依序測試手繪水彩動畫、真人生活抓拍、科幻場景、自然風雨與仙俠畫面。展示內容涵蓋人物動作、表情、環境細節、中文對白及音效，藉此呈現 Muse 對提示詞的理解與不同風格的生成效果。作者也現場測試生成速度，並分享影片完成所需時間。</p><p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/xgdOEnFLZUg_438.jpg" /></p></p><h2>以參考圖維持人物一致性</h2><p>影片後半段，作者示範一套人物一致性流程：先準備人物<strong>定妝照</strong>，再製作服裝照與場景照，並在提示詞中指定每張參考圖的用途。接著，作者將三張圖片用於生成雪地人像影片，安排人物轉圈、看雪及說出「北方的雪好美」。</p><p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/xgdOEnFLZUg_633.jpg" /></p></p><h2>成果與創作應用</h2><p>作者展示生成影片，並指出畫面呈現了飄雪、腳印、服裝細節與人物受冷時的臉部變化。作者總結，透過參考圖和清楚的提示詞，可以更好地控制人物、服裝及場景；結合工具的免費額度，這套流程也可用於動畫、生活短片或 AI 短劇創作。</p><p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/xgdOEnFLZUg_676.jpg" /></p></p><hr /></final><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=xgdOEnFLZUg">https://www.youtube.com/watch?v=xgdOEnFLZUg</a></p><p>🚀视频简介：</p><p>✅ 科幻大片、御剑翻车、雨夜女友和吉卜力少女，居然都在同一个AI里生成！Meta Muse多风格视频实测，画面、对白与音效一起体验，最后手把手拆解人物一致性流程，看看免费额度能做什么！</p><p>🎬 免费额度能做出怎样的 AI 视频？本期实测 Meta Muse，从吉卜力动画、真人生活抓拍，到飞碟坠海、麦田雷雨和仙侠场景，一起看提示词遵循、画面细节、中文对白与环境音效！</p><p>⚡ 同时展示本次生成速度与免费额度消耗。</p><p>🧩 后半段完整拆解人物一致性流程：先准备定妆照，再生成服装照与场景照，最后用三张参考图组合生成雪地人像视频。</p><p>🎥 想尝试动画、生活短片或 AI 短剧，可以从这套流程入手。</p><p></p><p>👉👉👉我的开源项目：<a href="https://github.com/win4r/">https://github.com/win4r/</a></p><p>👉👉👉请我喝咖啡：<a href="https://ko-fi.com/aila">https://ko-fi.com/aila</a></p><p></p><p>🔥🔥🔥YouTube时间戳：</p><p>00:00 Muse视频生成介绍与本期看点</p><p>00:51 Muse Video：音画同生与效果介绍</p><p>01:06 免费额度消耗与每周用量估算</p><p>01:34 注册Muse与邀请码奖励</p><p>01:51 吉卜力手绘水彩动画实测</p><p>02:46 真人生活抓拍：动作、对白与细节</p><p>04:03 科幻电影片段：沙漠飞碟与坠海场景</p><p>05:54 自然场景实测：麦田雷雨与音效</p><p>06:18 仙侠视频：御剑反转与云雾场景</p><p>07:17 视频生成速度现场实测</p><p>08:25 人物一致性：定妆照、服装照与场景照</p><p>09:49 三张参考图生成雪地人像视频</p><p></p><p>#muse #meta #metamuse #aiagents #agents #musevideo #aivideo #aiart #aianimation #aigc #ai #agi #openai #dots #aicoding #vibecoding #aifilm #aimovie</p>]]>
+      </description>
+      <content:encoded><![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/xgdOEnFLZUg/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=xgdOEnFLZUg">https://www.youtube.com/watch?v=xgdOEnFLZUg</a></p><h1>值得閱讀的理由</h1><ul><li>透過多種風格的實測，了解 Meta Muse 生成影片時的畫面、聲音與提示詞遵循表現。</li><li>掌握影片生成額度、註冊方式與生成速度等實用資訊，評估免費方案是否足以支援創作。</li><li>學會運用定妝照、服裝照與場景照，提升影片中人物、服飾與背景的一致性。</li></ul><hr /><h1>摘要</h1><h2>認識 Muse 與免費額度</h2><p>作者介紹 Meta 的 Muse 影片生成工具，並展示它能將<strong>畫面、對白與音效一併生成</strong>。作者也說明免費額度的使用方式，指出單次生成會消耗一定比例的額度，並介紹透過註冊及邀請碼取得額外資源的方法。</p><p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/xgdOEnFLZUg_94.jpg" /></p></p><h2>多種風格影片實測</h2><p>作者依序測試手繪水彩動畫、真人生活抓拍、科幻場景、自然風雨與仙俠畫面。展示內容涵蓋人物動作、表情、環境細節、中文對白及音效，藉此呈現 Muse 對提示詞的理解與不同風格的生成效果。作者也現場測試生成速度，並分享影片完成所需時間。</p><p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/xgdOEnFLZUg_438.jpg" /></p></p><h2>以參考圖維持人物一致性</h2><p>影片後半段，作者示範一套人物一致性流程：先準備人物<strong>定妝照</strong>，再製作服裝照與場景照，並在提示詞中指定每張參考圖的用途。接著，作者將三張圖片用於生成雪地人像影片，安排人物轉圈、看雪及說出「北方的雪好美」。</p><p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/xgdOEnFLZUg_633.jpg" /></p></p><h2>成果與創作應用</h2><p>作者展示生成影片，並指出畫面呈現了飄雪、腳印、服裝細節與人物受冷時的臉部變化。作者總結，透過參考圖和清楚的提示詞，可以更好地控制人物、服裝及場景；結合工具的免費額度，這套流程也可用於動畫、生活短片或 AI 短劇創作。</p><p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/xgdOEnFLZUg_676.jpg" /></p></p><hr /></final><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=xgdOEnFLZUg">https://www.youtube.com/watch?v=xgdOEnFLZUg</a></p><p>🚀视频简介：</p><p>✅ 科幻大片、御剑翻车、雨夜女友和吉卜力少女，居然都在同一个AI里生成！Meta Muse多风格视频实测，画面、对白与音效一起体验，最后手把手拆解人物一致性流程，看看免费额度能做什么！</p><p>🎬 免费额度能做出怎样的 AI 视频？本期实测 Meta Muse，从吉卜力动画、真人生活抓拍，到飞碟坠海、麦田雷雨和仙侠场景，一起看提示词遵循、画面细节、中文对白与环境音效！</p><p>⚡ 同时展示本次生成速度与免费额度消耗。</p><p>🧩 后半段完整拆解人物一致性流程：先准备定妆照，再生成服装照与场景照，最后用三张参考图组合生成雪地人像视频。</p><p>🎥 想尝试动画、生活短片或 AI 短剧，可以从这套流程入手。</p><p></p><p>👉👉👉我的开源项目：<a href="https://github.com/win4r/">https://github.com/win4r/</a></p><p>👉👉👉请我喝咖啡：<a href="https://ko-fi.com/aila">https://ko-fi.com/aila</a></p><p></p><p>🔥🔥🔥YouTube时间戳：</p><p>00:00 Muse视频生成介绍与本期看点</p><p>00:51 Muse Video：音画同生与效果介绍</p><p>01:06 免费额度消耗与每周用量估算</p><p>01:34 注册Muse与邀请码奖励</p><p>01:51 吉卜力手绘水彩动画实测</p><p>02:46 真人生活抓拍：动作、对白与细节</p><p>04:03 科幻电影片段：沙漠飞碟与坠海场景</p><p>05:54 自然场景实测：麦田雷雨与音效</p><p>06:18 仙侠视频：御剑反转与云雾场景</p><p>07:17 视频生成速度现场实测</p><p>08:25 人物一致性：定妆照、服装照与场景照</p><p>09:49 三张参考图生成雪地人像视频</p><p></p><p>#muse #meta #metamuse #aiagents #agents #musevideo #aivideo #aiart #aianimation #aigc #ai #agi #openai #dots #aicoding #vibecoding #aifilm #aimovie</p>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/xgdOEnFLZUg/hqdefault.jpg"/>
+      <pubDate>2026-10-05T15:02:42.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[🚀超越Muse！OpenAI dots深度实测：GPT-6 Astra驱动云端电脑，语音实时交互、多个任务一起跑，游戏开发、浏览器自动化，Blender创建三维模型，云端智能体不只是陪你聊天，真能干活]]></title>
+      <link>https://www.youtube.com/watch?v=RhlCOuG3DMY</link>
+      <itunes:title><![CDATA[🚀超越Muse！OpenAI dots深度实测：GPT-6 Astra驱动云端电脑，语音实时交互、多个任务一起跑，游戏开发、浏览器自动化，Blender创建三维模型，云端智能体不只是陪你聊天，真能干活]]></itunes:title>
+      <itunes:author><![CDATA[AI超元域]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/RhlCOuG3DMY/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=RhlCOuG3DMY">https://www.youtube.com/watch?v=RhlCOuG3DMY</a></p><h1>值得閱讀的理由</h1><ul><li>深入了解具備獨立雲端電腦環境的 AI 智慧體 <strong>OpenAI Dots</strong>，如何打破單純對話框限制並自主操作專業軟體。</li><li>掌握語音指令直接跨應用控制 <strong>Notion</strong>、<strong>Slack</strong> 與資料庫的端到端自動化工作流程。</li><li>見證強大的<strong>平行多工處理</strong>能力，體驗 AI 同時編寫 <strong>Godot</strong> 遊戲、構建 <strong>Blender</strong> 3D 模型與調用命令列工具的高效實踐。</li></ul><hr /><h1>摘要</h1><h2>雲端智慧體 Dots 的誕生與整合配置</h2><p>作者介紹了 OpenAI 推出的常駐型後台雲端智慧體 <strong>Dots</strong>。這款智慧體運行於 <strong>Debian Linux</strong> 虛擬系統，配置有 10GB 記憶體與 32GB 儲存空間，並預載了多款生產力工具且可連接數千種應用。作者實測建立自訂 Dots，利用圖像生成技術設計專屬動態頭像，並透過歷史對話識別技術棧，順利將其接入 <strong>Slack</strong> 協作平台，使其成為能隨時派發任務的得力數位同事。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/RhlCOuG3DMY_177.jpg" /></p><h2>語音驅動的文獻檢索與筆記同步</h2><p>作者展示了令人驚豔的<strong>即時語音交互</strong>工作流。作者透過語音通話要求 Dots 檢索其 <strong>Notion</strong> 筆記中與大模型微調相關的資料，Dots 不僅迅速返回關聯內容，還根據後續語音指令搜尋最新的 <strong>QLoRA 論文</strong>，在雲端進行過濾與精華提煉後，直接將結構化摘要自動回寫至 Notion 筆記中，展現了強大的<strong>跨平台知識整合</strong>能力。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/RhlCOuG3DMY_442.jpg" /></p><h2>排程自動化與雙軌並行創作實測</h2><p>Dots 具備設定自動化<strong>定時任務</strong>的能力，可每日定期巡檢 GitHub Issues 或追蹤最新官方資訊，並能串接 <strong>Supabase</strong> 進行資料庫查詢。在性能實測環節，作者指派 Dots 同時展開兩項繁重任務：一方面利用 <strong>Godot 引擎</strong>編寫並驗證經典的貪食蛇遊戲，另一方面在背景調用 <strong>Blender</strong> 建立英國巨石陣的 3D 模型。兩項任務互不干擾，最終作者順利試玩了生成的遊戲，並成功下載了渲染成品與模型原始檔。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/RhlCOuG3DMY_666.jpg" /></p><h2>終端指令擴充與多元工具鏈整合</h2><p>除了圖形介面與內建工具，Dots 亦支援 Linux 終端環境的高階操作。作者在雲端虛擬機中實測安裝並登入 <strong>Grok CLI</strong>，隨後藉由該命令列工具迅速生成了一個登入頁面 Demo。作者總結指出，Dots 具備協同調用 <strong>Codex CLI</strong> 或各類外部開發工具的彈性，已從傳統的對話式 AI 演進為具備實質執行力的全方位雲端數位員工。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=RhlCOuG3DMY">https://www.youtube.com/watch?v=RhlCOuG3DMY</a></p><p>🚀视频简介：</p><p>✅给AI打个电话派发任务！ChatGPT里的常驻同事能有多能干？OpenAI dots深度实测：语音操作Notion、设置定时任务，还能在自己的云电脑里开发游戏</p><p>🖥️ AI有了自己的云电脑，能交出什么？这次我让OpenAI dots并行开发Godot贪吃蛇和Blender巨石阵，拿到源码后亲自试玩，也查看了模型文件与渲染图；随后再让它安装、调用Grok CLI，做出一个简单登录页Demo。</p><p>🎙️ 除了云端开发，我还测试了语音工作流：从Notion找旧笔记，检索论文，再把整理后的内容写回Notion。视频同时演示了助手创建、动态头像、历史记忆、Slack接入、桌面同步、定时任务与Supabase连接。这个由GPT-6 Astra驱动的常驻助手，重点不是多聊几句，而是把指令接到实际软件和工作应用中。</p><p>🔍 看点还包括任务并行推进、打开游戏窗口检查，以及文件交付后的本地验证。本次案例仍是简单游戏、模型和页面，定时任务主要展示设置流程，没有将它当作长期无人值守测试。</p><p></p><p>👉👉👉我的开源项目:<a href="https://github.com/win4r/">https://github.com/win4r/</a></p><p>👉👉👉请我喝咖啡:<a href="https://ko-fi.com/aila">https://ko-fi.com/aila</a></p><p></p><p>🔥🔥🔥YouTube 时间戳：</p><p>00:00 dots定位与核心能力</p><p>01:24 创建助手与动态头像</p><p>02:07 历史记忆与接入Slack</p><p>02:55 语音查论文与写入笔记</p><p>06:46 桌面同步与文件输出</p><p>07:20 设置每日自动检查任务</p><p>08:01 插件安装与数据库连接</p><p>08:37 云端电脑与内置工具</p><p>09:05 游戏开发与三维建模并行</p><p>10:27 贪吃蛇试玩与模型交付</p><p>11:06 安装并调用Grok CLI</p><p>11:53 实测小结与后续内容</p><p></p><p>#dots #openai #aiagents #muse #grokbot #chatgpt #codex #aigc #agi #ai #gpt6 #gpt6astra #gpt61 #aicoding #godot #blender #blender3d #grok #godot</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/RhlCOuG3DMY/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=RhlCOuG3DMY">https://www.youtube.com/watch?v=RhlCOuG3DMY</a></p><h1>值得閱讀的理由</h1><ul><li>深入了解具備獨立雲端電腦環境的 AI 智慧體 <strong>OpenAI Dots</strong>，如何打破單純對話框限制並自主操作專業軟體。</li><li>掌握語音指令直接跨應用控制 <strong>Notion</strong>、<strong>Slack</strong> 與資料庫的端到端自動化工作流程。</li><li>見證強大的<strong>平行多工處理</strong>能力，體驗 AI 同時編寫 <strong>Godot</strong> 遊戲、構建 <strong>Blender</strong> 3D 模型與調用命令列工具的高效實踐。</li></ul><hr /><h1>摘要</h1><h2>雲端智慧體 Dots 的誕生與整合配置</h2><p>作者介紹了 OpenAI 推出的常駐型後台雲端智慧體 <strong>Dots</strong>。這款智慧體運行於 <strong>Debian Linux</strong> 虛擬系統，配置有 10GB 記憶體與 32GB 儲存空間，並預載了多款生產力工具且可連接數千種應用。作者實測建立自訂 Dots，利用圖像生成技術設計專屬動態頭像，並透過歷史對話識別技術棧，順利將其接入 <strong>Slack</strong> 協作平台，使其成為能隨時派發任務的得力數位同事。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/RhlCOuG3DMY_177.jpg" /></p><h2>語音驅動的文獻檢索與筆記同步</h2><p>作者展示了令人驚豔的<strong>即時語音交互</strong>工作流。作者透過語音通話要求 Dots 檢索其 <strong>Notion</strong> 筆記中與大模型微調相關的資料，Dots 不僅迅速返回關聯內容，還根據後續語音指令搜尋最新的 <strong>QLoRA 論文</strong>，在雲端進行過濾與精華提煉後，直接將結構化摘要自動回寫至 Notion 筆記中，展現了強大的<strong>跨平台知識整合</strong>能力。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/RhlCOuG3DMY_442.jpg" /></p><h2>排程自動化與雙軌並行創作實測</h2><p>Dots 具備設定自動化<strong>定時任務</strong>的能力，可每日定期巡檢 GitHub Issues 或追蹤最新官方資訊，並能串接 <strong>Supabase</strong> 進行資料庫查詢。在性能實測環節，作者指派 Dots 同時展開兩項繁重任務：一方面利用 <strong>Godot 引擎</strong>編寫並驗證經典的貪食蛇遊戲，另一方面在背景調用 <strong>Blender</strong> 建立英國巨石陣的 3D 模型。兩項任務互不干擾，最終作者順利試玩了生成的遊戲，並成功下載了渲染成品與模型原始檔。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/RhlCOuG3DMY_666.jpg" /></p><h2>終端指令擴充與多元工具鏈整合</h2><p>除了圖形介面與內建工具，Dots 亦支援 Linux 終端環境的高階操作。作者在雲端虛擬機中實測安裝並登入 <strong>Grok CLI</strong>，隨後藉由該命令列工具迅速生成了一個登入頁面 Demo。作者總結指出，Dots 具備協同調用 <strong>Codex CLI</strong> 或各類外部開發工具的彈性，已從傳統的對話式 AI 演進為具備實質執行力的全方位雲端數位員工。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=RhlCOuG3DMY">https://www.youtube.com/watch?v=RhlCOuG3DMY</a></p><p>🚀视频简介：</p><p>✅给AI打个电话派发任务！ChatGPT里的常驻同事能有多能干？OpenAI dots深度实测：语音操作Notion、设置定时任务，还能在自己的云电脑里开发游戏</p><p>🖥️ AI有了自己的云电脑，能交出什么？这次我让OpenAI dots并行开发Godot贪吃蛇和Blender巨石阵，拿到源码后亲自试玩，也查看了模型文件与渲染图；随后再让它安装、调用Grok CLI，做出一个简单登录页Demo。</p><p>🎙️ 除了云端开发，我还测试了语音工作流：从Notion找旧笔记，检索论文，再把整理后的内容写回Notion。视频同时演示了助手创建、动态头像、历史记忆、Slack接入、桌面同步、定时任务与Supabase连接。这个由GPT-6 Astra驱动的常驻助手，重点不是多聊几句，而是把指令接到实际软件和工作应用中。</p><p>🔍 看点还包括任务并行推进、打开游戏窗口检查，以及文件交付后的本地验证。本次案例仍是简单游戏、模型和页面，定时任务主要展示设置流程，没有将它当作长期无人值守测试。</p><p></p><p>👉👉👉我的开源项目:<a href="https://github.com/win4r/">https://github.com/win4r/</a></p><p>👉👉👉请我喝咖啡:<a href="https://ko-fi.com/aila">https://ko-fi.com/aila</a></p><p></p><p>🔥🔥🔥YouTube 时间戳：</p><p>00:00 dots定位与核心能力</p><p>01:24 创建助手与动态头像</p><p>02:07 历史记忆与接入Slack</p><p>02:55 语音查论文与写入笔记</p><p>06:46 桌面同步与文件输出</p><p>07:20 设置每日自动检查任务</p><p>08:01 插件安装与数据库连接</p><p>08:37 云端电脑与内置工具</p><p>09:05 游戏开发与三维建模并行</p><p>10:27 贪吃蛇试玩与模型交付</p><p>11:06 安装并调用Grok CLI</p><p>11:53 实测小结与后续内容</p><p></p><p>#dots #openai #aiagents #muse #grokbot #chatgpt #codex #aigc #agi #ai #gpt6 #gpt6astra #gpt61 #aicoding #godot #blender #blender3d #grok #godot</p>]]>
+      </description>
+      <content:encoded><![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/RhlCOuG3DMY/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=RhlCOuG3DMY">https://www.youtube.com/watch?v=RhlCOuG3DMY</a></p><h1>值得閱讀的理由</h1><ul><li>深入了解具備獨立雲端電腦環境的 AI 智慧體 <strong>OpenAI Dots</strong>，如何打破單純對話框限制並自主操作專業軟體。</li><li>掌握語音指令直接跨應用控制 <strong>Notion</strong>、<strong>Slack</strong> 與資料庫的端到端自動化工作流程。</li><li>見證強大的<strong>平行多工處理</strong>能力，體驗 AI 同時編寫 <strong>Godot</strong> 遊戲、構建 <strong>Blender</strong> 3D 模型與調用命令列工具的高效實踐。</li></ul><hr /><h1>摘要</h1><h2>雲端智慧體 Dots 的誕生與整合配置</h2><p>作者介紹了 OpenAI 推出的常駐型後台雲端智慧體 <strong>Dots</strong>。這款智慧體運行於 <strong>Debian Linux</strong> 虛擬系統，配置有 10GB 記憶體與 32GB 儲存空間，並預載了多款生產力工具且可連接數千種應用。作者實測建立自訂 Dots，利用圖像生成技術設計專屬動態頭像，並透過歷史對話識別技術棧，順利將其接入 <strong>Slack</strong> 協作平台，使其成為能隨時派發任務的得力數位同事。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/RhlCOuG3DMY_177.jpg" /></p><h2>語音驅動的文獻檢索與筆記同步</h2><p>作者展示了令人驚豔的<strong>即時語音交互</strong>工作流。作者透過語音通話要求 Dots 檢索其 <strong>Notion</strong> 筆記中與大模型微調相關的資料，Dots 不僅迅速返回關聯內容，還根據後續語音指令搜尋最新的 <strong>QLoRA 論文</strong>，在雲端進行過濾與精華提煉後，直接將結構化摘要自動回寫至 Notion 筆記中，展現了強大的<strong>跨平台知識整合</strong>能力。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/RhlCOuG3DMY_442.jpg" /></p><h2>排程自動化與雙軌並行創作實測</h2><p>Dots 具備設定自動化<strong>定時任務</strong>的能力，可每日定期巡檢 GitHub Issues 或追蹤最新官方資訊，並能串接 <strong>Supabase</strong> 進行資料庫查詢。在性能實測環節，作者指派 Dots 同時展開兩項繁重任務：一方面利用 <strong>Godot 引擎</strong>編寫並驗證經典的貪食蛇遊戲，另一方面在背景調用 <strong>Blender</strong> 建立英國巨石陣的 3D 模型。兩項任務互不干擾，最終作者順利試玩了生成的遊戲，並成功下載了渲染成品與模型原始檔。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/RhlCOuG3DMY_666.jpg" /></p><h2>終端指令擴充與多元工具鏈整合</h2><p>除了圖形介面與內建工具，Dots 亦支援 Linux 終端環境的高階操作。作者在雲端虛擬機中實測安裝並登入 <strong>Grok CLI</strong>，隨後藉由該命令列工具迅速生成了一個登入頁面 Demo。作者總結指出，Dots 具備協同調用 <strong>Codex CLI</strong> 或各類外部開發工具的彈性，已從傳統的對話式 AI 演進為具備實質執行力的全方位雲端數位員工。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=RhlCOuG3DMY">https://www.youtube.com/watch?v=RhlCOuG3DMY</a></p><p>🚀视频简介：</p><p>✅给AI打个电话派发任务！ChatGPT里的常驻同事能有多能干？OpenAI dots深度实测：语音操作Notion、设置定时任务，还能在自己的云电脑里开发游戏</p><p>🖥️ AI有了自己的云电脑，能交出什么？这次我让OpenAI dots并行开发Godot贪吃蛇和Blender巨石阵，拿到源码后亲自试玩，也查看了模型文件与渲染图；随后再让它安装、调用Grok CLI，做出一个简单登录页Demo。</p><p>🎙️ 除了云端开发，我还测试了语音工作流：从Notion找旧笔记，检索论文，再把整理后的内容写回Notion。视频同时演示了助手创建、动态头像、历史记忆、Slack接入、桌面同步、定时任务与Supabase连接。这个由GPT-6 Astra驱动的常驻助手，重点不是多聊几句，而是把指令接到实际软件和工作应用中。</p><p>🔍 看点还包括任务并行推进、打开游戏窗口检查，以及文件交付后的本地验证。本次案例仍是简单游戏、模型和页面，定时任务主要展示设置流程，没有将它当作长期无人值守测试。</p><p></p><p>👉👉👉我的开源项目:<a href="https://github.com/win4r/">https://github.com/win4r/</a></p><p>👉👉👉请我喝咖啡:<a href="https://ko-fi.com/aila">https://ko-fi.com/aila</a></p><p></p><p>🔥🔥🔥YouTube 时间戳：</p><p>00:00 dots定位与核心能力</p><p>01:24 创建助手与动态头像</p><p>02:07 历史记忆与接入Slack</p><p>02:55 语音查论文与写入笔记</p><p>06:46 桌面同步与文件输出</p><p>07:20 设置每日自动检查任务</p><p>08:01 插件安装与数据库连接</p><p>08:37 云端电脑与内置工具</p><p>09:05 游戏开发与三维建模并行</p><p>10:27 贪吃蛇试玩与模型交付</p><p>11:06 安装并调用Grok CLI</p><p>11:53 实测小结与后续内容</p><p></p><p>#dots #openai #aiagents #muse #grokbot #chatgpt #codex #aigc #agi #ai #gpt6 #gpt6astra #gpt61 #aicoding #godot #blender #blender3d #grok #godot</p>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/RhlCOuG3DMY/hqdefault.jpg"/>
+      <pubDate>2026-09-30T11:34:43.000Z</pubDate>
+    </item></channel>
+</rss>
