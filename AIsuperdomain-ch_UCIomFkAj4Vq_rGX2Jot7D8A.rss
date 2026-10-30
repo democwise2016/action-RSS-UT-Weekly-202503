@@ -30,6 +30,80 @@
     </itunes:owner>
     <itunes:image href="https://yt3.ggpht.com/6AyGuZqZQctDdjIWe9VYpaCVAD84ADoSpCcuUmaw2ANCPJu88x1A5svwfZpW5Hvhapl5N1nuqQ=s88-c-k-c0x00ffffff-no-rj"/>
 <item>
+      <title><![CDATA[🚀本地部署全方位实测Unlimited-OCR-2！33亿参数能把复杂文档读到什么程度？从模糊扫描书页到双栏研究报告，从复杂表格到数学公式，再到中日韩混排文档，逐项检查文字识别、表格结构与排版解析效果]]></title>
+      <link>https://www.youtube.com/watch?v=W7lSIikNJBI</link>
+      <itunes:title><![CDATA[🚀本地部署全方位实测Unlimited-OCR-2！33亿参数能把复杂文档读到什么程度？从模糊扫描书页到双栏研究报告，从复杂表格到数学公式，再到中日韩混排文档，逐项检查文字识别、表格结构与排版解析效果]]></itunes:title>
+      <itunes:author><![CDATA[AI超元域]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/W7lSIikNJBI/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=W7lSIikNJBI">https://www.youtube.com/watch?v=W7lSIikNJBI</a></p><h1>值得閱讀的理由</h1>
+<ul>
+  <li><strong>深入了解最新 AI 模型：</strong>影片針對百度最新開源的 33 億參數文檔解析模型 Unlimited-OCR-2 進行了全方位的本地部署實測。</li>
+  <li><strong>解析複雜文件極限：</strong>展示模型在模糊掃描書頁、雙欄研究報告、複雜表格、數學公式及中日韓混排文檔中的實際辨識效果。</li>
+  <li><strong>具備高參考價值的技術評測：</strong>透過具體案例檢驗文字識別、表格結構與排版解析能力，幫助開發者與技術愛好者快速掌握其實際應用表現。</li>
+</ul>
+
+<hr />
+
+<h1>摘要</h1>
+<p>這部由 YouTube 頻道創作者（@AIsuperdomain）所發布的影片，主要進行了百度開源模型 <strong>Unlimited-OCR-2</strong> 的本地部署與全方位實測。該模型的參數量約為 33 億（3.34B），主打能夠處理超長與複雜的文檔解析任務。</p>
+
+<p>在影片內容中，實測範圍涵蓋多種高難度的文件類型。首先針對<strong>模糊的掃描書頁</strong>與<strong>雙欄研究報告</strong>進行文字識別與排版結構的檢驗，確認其在非標準格式下的表現；其次，影片也實際測試了<strong>複雜表格</strong>，強調其不僅要辨識出文字內容，更需要完整保留原本的表格結構。</p>
+
+<p>此外，實測項目還包含了<strong>數學公式</strong>以及<strong>中日韓混排文檔</strong>的解析效果，全面逐項檢視該模型在多語言環境與符號辨識上的精確度，為關注開源多模態文件解析技術的觀眾提供了一個直觀的本地部署運行參考。</p>
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=W7lSIikNJBI">https://www.youtube.com/watch?v=W7lSIikNJBI</a></p><p>🚀视频简介：</p><p></p><p>✅复杂表格不只要认出文字，还要保住原来的结构！Unlimited-OCR-2本地实测：面对多种复杂表格、双栏研究报告和包含公式的混合文档，它能否正确提取内容并保留表格结构？从原始PDF到解析结果逐项核对，再检查表格上下方的正文与页面内容，看看百度这款33亿参数模型到底能处理多复杂的文档</p><p></p><p>📄 单页扫描书页2.6秒，10页PDF用时39.7秒：这是Unlimited-OCR-2在本次RTX A6000测试中的表现。复杂文档能否读准，还要把识别结果和原文放在一起核对。</p><p></p><p>🔍 本期从本地运行和测试界面讲起，依次挑战双栏排版、复杂表格、数学公式、模糊扫描件、竖排繁体，以及同页混排的中文、日语和韩语。部分复杂文档为合成样例，重点观察文字提取、表格结构保留和阅读顺序，展示各类样例的实际解析结果。</p><p></p><p>👉👉👉我的开源项目:<a href="https://github.com/win4r/">https://github.com/win4r/</a></p><p>👉👉👉请我喝咖啡:<a href="https://ko-fi.com/aila">https://ko-fi.com/aila</a></p><p></p><p>🔥🔥🔥YouTube 时间戳：</p><p>00:00 模型亮点与测试背景</p><p>01:20 本地部署与开源工具</p><p>02:17 单页扫描与解析耗时</p><p>03:15 十页文档解析实测</p><p>04:07 双栏报告与阅读顺序</p><p>05:06 复杂表格结构识别</p><p>05:55 数学公式与图表识别</p><p>06:37 模糊扫描件识别效果</p><p>07:04 竖排繁体的顺序问题</p><p>07:50 中日韩混排文档实测</p><p>08:39 实测总结与使用感受</p><p></p><p>#unlimitedocr2 #ocr #pdf #vlm #llm #aivision #unlimitedocr #aigc #ai #aiagents #agi #aicoding #vibecoding #multimodal</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/W7lSIikNJBI/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=W7lSIikNJBI">https://www.youtube.com/watch?v=W7lSIikNJBI</a></p><h1>值得閱讀的理由</h1>
+<ul>
+  <li><strong>深入了解最新 AI 模型：</strong>影片針對百度最新開源的 33 億參數文檔解析模型 Unlimited-OCR-2 進行了全方位的本地部署實測。</li>
+  <li><strong>解析複雜文件極限：</strong>展示模型在模糊掃描書頁、雙欄研究報告、複雜表格、數學公式及中日韓混排文檔中的實際辨識效果。</li>
+  <li><strong>具備高參考價值的技術評測：</strong>透過具體案例檢驗文字識別、表格結構與排版解析能力，幫助開發者與技術愛好者快速掌握其實際應用表現。</li>
+</ul>
+
+<hr />
+
+<h1>摘要</h1>
+<p>這部由 YouTube 頻道創作者（@AIsuperdomain）所發布的影片，主要進行了百度開源模型 <strong>Unlimited-OCR-2</strong> 的本地部署與全方位實測。該模型的參數量約為 33 億（3.34B），主打能夠處理超長與複雜的文檔解析任務。</p>
+
+<p>在影片內容中，實測範圍涵蓋多種高難度的文件類型。首先針對<strong>模糊的掃描書頁</strong>與<strong>雙欄研究報告</strong>進行文字識別與排版結構的檢驗，確認其在非標準格式下的表現；其次，影片也實際測試了<strong>複雜表格</strong>，強調其不僅要辨識出文字內容，更需要完整保留原本的表格結構。</p>
+
+<p>此外，實測項目還包含了<strong>數學公式</strong>以及<strong>中日韓混排文檔</strong>的解析效果，全面逐項檢視該模型在多語言環境與符號辨識上的精確度，為關注開源多模態文件解析技術的觀眾提供了一個直觀的本地部署運行參考。</p>
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=W7lSIikNJBI">https://www.youtube.com/watch?v=W7lSIikNJBI</a></p><p>🚀视频简介：</p><p></p><p>✅复杂表格不只要认出文字，还要保住原来的结构！Unlimited-OCR-2本地实测：面对多种复杂表格、双栏研究报告和包含公式的混合文档，它能否正确提取内容并保留表格结构？从原始PDF到解析结果逐项核对，再检查表格上下方的正文与页面内容，看看百度这款33亿参数模型到底能处理多复杂的文档</p><p></p><p>📄 单页扫描书页2.6秒，10页PDF用时39.7秒：这是Unlimited-OCR-2在本次RTX A6000测试中的表现。复杂文档能否读准，还要把识别结果和原文放在一起核对。</p><p></p><p>🔍 本期从本地运行和测试界面讲起，依次挑战双栏排版、复杂表格、数学公式、模糊扫描件、竖排繁体，以及同页混排的中文、日语和韩语。部分复杂文档为合成样例，重点观察文字提取、表格结构保留和阅读顺序，展示各类样例的实际解析结果。</p><p></p><p>👉👉👉我的开源项目:<a href="https://github.com/win4r/">https://github.com/win4r/</a></p><p>👉👉👉请我喝咖啡:<a href="https://ko-fi.com/aila">https://ko-fi.com/aila</a></p><p></p><p>🔥🔥🔥YouTube 时间戳：</p><p>00:00 模型亮点与测试背景</p><p>01:20 本地部署与开源工具</p><p>02:17 单页扫描与解析耗时</p><p>03:15 十页文档解析实测</p><p>04:07 双栏报告与阅读顺序</p><p>05:06 复杂表格结构识别</p><p>05:55 数学公式与图表识别</p><p>06:37 模糊扫描件识别效果</p><p>07:04 竖排繁体的顺序问题</p><p>07:50 中日韩混排文档实测</p><p>08:39 实测总结与使用感受</p><p></p><p>#unlimitedocr2 #ocr #pdf #vlm #llm #aivision #unlimitedocr #aigc #ai #aiagents #agi #aicoding #vibecoding #multimodal</p>]]>
+      </description>
+      <content:encoded><![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/W7lSIikNJBI/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=W7lSIikNJBI">https://www.youtube.com/watch?v=W7lSIikNJBI</a></p><h1>值得閱讀的理由</h1>
+<ul>
+  <li><strong>深入了解最新 AI 模型：</strong>影片針對百度最新開源的 33 億參數文檔解析模型 Unlimited-OCR-2 進行了全方位的本地部署實測。</li>
+  <li><strong>解析複雜文件極限：</strong>展示模型在模糊掃描書頁、雙欄研究報告、複雜表格、數學公式及中日韓混排文檔中的實際辨識效果。</li>
+  <li><strong>具備高參考價值的技術評測：</strong>透過具體案例檢驗文字識別、表格結構與排版解析能力，幫助開發者與技術愛好者快速掌握其實際應用表現。</li>
+</ul>
+
+<hr />
+
+<h1>摘要</h1>
+<p>這部由 YouTube 頻道創作者（@AIsuperdomain）所發布的影片，主要進行了百度開源模型 <strong>Unlimited-OCR-2</strong> 的本地部署與全方位實測。該模型的參數量約為 33 億（3.34B），主打能夠處理超長與複雜的文檔解析任務。</p>
+
+<p>在影片內容中，實測範圍涵蓋多種高難度的文件類型。首先針對<strong>模糊的掃描書頁</strong>與<strong>雙欄研究報告</strong>進行文字識別與排版結構的檢驗，確認其在非標準格式下的表現；其次，影片也實際測試了<strong>複雜表格</strong>，強調其不僅要辨識出文字內容，更需要完整保留原本的表格結構。</p>
+
+<p>此外，實測項目還包含了<strong>數學公式</strong>以及<strong>中日韓混排文檔</strong>的解析效果，全面逐項檢視該模型在多語言環境與符號辨識上的精確度，為關注開源多模態文件解析技術的觀眾提供了一個直觀的本地部署運行參考。</p>
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=W7lSIikNJBI">https://www.youtube.com/watch?v=W7lSIikNJBI</a></p><p>🚀视频简介：</p><p></p><p>✅复杂表格不只要认出文字，还要保住原来的结构！Unlimited-OCR-2本地实测：面对多种复杂表格、双栏研究报告和包含公式的混合文档，它能否正确提取内容并保留表格结构？从原始PDF到解析结果逐项核对，再检查表格上下方的正文与页面内容，看看百度这款33亿参数模型到底能处理多复杂的文档</p><p></p><p>📄 单页扫描书页2.6秒，10页PDF用时39.7秒：这是Unlimited-OCR-2在本次RTX A6000测试中的表现。复杂文档能否读准，还要把识别结果和原文放在一起核对。</p><p></p><p>🔍 本期从本地运行和测试界面讲起，依次挑战双栏排版、复杂表格、数学公式、模糊扫描件、竖排繁体，以及同页混排的中文、日语和韩语。部分复杂文档为合成样例，重点观察文字提取、表格结构保留和阅读顺序，展示各类样例的实际解析结果。</p><p></p><p>👉👉👉我的开源项目:<a href="https://github.com/win4r/">https://github.com/win4r/</a></p><p>👉👉👉请我喝咖啡:<a href="https://ko-fi.com/aila">https://ko-fi.com/aila</a></p><p></p><p>🔥🔥🔥YouTube 时间戳：</p><p>00:00 模型亮点与测试背景</p><p>01:20 本地部署与开源工具</p><p>02:17 单页扫描与解析耗时</p><p>03:15 十页文档解析实测</p><p>04:07 双栏报告与阅读顺序</p><p>05:06 复杂表格结构识别</p><p>05:55 数学公式与图表识别</p><p>06:37 模糊扫描件识别效果</p><p>07:04 竖排繁体的顺序问题</p><p>07:50 中日韩混排文档实测</p><p>08:39 实测总结与使用感受</p><p></p><p>#unlimitedocr2 #ocr #pdf #vlm #llm #aivision #unlimitedocr #aigc #ai #aiagents #agi #aicoding #vibecoding #multimodal</p>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/W7lSIikNJBI/hqdefault.jpg"/>
+      <pubDate>2026-10-30T14:26:38.000Z</pubDate>
+    </item><item>
       <title><![CDATA[🚀Claude Duet华语区首测！Anthropic的云电脑能否超越Dots、Grok Bot、Meta Muse？最强个人AI助手！从创建频道、设置定时任务到多任务并行不中断，开发者必备！效率倍增]]></title>
       <link>https://www.youtube.com/watch?v=aQ8gC58O4l0</link>
       <itunes:title><![CDATA[🚀Claude Duet华语区首测！Anthropic的云电脑能否超越Dots、Grok Bot、Meta Muse？最强个人AI助手！从创建频道、设置定时任务到多任务并行不中断，开发者必备！效率倍增]]></itunes:title>
@@ -289,37 +363,5 @@
 <p><a href="https://www.youtube.com/watch?v=wwesbpJ0Yrg">https://www.youtube.com/watch?v=wwesbpJ0Yrg</a></p><p>🚀视频简介：</p><p></p><p>DeepSeek-V4.1-Flash-1017编程实测：7项任务花费30.04元，看看画面效果、实际交互和运行问题</p><p></p><p>本期视频记录的Token用量达到6.19亿。动画、三维场景、游戏和原生iOS应用，实际运行效果究竟怎样？</p><p></p><p>本期在DeepSeek Harness中实测DeepSeek-V4.1-Flash-1017，沿用此前的多组提示词，检查艺术史动画、圣家堂、海战、《清明上河图》虹桥、极光号飞船、坦克游戏和背单词应用。从生成文件到上手操作，逐项看建筑内外细节、载人舱结构、游戏操控和手机平板交互。</p><p></p><p>动画生成了带配乐的成片，飞船能进入载人舱探索，背单词应用也展示了卡片发音、翻转和听力测试。同时，海战转向错误、场景穿模、运行发热以及平板导航失灵，也暴露出实际使用的问题。视频保留了这些体验差异，结尾再核对本轮花费与用量。</p><p></p><p>👉👉👉我的开源项目:<a href="https://github.com/win4r/">https://github.com/win4r/</a></p><p>👉👉👉请我喝咖啡:<a href="https://ko-fi.com/aila">https://ko-fi.com/aila</a></p><p></p><p>🔥🔥🔥YouTube时间戳：</p><p>00:00 官方基准与测试目标</p><p>01:06 调用配置与初始余额</p><p>01:35 艺术史动画生成实测</p><p>03:18 圣家堂外观与内部探索</p><p>04:57 海战游戏操控问题</p><p>06:48 虹桥场景与穿模问题</p><p>08:33 极光号飞船内外探索</p><p>10:17 游戏引擎开发与运行报错</p><p>11:16 背单词应用双端测试</p><p>13:20 总花费与用量揭晓</p><p></p><p>#deepseek #deepseekharness #deepseekv4 #deepseekv41 #deepseekv41flash #aicoding #vibecoding #aiagents #harnessengineering #harness #aigc #agi #ai #aianimation #aigame</p>]]></content:encoded>
       <itunes:image href="https://i.ytimg.com/vi/wwesbpJ0Yrg/hqdefault.jpg"/>
       <pubDate>2026-10-17T17:04:25.000Z</pubDate>
-    </item><item>
-      <title><![CDATA[🚀Meta Muse免费视频生成实测：从吉卜力动画、真人生活抓拍到科幻大片再到仙侠视频，音画一起生成，再手把手教你用三张参考图控制人物、服装与场景，完整流程一次看懂！超越MiniMax H3效果炸裂！]]></title>
-      <link>https://www.youtube.com/watch?v=xgdOEnFLZUg</link>
-      <itunes:title><![CDATA[🚀Meta Muse免费视频生成实测：从吉卜力动画、真人生活抓拍到科幻大片再到仙侠视频，音画一起生成，再手把手教你用三张参考图控制人物、服装与场景，完整流程一次看懂！超越MiniMax H3效果炸裂！]]></itunes:title>
-      <itunes:author><![CDATA[AI超元域]]></itunes:author>
-      <itunes:summary>
-        <![CDATA[<hr style="clear:both" />
-
-<p><img src="https://img.youtube.com/vi/xgdOEnFLZUg/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=xgdOEnFLZUg">https://www.youtube.com/watch?v=xgdOEnFLZUg</a></p><h1>值得閱讀的理由</h1><ul><li>透過多種風格的實測，了解 Meta Muse 生成影片時的畫面、聲音與提示詞遵循表現。</li><li>掌握影片生成額度、註冊方式與生成速度等實用資訊，評估免費方案是否足以支援創作。</li><li>學會運用定妝照、服裝照與場景照，提升影片中人物、服飾與背景的一致性。</li></ul><hr /><h1>摘要</h1><h2>認識 Muse 與免費額度</h2><p>作者介紹 Meta 的 Muse 影片生成工具，並展示它能將<strong>畫面、對白與音效一併生成</strong>。作者也說明免費額度的使用方式，指出單次生成會消耗一定比例的額度，並介紹透過註冊及邀請碼取得額外資源的方法。</p><p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/xgdOEnFLZUg_94.jpg" /></p></p><h2>多種風格影片實測</h2><p>作者依序測試手繪水彩動畫、真人生活抓拍、科幻場景、自然風雨與仙俠畫面。展示內容涵蓋人物動作、表情、環境細節、中文對白及音效，藉此呈現 Muse 對提示詞的理解與不同風格的生成效果。作者也現場測試生成速度，並分享影片完成所需時間。</p><p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/xgdOEnFLZUg_438.jpg" /></p></p><h2>以參考圖維持人物一致性</h2><p>影片後半段，作者示範一套人物一致性流程：先準備人物<strong>定妝照</strong>，再製作服裝照與場景照，並在提示詞中指定每張參考圖的用途。接著，作者將三張圖片用於生成雪地人像影片，安排人物轉圈、看雪及說出「北方的雪好美」。</p><p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/xgdOEnFLZUg_633.jpg" /></p></p><h2>成果與創作應用</h2><p>作者展示生成影片，並指出畫面呈現了飄雪、腳印、服裝細節與人物受冷時的臉部變化。作者總結，透過參考圖和清楚的提示詞，可以更好地控制人物、服裝及場景；結合工具的免費額度，這套流程也可用於動畫、生活短片或 AI 短劇創作。</p><p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/xgdOEnFLZUg_676.jpg" /></p></p><hr /></final><hr />
-
-<hr style="clear:both" />
-=============
-<p><a href="https://www.youtube.com/watch?v=xgdOEnFLZUg">https://www.youtube.com/watch?v=xgdOEnFLZUg</a></p><p>🚀视频简介：</p><p>✅ 科幻大片、御剑翻车、雨夜女友和吉卜力少女，居然都在同一个AI里生成！Meta Muse多风格视频实测，画面、对白与音效一起体验，最后手把手拆解人物一致性流程，看看免费额度能做什么！</p><p>🎬 免费额度能做出怎样的 AI 视频？本期实测 Meta Muse，从吉卜力动画、真人生活抓拍，到飞碟坠海、麦田雷雨和仙侠场景，一起看提示词遵循、画面细节、中文对白与环境音效！</p><p>⚡ 同时展示本次生成速度与免费额度消耗。</p><p>🧩 后半段完整拆解人物一致性流程：先准备定妆照，再生成服装照与场景照，最后用三张参考图组合生成雪地人像视频。</p><p>🎥 想尝试动画、生活短片或 AI 短剧，可以从这套流程入手。</p><p></p><p>👉👉👉我的开源项目：<a href="https://github.com/win4r/">https://github.com/win4r/</a></p><p>👉👉👉请我喝咖啡：<a href="https://ko-fi.com/aila">https://ko-fi.com/aila</a></p><p></p><p>🔥🔥🔥YouTube时间戳：</p><p>00:00 Muse视频生成介绍与本期看点</p><p>00:51 Muse Video：音画同生与效果介绍</p><p>01:06 免费额度消耗与每周用量估算</p><p>01:34 注册Muse与邀请码奖励</p><p>01:51 吉卜力手绘水彩动画实测</p><p>02:46 真人生活抓拍：动作、对白与细节</p><p>04:03 科幻电影片段：沙漠飞碟与坠海场景</p><p>05:54 自然场景实测：麦田雷雨与音效</p><p>06:18 仙侠视频：御剑反转与云雾场景</p><p>07:17 视频生成速度现场实测</p><p>08:25 人物一致性：定妆照、服装照与场景照</p><p>09:49 三张参考图生成雪地人像视频</p><p></p><p>#muse #meta #metamuse #aiagents #agents #musevideo #aivideo #aiart #aianimation #aigc #ai #agi #openai #dots #aicoding #vibecoding #aifilm #aimovie</p>]]>
-      </itunes:summary>
-      <description>
-        <![CDATA[<hr style="clear:both" />
-
-<p><img src="https://img.youtube.com/vi/xgdOEnFLZUg/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=xgdOEnFLZUg">https://www.youtube.com/watch?v=xgdOEnFLZUg</a></p><h1>值得閱讀的理由</h1><ul><li>透過多種風格的實測，了解 Meta Muse 生成影片時的畫面、聲音與提示詞遵循表現。</li><li>掌握影片生成額度、註冊方式與生成速度等實用資訊，評估免費方案是否足以支援創作。</li><li>學會運用定妝照、服裝照與場景照，提升影片中人物、服飾與背景的一致性。</li></ul><hr /><h1>摘要</h1><h2>認識 Muse 與免費額度</h2><p>作者介紹 Meta 的 Muse 影片生成工具，並展示它能將<strong>畫面、對白與音效一併生成</strong>。作者也說明免費額度的使用方式，指出單次生成會消耗一定比例的額度，並介紹透過註冊及邀請碼取得額外資源的方法。</p><p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/xgdOEnFLZUg_94.jpg" /></p></p><h2>多種風格影片實測</h2><p>作者依序測試手繪水彩動畫、真人生活抓拍、科幻場景、自然風雨與仙俠畫面。展示內容涵蓋人物動作、表情、環境細節、中文對白及音效，藉此呈現 Muse 對提示詞的理解與不同風格的生成效果。作者也現場測試生成速度，並分享影片完成所需時間。</p><p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/xgdOEnFLZUg_438.jpg" /></p></p><h2>以參考圖維持人物一致性</h2><p>影片後半段，作者示範一套人物一致性流程：先準備人物<strong>定妝照</strong>，再製作服裝照與場景照，並在提示詞中指定每張參考圖的用途。接著，作者將三張圖片用於生成雪地人像影片，安排人物轉圈、看雪及說出「北方的雪好美」。</p><p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/xgdOEnFLZUg_633.jpg" /></p></p><h2>成果與創作應用</h2><p>作者展示生成影片，並指出畫面呈現了飄雪、腳印、服裝細節與人物受冷時的臉部變化。作者總結，透過參考圖和清楚的提示詞，可以更好地控制人物、服裝及場景；結合工具的免費額度，這套流程也可用於動畫、生活短片或 AI 短劇創作。</p><p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/xgdOEnFLZUg_676.jpg" /></p></p><hr /></final><hr />
-
-<hr style="clear:both" />
-=============
-<p><a href="https://www.youtube.com/watch?v=xgdOEnFLZUg">https://www.youtube.com/watch?v=xgdOEnFLZUg</a></p><p>🚀视频简介：</p><p>✅ 科幻大片、御剑翻车、雨夜女友和吉卜力少女，居然都在同一个AI里生成！Meta Muse多风格视频实测，画面、对白与音效一起体验，最后手把手拆解人物一致性流程，看看免费额度能做什么！</p><p>🎬 免费额度能做出怎样的 AI 视频？本期实测 Meta Muse，从吉卜力动画、真人生活抓拍，到飞碟坠海、麦田雷雨和仙侠场景，一起看提示词遵循、画面细节、中文对白与环境音效！</p><p>⚡ 同时展示本次生成速度与免费额度消耗。</p><p>🧩 后半段完整拆解人物一致性流程：先准备定妆照，再生成服装照与场景照，最后用三张参考图组合生成雪地人像视频。</p><p>🎥 想尝试动画、生活短片或 AI 短剧，可以从这套流程入手。</p><p></p><p>👉👉👉我的开源项目：<a href="https://github.com/win4r/">https://github.com/win4r/</a></p><p>👉👉👉请我喝咖啡：<a href="https://ko-fi.com/aila">https://ko-fi.com/aila</a></p><p></p><p>🔥🔥🔥YouTube时间戳：</p><p>00:00 Muse视频生成介绍与本期看点</p><p>00:51 Muse Video：音画同生与效果介绍</p><p>01:06 免费额度消耗与每周用量估算</p><p>01:34 注册Muse与邀请码奖励</p><p>01:51 吉卜力手绘水彩动画实测</p><p>02:46 真人生活抓拍：动作、对白与细节</p><p>04:03 科幻电影片段：沙漠飞碟与坠海场景</p><p>05:54 自然场景实测：麦田雷雨与音效</p><p>06:18 仙侠视频：御剑反转与云雾场景</p><p>07:17 视频生成速度现场实测</p><p>08:25 人物一致性：定妆照、服装照与场景照</p><p>09:49 三张参考图生成雪地人像视频</p><p></p><p>#muse #meta #metamuse #aiagents #agents #musevideo #aivideo #aiart #aianimation #aigc #ai #agi #openai #dots #aicoding #vibecoding #aifilm #aimovie</p>]]>
-      </description>
-      <content:encoded><![CDATA[<hr style="clear:both" />
-
-<p><img src="https://img.youtube.com/vi/xgdOEnFLZUg/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=xgdOEnFLZUg">https://www.youtube.com/watch?v=xgdOEnFLZUg</a></p><h1>值得閱讀的理由</h1><ul><li>透過多種風格的實測，了解 Meta Muse 生成影片時的畫面、聲音與提示詞遵循表現。</li><li>掌握影片生成額度、註冊方式與生成速度等實用資訊，評估免費方案是否足以支援創作。</li><li>學會運用定妝照、服裝照與場景照，提升影片中人物、服飾與背景的一致性。</li></ul><hr /><h1>摘要</h1><h2>認識 Muse 與免費額度</h2><p>作者介紹 Meta 的 Muse 影片生成工具，並展示它能將<strong>畫面、對白與音效一併生成</strong>。作者也說明免費額度的使用方式，指出單次生成會消耗一定比例的額度，並介紹透過註冊及邀請碼取得額外資源的方法。</p><p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/xgdOEnFLZUg_94.jpg" /></p></p><h2>多種風格影片實測</h2><p>作者依序測試手繪水彩動畫、真人生活抓拍、科幻場景、自然風雨與仙俠畫面。展示內容涵蓋人物動作、表情、環境細節、中文對白及音效，藉此呈現 Muse 對提示詞的理解與不同風格的生成效果。作者也現場測試生成速度，並分享影片完成所需時間。</p><p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/xgdOEnFLZUg_438.jpg" /></p></p><h2>以參考圖維持人物一致性</h2><p>影片後半段，作者示範一套人物一致性流程：先準備人物<strong>定妝照</strong>，再製作服裝照與場景照，並在提示詞中指定每張參考圖的用途。接著，作者將三張圖片用於生成雪地人像影片，安排人物轉圈、看雪及說出「北方的雪好美」。</p><p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/xgdOEnFLZUg_633.jpg" /></p></p><h2>成果與創作應用</h2><p>作者展示生成影片，並指出畫面呈現了飄雪、腳印、服裝細節與人物受冷時的臉部變化。作者總結，透過參考圖和清楚的提示詞，可以更好地控制人物、服裝及場景；結合工具的免費額度，這套流程也可用於動畫、生活短片或 AI 短劇創作。</p><p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/xgdOEnFLZUg_676.jpg" /></p></p><hr /></final><hr />
-
-<hr style="clear:both" />
-=============
-<p><a href="https://www.youtube.com/watch?v=xgdOEnFLZUg">https://www.youtube.com/watch?v=xgdOEnFLZUg</a></p><p>🚀视频简介：</p><p>✅ 科幻大片、御剑翻车、雨夜女友和吉卜力少女，居然都在同一个AI里生成！Meta Muse多风格视频实测，画面、对白与音效一起体验，最后手把手拆解人物一致性流程，看看免费额度能做什么！</p><p>🎬 免费额度能做出怎样的 AI 视频？本期实测 Meta Muse，从吉卜力动画、真人生活抓拍，到飞碟坠海、麦田雷雨和仙侠场景，一起看提示词遵循、画面细节、中文对白与环境音效！</p><p>⚡ 同时展示本次生成速度与免费额度消耗。</p><p>🧩 后半段完整拆解人物一致性流程：先准备定妆照，再生成服装照与场景照，最后用三张参考图组合生成雪地人像视频。</p><p>🎥 想尝试动画、生活短片或 AI 短剧，可以从这套流程入手。</p><p></p><p>👉👉👉我的开源项目：<a href="https://github.com/win4r/">https://github.com/win4r/</a></p><p>👉👉👉请我喝咖啡：<a href="https://ko-fi.com/aila">https://ko-fi.com/aila</a></p><p></p><p>🔥🔥🔥YouTube时间戳：</p><p>00:00 Muse视频生成介绍与本期看点</p><p>00:51 Muse Video：音画同生与效果介绍</p><p>01:06 免费额度消耗与每周用量估算</p><p>01:34 注册Muse与邀请码奖励</p><p>01:51 吉卜力手绘水彩动画实测</p><p>02:46 真人生活抓拍：动作、对白与细节</p><p>04:03 科幻电影片段：沙漠飞碟与坠海场景</p><p>05:54 自然场景实测：麦田雷雨与音效</p><p>06:18 仙侠视频：御剑反转与云雾场景</p><p>07:17 视频生成速度现场实测</p><p>08:25 人物一致性：定妆照、服装照与场景照</p><p>09:49 三张参考图生成雪地人像视频</p><p></p><p>#muse #meta #metamuse #aiagents #agents #musevideo #aivideo #aiart #aianimation #aigc #ai #agi #openai #dots #aicoding #vibecoding #aifilm #aimovie</p>]]></content:encoded>
-      <itunes:image href="https://i.ytimg.com/vi/xgdOEnFLZUg/hqdefault.jpg"/>
-      <pubDate>2026-10-05T15:02:42.000Z</pubDate>
     </item></channel>
 </rss>
