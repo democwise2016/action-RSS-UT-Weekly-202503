@@ -1,26 +1,26 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
   <channel>
     <title><![CDATA[AI超元域[YT+]]]></title>
-    <link>undefined</link>
+    <link>http://www.youtube.com/feeds/videos.xml?channel_id=UCIomFkAj4Vq_rGX2Jot7D8A</link>
     <image>
-      <url>https://fastly.picsum.photos/id/653/800/800.jpg?hmac=QT7O1JpbcALckQCGMImCwhgUdZtkMIZN_YeJLglBBOg</url>
+      <url>https://yt3.ggpht.com/6AyGuZqZQctDdjIWe9VYpaCVAD84ADoSpCcuUmaw2ANCPJu88x1A5svwfZpW5Hvhapl5N1nuqQ=s88-c-k-c0x00ffffff-no-rj</url>
       <title>AI超元域[YT+]</title>
-      <link>undefined</link>
+      <link>http://www.youtube.com/feeds/videos.xml?channel_id=UCIomFkAj4Vq_rGX2Jot7D8A</link>
     </image>
     <language>en-us</language>
-    <atom:link href="undefined" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://www.youtube.com/feeds/videos.xml?channel_id=UCIomFkAj4Vq_rGX2Jot7D8A" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[AI超元域[YT+]]]></copyright>
     <itunes:author><![CDATA[AI超元域[YT+]]]></itunes:author>
     <itunes:summary>
       <![CDATA[
-      Failed to parse feed: Status code 404<br />
+      AI从业者，擅长大模型微调、RAG、AI智能体开发等。<br />
 <br />
 <a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCIomFkAj4Vq_rGX2Jot7D8A" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCIomFkAj4Vq_rGX2Jot7D8A</a>
       ]]>
     </itunes:summary>
     <description>
       <![CDATA[
-      Failed to parse feed: Status code 404<br />
+      AI从业者，擅长大模型微调、RAG、AI智能体开发等。<br />
 <br />
 <a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCIomFkAj4Vq_rGX2Jot7D8A" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCIomFkAj4Vq_rGX2Jot7D8A</a>
       ]]>
@@ -28,6 +28,276 @@
     <itunes:owner>
       <itunes:name><![CDATA[AI超元域[YT+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/653/800/800.jpg?hmac=QT7O1JpbcALckQCGMImCwhgUdZtkMIZN_YeJLglBBOg"/>
-</channel>
+    <itunes:image href="https://yt3.ggpht.com/6AyGuZqZQctDdjIWe9VYpaCVAD84ADoSpCcuUmaw2ANCPJu88x1A5svwfZpW5Hvhapl5N1nuqQ=s88-c-k-c0x00ffffff-no-rj"/>
+<item>
+      <title><![CDATA[🚀本地部署全方位实测Unlimited-OCR-2！33亿参数能把复杂文档读到什么程度？从模糊扫描书页到双栏研究报告，从复杂表格到数学公式，再到中日韩混排文档，逐项检查文字识别、表格结构与排版解析效果]]></title>
+      <link>https://www.youtube.com/watch?v=W7lSIikNJBI</link>
+      <itunes:title><![CDATA[🚀本地部署全方位实测Unlimited-OCR-2！33亿参数能把复杂文档读到什么程度？从模糊扫描书页到双栏研究报告，从复杂表格到数学公式，再到中日韩混排文档，逐项检查文字识别、表格结构与排版解析效果]]></itunes:title>
+      <itunes:author><![CDATA[AI超元域]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/W7lSIikNJBI/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=W7lSIikNJBI">https://www.youtube.com/watch?v=W7lSIikNJBI</a></p><h1>值得閱讀的理由</h1>
+<ul>
+  <li><strong>深入了解最新 AI 模型：</strong>影片針對百度最新開源的 33 億參數文檔解析模型 Unlimited-OCR-2 進行了全方位的本地部署實測。</li>
+  <li><strong>解析複雜文件極限：</strong>展示模型在模糊掃描書頁、雙欄研究報告、複雜表格、數學公式及中日韓混排文檔中的實際辨識效果。</li>
+  <li><strong>具備高參考價值的技術評測：</strong>透過具體案例檢驗文字識別、表格結構與排版解析能力，幫助開發者與技術愛好者快速掌握其實際應用表現。</li>
+</ul>
+
+<hr />
+
+<h1>摘要</h1>
+<p>這部由 YouTube 頻道創作者（@AIsuperdomain）所發布的影片，主要進行了百度開源模型 <strong>Unlimited-OCR-2</strong> 的本地部署與全方位實測。該模型的參數量約為 33 億（3.34B），主打能夠處理超長與複雜的文檔解析任務。</p>
+
+<p>在影片內容中，實測範圍涵蓋多種高難度的文件類型。首先針對<strong>模糊的掃描書頁</strong>與<strong>雙欄研究報告</strong>進行文字識別與排版結構的檢驗，確認其在非標準格式下的表現；其次，影片也實際測試了<strong>複雜表格</strong>，強調其不僅要辨識出文字內容，更需要完整保留原本的表格結構。</p>
+
+<p>此外，實測項目還包含了<strong>數學公式</strong>以及<strong>中日韓混排文檔</strong>的解析效果，全面逐項檢視該模型在多語言環境與符號辨識上的精確度，為關注開源多模態文件解析技術的觀眾提供了一個直觀的本地部署運行參考。</p>
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=W7lSIikNJBI">https://www.youtube.com/watch?v=W7lSIikNJBI</a></p><p>🚀视频简介：</p><p></p><p>✅复杂表格不只要认出文字，还要保住原来的结构！Unlimited-OCR-2本地实测：面对多种复杂表格、双栏研究报告和包含公式的混合文档，它能否正确提取内容并保留表格结构？从原始PDF到解析结果逐项核对，再检查表格上下方的正文与页面内容，看看百度这款33亿参数模型到底能处理多复杂的文档</p><p></p><p>📄 单页扫描书页2.6秒，10页PDF用时39.7秒：这是Unlimited-OCR-2在本次RTX A6000测试中的表现。复杂文档能否读准，还要把识别结果和原文放在一起核对。</p><p></p><p>🔍 本期从本地运行和测试界面讲起，依次挑战双栏排版、复杂表格、数学公式、模糊扫描件、竖排繁体，以及同页混排的中文、日语和韩语。部分复杂文档为合成样例，重点观察文字提取、表格结构保留和阅读顺序，展示各类样例的实际解析结果。</p><p></p><p>👉👉👉我的开源项目:<a href="https://github.com/win4r/">https://github.com/win4r/</a></p><p>👉👉👉请我喝咖啡:<a href="https://ko-fi.com/aila">https://ko-fi.com/aila</a></p><p></p><p>🔥🔥🔥YouTube 时间戳：</p><p>00:00 模型亮点与测试背景</p><p>01:20 本地部署与开源工具</p><p>02:17 单页扫描与解析耗时</p><p>03:15 十页文档解析实测</p><p>04:07 双栏报告与阅读顺序</p><p>05:06 复杂表格结构识别</p><p>05:55 数学公式与图表识别</p><p>06:37 模糊扫描件识别效果</p><p>07:04 竖排繁体的顺序问题</p><p>07:50 中日韩混排文档实测</p><p>08:39 实测总结与使用感受</p><p></p><p>#unlimitedocr2 #ocr #pdf #vlm #llm #aivision #unlimitedocr #aigc #ai #aiagents #agi #aicoding #vibecoding #multimodal</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/W7lSIikNJBI/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=W7lSIikNJBI">https://www.youtube.com/watch?v=W7lSIikNJBI</a></p><h1>值得閱讀的理由</h1>
+<ul>
+  <li><strong>深入了解最新 AI 模型：</strong>影片針對百度最新開源的 33 億參數文檔解析模型 Unlimited-OCR-2 進行了全方位的本地部署實測。</li>
+  <li><strong>解析複雜文件極限：</strong>展示模型在模糊掃描書頁、雙欄研究報告、複雜表格、數學公式及中日韓混排文檔中的實際辨識效果。</li>
+  <li><strong>具備高參考價值的技術評測：</strong>透過具體案例檢驗文字識別、表格結構與排版解析能力，幫助開發者與技術愛好者快速掌握其實際應用表現。</li>
+</ul>
+
+<hr />
+
+<h1>摘要</h1>
+<p>這部由 YouTube 頻道創作者（@AIsuperdomain）所發布的影片，主要進行了百度開源模型 <strong>Unlimited-OCR-2</strong> 的本地部署與全方位實測。該模型的參數量約為 33 億（3.34B），主打能夠處理超長與複雜的文檔解析任務。</p>
+
+<p>在影片內容中，實測範圍涵蓋多種高難度的文件類型。首先針對<strong>模糊的掃描書頁</strong>與<strong>雙欄研究報告</strong>進行文字識別與排版結構的檢驗，確認其在非標準格式下的表現；其次，影片也實際測試了<strong>複雜表格</strong>，強調其不僅要辨識出文字內容，更需要完整保留原本的表格結構。</p>
+
+<p>此外，實測項目還包含了<strong>數學公式</strong>以及<strong>中日韓混排文檔</strong>的解析效果，全面逐項檢視該模型在多語言環境與符號辨識上的精確度，為關注開源多模態文件解析技術的觀眾提供了一個直觀的本地部署運行參考。</p>
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=W7lSIikNJBI">https://www.youtube.com/watch?v=W7lSIikNJBI</a></p><p>🚀视频简介：</p><p></p><p>✅复杂表格不只要认出文字，还要保住原来的结构！Unlimited-OCR-2本地实测：面对多种复杂表格、双栏研究报告和包含公式的混合文档，它能否正确提取内容并保留表格结构？从原始PDF到解析结果逐项核对，再检查表格上下方的正文与页面内容，看看百度这款33亿参数模型到底能处理多复杂的文档</p><p></p><p>📄 单页扫描书页2.6秒，10页PDF用时39.7秒：这是Unlimited-OCR-2在本次RTX A6000测试中的表现。复杂文档能否读准，还要把识别结果和原文放在一起核对。</p><p></p><p>🔍 本期从本地运行和测试界面讲起，依次挑战双栏排版、复杂表格、数学公式、模糊扫描件、竖排繁体，以及同页混排的中文、日语和韩语。部分复杂文档为合成样例，重点观察文字提取、表格结构保留和阅读顺序，展示各类样例的实际解析结果。</p><p></p><p>👉👉👉我的开源项目:<a href="https://github.com/win4r/">https://github.com/win4r/</a></p><p>👉👉👉请我喝咖啡:<a href="https://ko-fi.com/aila">https://ko-fi.com/aila</a></p><p></p><p>🔥🔥🔥YouTube 时间戳：</p><p>00:00 模型亮点与测试背景</p><p>01:20 本地部署与开源工具</p><p>02:17 单页扫描与解析耗时</p><p>03:15 十页文档解析实测</p><p>04:07 双栏报告与阅读顺序</p><p>05:06 复杂表格结构识别</p><p>05:55 数学公式与图表识别</p><p>06:37 模糊扫描件识别效果</p><p>07:04 竖排繁体的顺序问题</p><p>07:50 中日韩混排文档实测</p><p>08:39 实测总结与使用感受</p><p></p><p>#unlimitedocr2 #ocr #pdf #vlm #llm #aivision #unlimitedocr #aigc #ai #aiagents #agi #aicoding #vibecoding #multimodal</p>]]>
+      </description>
+      <content:encoded><![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/W7lSIikNJBI/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=W7lSIikNJBI">https://www.youtube.com/watch?v=W7lSIikNJBI</a></p><h1>值得閱讀的理由</h1>
+<ul>
+  <li><strong>深入了解最新 AI 模型：</strong>影片針對百度最新開源的 33 億參數文檔解析模型 Unlimited-OCR-2 進行了全方位的本地部署實測。</li>
+  <li><strong>解析複雜文件極限：</strong>展示模型在模糊掃描書頁、雙欄研究報告、複雜表格、數學公式及中日韓混排文檔中的實際辨識效果。</li>
+  <li><strong>具備高參考價值的技術評測：</strong>透過具體案例檢驗文字識別、表格結構與排版解析能力，幫助開發者與技術愛好者快速掌握其實際應用表現。</li>
+</ul>
+
+<hr />
+
+<h1>摘要</h1>
+<p>這部由 YouTube 頻道創作者（@AIsuperdomain）所發布的影片，主要進行了百度開源模型 <strong>Unlimited-OCR-2</strong> 的本地部署與全方位實測。該模型的參數量約為 33 億（3.34B），主打能夠處理超長與複雜的文檔解析任務。</p>
+
+<p>在影片內容中，實測範圍涵蓋多種高難度的文件類型。首先針對<strong>模糊的掃描書頁</strong>與<strong>雙欄研究報告</strong>進行文字識別與排版結構的檢驗，確認其在非標準格式下的表現；其次，影片也實際測試了<strong>複雜表格</strong>，強調其不僅要辨識出文字內容，更需要完整保留原本的表格結構。</p>
+
+<p>此外，實測項目還包含了<strong>數學公式</strong>以及<strong>中日韓混排文檔</strong>的解析效果，全面逐項檢視該模型在多語言環境與符號辨識上的精確度，為關注開源多模態文件解析技術的觀眾提供了一個直觀的本地部署運行參考。</p>
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=W7lSIikNJBI">https://www.youtube.com/watch?v=W7lSIikNJBI</a></p><p>🚀视频简介：</p><p></p><p>✅复杂表格不只要认出文字，还要保住原来的结构！Unlimited-OCR-2本地实测：面对多种复杂表格、双栏研究报告和包含公式的混合文档，它能否正确提取内容并保留表格结构？从原始PDF到解析结果逐项核对，再检查表格上下方的正文与页面内容，看看百度这款33亿参数模型到底能处理多复杂的文档</p><p></p><p>📄 单页扫描书页2.6秒，10页PDF用时39.7秒：这是Unlimited-OCR-2在本次RTX A6000测试中的表现。复杂文档能否读准，还要把识别结果和原文放在一起核对。</p><p></p><p>🔍 本期从本地运行和测试界面讲起，依次挑战双栏排版、复杂表格、数学公式、模糊扫描件、竖排繁体，以及同页混排的中文、日语和韩语。部分复杂文档为合成样例，重点观察文字提取、表格结构保留和阅读顺序，展示各类样例的实际解析结果。</p><p></p><p>👉👉👉我的开源项目:<a href="https://github.com/win4r/">https://github.com/win4r/</a></p><p>👉👉👉请我喝咖啡:<a href="https://ko-fi.com/aila">https://ko-fi.com/aila</a></p><p></p><p>🔥🔥🔥YouTube 时间戳：</p><p>00:00 模型亮点与测试背景</p><p>01:20 本地部署与开源工具</p><p>02:17 单页扫描与解析耗时</p><p>03:15 十页文档解析实测</p><p>04:07 双栏报告与阅读顺序</p><p>05:06 复杂表格结构识别</p><p>05:55 数学公式与图表识别</p><p>06:37 模糊扫描件识别效果</p><p>07:04 竖排繁体的顺序问题</p><p>07:50 中日韩混排文档实测</p><p>08:39 实测总结与使用感受</p><p></p><p>#unlimitedocr2 #ocr #pdf #vlm #llm #aivision #unlimitedocr #aigc #ai #aiagents #agi #aicoding #vibecoding #multimodal</p>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/W7lSIikNJBI/hqdefault.jpg"/>
+      <pubDate>2026-10-30T14:26:38.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[🚀Claude Duet华语区首测！Anthropic的云电脑能否超越Dots、Grok Bot、Meta Muse？最强个人AI助手！从创建频道、设置定时任务到多任务并行不中断，开发者必备！效率倍增]]></title>
+      <link>https://www.youtube.com/watch?v=aQ8gC58O4l0</link>
+      <itunes:title><![CDATA[🚀Claude Duet华语区首测！Anthropic的云电脑能否超越Dots、Grok Bot、Meta Muse？最强个人AI助手！从创建频道、设置定时任务到多任务并行不中断，开发者必备！效率倍增]]></itunes:title>
+      <itunes:author><![CDATA[AI超元域]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/aQ8gC58O4l0/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=aQ8gC58O4l0">https://www.youtube.com/watch?v=aQ8gC58O4l0</a></p><h1>值得閱讀的理由</h1>
+<ul>
+  <li>深入介紹 Anthropic 推出的最新研究預覽版工具（影片中譯稱「Cloud 2」或「Cloud Duet」）之實際介面與核心功能。</li>
+  <li>展示如何透過主 Agent 與獨立頻道管理多任務並行不中斷，並示範自動化設定與 Notion 筆記串接的完整實測過程。</li>
+  <li>完整評測其結合獨立雲端計算機、網頁設計原型製作及串接 GitHub 等開發者導向的高效應用場景。</li>
+</ul>
+
+<hr />
+
+<h1>摘要</h1>
+<p>影片開頭介紹了 Anthropic 於 10 月 21 日推出的研究預覽版工具（影片中口誤或泛指為 Cloud Duet / Cloud 2，實際背景為 Claude 相關新功能或雲端運算助理），作者在收到郵件通知後進行了首次實測。此工具由 Claude 3.5 模型驅動，利用獨立的雲端計算機在後台執行任務，即使手機或電腦關閉也能持續運作。</p>
+
+<h2>核心功能與特色</h2>
+<p>傳統聊天機器人通常需要用戶主動提問，而該工具能夠主動發送訊息或簡報。它支援文字與語音輸入，並可透過連接器連結超過 6,000 種應用程式（如 Gmail、Slack、Google 日曆、Google Drive 與 Notion 等）。此外，它能在一個主線裡管理多任務，並為每個任務啟動獨立的子頻道與進程，不會互相阻斷。</p>
+
+<h2>實測案例與應用場景</h2>
+<p>影片中實際演示了多項功能的操作與應用：</p>
+<ul>
+  <li><strong>自動抓取 GitHub 趨勢</strong>：透過提示詞要求系統建立新頻道，設定每天早上 9 點自動抓取 GitHub Trending 上與 AI 相關的專案並按價值排序，亦可手動點擊立即運行與查看執行歷史 [[02:19](https://www.youtube.com/watch?v=aQ8gC58O4l0&t=139)]。</li>
+  <li><strong>串接 Notion 筆記庫</strong>：連接 Notion 後，建立 AI 論文研究頻道，讓系統自動抓取最熱門的論文研究報告並存入 Notion 數據庫中 [[05:12](https://www.youtube.com/watch?v=aQ8gC58O4l0&t=312)]。</li>
+  <li><strong>多任務並行處理</strong>：在主 Agent 執行其他任務的同時，新增其他頻道或任務，各任務在不同線獨立執行，不會導致前面進行中的任務被阻斷 [[07:08](https://www.youtube.com/watch?v=aQ8gC58O4l0&t=428)]。</li>
+  <li><strong>Claude Design 原型設計</strong>：使用內建的 Cloud Design 功能，輸入提示詞（如創建現代化桌面版登錄頁）即可在內置瀏覽器中快速生成並預覽美觀的原型頁面 [[08:34](https://www.youtube.com/watch?v=aQ8gC58O4l0&t=514)]。</li>
+</ul>
+
+<p>總結來說，該工具打通了傳統網頁版、桌面版與手機 App 的功能，甚至可將任務交接給雲端的 Cloud Code 執行，大幅提升開發者與日常多任務處理的效率 [[09:58](https://www.youtube.com/watch?v=aQ8gC58O4l0&t=598)]。</p>
+
+<p>影片相關網址：<a href="[http://www.youtube.com/watch?v=aQ8gC58O4l0](http://www.youtube.com/watch?v=aQ8gC58O4l0)">[http://www.youtube.com/watch?v=aQ8gC58O4l0](http://www.youtube.com/watch?v=aQ8gC58O4l0)</a></p>
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=aQ8gC58O4l0">https://www.youtube.com/watch?v=aQ8gC58O4l0</a></p><p>🚀视频简介：</p><p></p><p>✅ Claude Duet多线程实测：一边整理历史Prompt，一边创建新频道并获取更新！还能将任务交接给云端Claude Code！</p><p></p><p>🧠 Claude Duet研究预览终于开放，我拿到使用资格后，马上用真实工作流测试它能否接下那些重复、零碎的任务。它由Claude Opus 5.5驱动，重点不只是聊天，而是能否把任务留在后台持续推进。</p><p></p><p>👉👉👉我的开源项目：<a href="https://github.com/win4r/">https://github.com/win4r/</a></p><p>👉👉👉请我喝咖啡：<a href="https://ko-fi.com/aila">https://ko-fi.com/aila</a></p><p></p><p>🔥🔥🔥YouTube 时间戳：</p><p>00:00 Claude Duet内测与核心能力</p><p>01:28 首次配置和桌面版操作</p><p>02:16 GitHub研究频道展示</p><p>03:28 设置GitHub定时研究</p><p>05:09 连接Notion并创建论文频道</p><p>06:24 搜索历史Prompt并整理</p><p>07:18 多线程任务与更新频道</p><p>08:16 Notion笔记整理成果</p><p>08:34 Claude Design生成登录页</p><p>09:24 浏览历史作品与功能整合</p><p>10:28 云端Claude Code交接问答</p><p>10:53 实测总结与后续计划</p><p></p><p>#claude #claudeduet #duet #claudeai #anthropic #grokbot #muse #dots #aiagents #agents #aigc #agi #ai #aiassistant #notion #claudedesign #aidesign #ui</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/aQ8gC58O4l0/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=aQ8gC58O4l0">https://www.youtube.com/watch?v=aQ8gC58O4l0</a></p><h1>值得閱讀的理由</h1>
+<ul>
+  <li>深入介紹 Anthropic 推出的最新研究預覽版工具（影片中譯稱「Cloud 2」或「Cloud Duet」）之實際介面與核心功能。</li>
+  <li>展示如何透過主 Agent 與獨立頻道管理多任務並行不中斷，並示範自動化設定與 Notion 筆記串接的完整實測過程。</li>
+  <li>完整評測其結合獨立雲端計算機、網頁設計原型製作及串接 GitHub 等開發者導向的高效應用場景。</li>
+</ul>
+
+<hr />
+
+<h1>摘要</h1>
+<p>影片開頭介紹了 Anthropic 於 10 月 21 日推出的研究預覽版工具（影片中口誤或泛指為 Cloud Duet / Cloud 2，實際背景為 Claude 相關新功能或雲端運算助理），作者在收到郵件通知後進行了首次實測。此工具由 Claude 3.5 模型驅動，利用獨立的雲端計算機在後台執行任務，即使手機或電腦關閉也能持續運作。</p>
+
+<h2>核心功能與特色</h2>
+<p>傳統聊天機器人通常需要用戶主動提問，而該工具能夠主動發送訊息或簡報。它支援文字與語音輸入，並可透過連接器連結超過 6,000 種應用程式（如 Gmail、Slack、Google 日曆、Google Drive 與 Notion 等）。此外，它能在一個主線裡管理多任務，並為每個任務啟動獨立的子頻道與進程，不會互相阻斷。</p>
+
+<h2>實測案例與應用場景</h2>
+<p>影片中實際演示了多項功能的操作與應用：</p>
+<ul>
+  <li><strong>自動抓取 GitHub 趨勢</strong>：透過提示詞要求系統建立新頻道，設定每天早上 9 點自動抓取 GitHub Trending 上與 AI 相關的專案並按價值排序，亦可手動點擊立即運行與查看執行歷史 [[02:19](https://www.youtube.com/watch?v=aQ8gC58O4l0&t=139)]。</li>
+  <li><strong>串接 Notion 筆記庫</strong>：連接 Notion 後，建立 AI 論文研究頻道，讓系統自動抓取最熱門的論文研究報告並存入 Notion 數據庫中 [[05:12](https://www.youtube.com/watch?v=aQ8gC58O4l0&t=312)]。</li>
+  <li><strong>多任務並行處理</strong>：在主 Agent 執行其他任務的同時，新增其他頻道或任務，各任務在不同線獨立執行，不會導致前面進行中的任務被阻斷 [[07:08](https://www.youtube.com/watch?v=aQ8gC58O4l0&t=428)]。</li>
+  <li><strong>Claude Design 原型設計</strong>：使用內建的 Cloud Design 功能，輸入提示詞（如創建現代化桌面版登錄頁）即可在內置瀏覽器中快速生成並預覽美觀的原型頁面 [[08:34](https://www.youtube.com/watch?v=aQ8gC58O4l0&t=514)]。</li>
+</ul>
+
+<p>總結來說，該工具打通了傳統網頁版、桌面版與手機 App 的功能，甚至可將任務交接給雲端的 Cloud Code 執行，大幅提升開發者與日常多任務處理的效率 [[09:58](https://www.youtube.com/watch?v=aQ8gC58O4l0&t=598)]。</p>
+
+<p>影片相關網址：<a href="[http://www.youtube.com/watch?v=aQ8gC58O4l0](http://www.youtube.com/watch?v=aQ8gC58O4l0)">[http://www.youtube.com/watch?v=aQ8gC58O4l0](http://www.youtube.com/watch?v=aQ8gC58O4l0)</a></p>
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=aQ8gC58O4l0">https://www.youtube.com/watch?v=aQ8gC58O4l0</a></p><p>🚀视频简介：</p><p></p><p>✅ Claude Duet多线程实测：一边整理历史Prompt，一边创建新频道并获取更新！还能将任务交接给云端Claude Code！</p><p></p><p>🧠 Claude Duet研究预览终于开放，我拿到使用资格后，马上用真实工作流测试它能否接下那些重复、零碎的任务。它由Claude Opus 5.5驱动，重点不只是聊天，而是能否把任务留在后台持续推进。</p><p></p><p>👉👉👉我的开源项目：<a href="https://github.com/win4r/">https://github.com/win4r/</a></p><p>👉👉👉请我喝咖啡：<a href="https://ko-fi.com/aila">https://ko-fi.com/aila</a></p><p></p><p>🔥🔥🔥YouTube 时间戳：</p><p>00:00 Claude Duet内测与核心能力</p><p>01:28 首次配置和桌面版操作</p><p>02:16 GitHub研究频道展示</p><p>03:28 设置GitHub定时研究</p><p>05:09 连接Notion并创建论文频道</p><p>06:24 搜索历史Prompt并整理</p><p>07:18 多线程任务与更新频道</p><p>08:16 Notion笔记整理成果</p><p>08:34 Claude Design生成登录页</p><p>09:24 浏览历史作品与功能整合</p><p>10:28 云端Claude Code交接问答</p><p>10:53 实测总结与后续计划</p><p></p><p>#claude #claudeduet #duet #claudeai #anthropic #grokbot #muse #dots #aiagents #agents #aigc #agi #ai #aiassistant #notion #claudedesign #aidesign #ui</p>]]>
+      </description>
+      <content:encoded><![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/aQ8gC58O4l0/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=aQ8gC58O4l0">https://www.youtube.com/watch?v=aQ8gC58O4l0</a></p><h1>值得閱讀的理由</h1>
+<ul>
+  <li>深入介紹 Anthropic 推出的最新研究預覽版工具（影片中譯稱「Cloud 2」或「Cloud Duet」）之實際介面與核心功能。</li>
+  <li>展示如何透過主 Agent 與獨立頻道管理多任務並行不中斷，並示範自動化設定與 Notion 筆記串接的完整實測過程。</li>
+  <li>完整評測其結合獨立雲端計算機、網頁設計原型製作及串接 GitHub 等開發者導向的高效應用場景。</li>
+</ul>
+
+<hr />
+
+<h1>摘要</h1>
+<p>影片開頭介紹了 Anthropic 於 10 月 21 日推出的研究預覽版工具（影片中口誤或泛指為 Cloud Duet / Cloud 2，實際背景為 Claude 相關新功能或雲端運算助理），作者在收到郵件通知後進行了首次實測。此工具由 Claude 3.5 模型驅動，利用獨立的雲端計算機在後台執行任務，即使手機或電腦關閉也能持續運作。</p>
+
+<h2>核心功能與特色</h2>
+<p>傳統聊天機器人通常需要用戶主動提問，而該工具能夠主動發送訊息或簡報。它支援文字與語音輸入，並可透過連接器連結超過 6,000 種應用程式（如 Gmail、Slack、Google 日曆、Google Drive 與 Notion 等）。此外，它能在一個主線裡管理多任務，並為每個任務啟動獨立的子頻道與進程，不會互相阻斷。</p>
+
+<h2>實測案例與應用場景</h2>
+<p>影片中實際演示了多項功能的操作與應用：</p>
+<ul>
+  <li><strong>自動抓取 GitHub 趨勢</strong>：透過提示詞要求系統建立新頻道，設定每天早上 9 點自動抓取 GitHub Trending 上與 AI 相關的專案並按價值排序，亦可手動點擊立即運行與查看執行歷史 [[02:19](https://www.youtube.com/watch?v=aQ8gC58O4l0&t=139)]。</li>
+  <li><strong>串接 Notion 筆記庫</strong>：連接 Notion 後，建立 AI 論文研究頻道，讓系統自動抓取最熱門的論文研究報告並存入 Notion 數據庫中 [[05:12](https://www.youtube.com/watch?v=aQ8gC58O4l0&t=312)]。</li>
+  <li><strong>多任務並行處理</strong>：在主 Agent 執行其他任務的同時，新增其他頻道或任務，各任務在不同線獨立執行，不會導致前面進行中的任務被阻斷 [[07:08](https://www.youtube.com/watch?v=aQ8gC58O4l0&t=428)]。</li>
+  <li><strong>Claude Design 原型設計</strong>：使用內建的 Cloud Design 功能，輸入提示詞（如創建現代化桌面版登錄頁）即可在內置瀏覽器中快速生成並預覽美觀的原型頁面 [[08:34](https://www.youtube.com/watch?v=aQ8gC58O4l0&t=514)]。</li>
+</ul>
+
+<p>總結來說，該工具打通了傳統網頁版、桌面版與手機 App 的功能，甚至可將任務交接給雲端的 Cloud Code 執行，大幅提升開發者與日常多任務處理的效率 [[09:58](https://www.youtube.com/watch?v=aQ8gC58O4l0&t=598)]。</p>
+
+<p>影片相關網址：<a href="[http://www.youtube.com/watch?v=aQ8gC58O4l0](http://www.youtube.com/watch?v=aQ8gC58O4l0)">[http://www.youtube.com/watch?v=aQ8gC58O4l0](http://www.youtube.com/watch?v=aQ8gC58O4l0)</a></p>
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=aQ8gC58O4l0">https://www.youtube.com/watch?v=aQ8gC58O4l0</a></p><p>🚀视频简介：</p><p></p><p>✅ Claude Duet多线程实测：一边整理历史Prompt，一边创建新频道并获取更新！还能将任务交接给云端Claude Code！</p><p></p><p>🧠 Claude Duet研究预览终于开放，我拿到使用资格后，马上用真实工作流测试它能否接下那些重复、零碎的任务。它由Claude Opus 5.5驱动，重点不只是聊天，而是能否把任务留在后台持续推进。</p><p></p><p>👉👉👉我的开源项目：<a href="https://github.com/win4r/">https://github.com/win4r/</a></p><p>👉👉👉请我喝咖啡：<a href="https://ko-fi.com/aila">https://ko-fi.com/aila</a></p><p></p><p>🔥🔥🔥YouTube 时间戳：</p><p>00:00 Claude Duet内测与核心能力</p><p>01:28 首次配置和桌面版操作</p><p>02:16 GitHub研究频道展示</p><p>03:28 设置GitHub定时研究</p><p>05:09 连接Notion并创建论文频道</p><p>06:24 搜索历史Prompt并整理</p><p>07:18 多线程任务与更新频道</p><p>08:16 Notion笔记整理成果</p><p>08:34 Claude Design生成登录页</p><p>09:24 浏览历史作品与功能整合</p><p>10:28 云端Claude Code交接问答</p><p>10:53 实测总结与后续计划</p><p></p><p>#claude #claudeduet #duet #claudeai #anthropic #grokbot #muse #dots #aiagents #agents #aigc #agi #ai #aiassistant #notion #claudedesign #aidesign #ui</p>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/aQ8gC58O4l0/hqdefault.jpg"/>
+      <pubDate>2026-10-28T13:02:43.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[🚀Claude Fable 5.5动画视频生成能力深度实测！8个视频动画案例，连音效都能合成！从提示词到动画成片，每个都是大片效果！不给图片也能做动画！从儿童动画到科普视频，从电影特效到纪录片画质]]></title>
+      <link>https://www.youtube.com/watch?v=C8hMcdSYtKk</link>
+      <itunes:title><![CDATA[🚀Claude Fable 5.5动画视频生成能力深度实测！8个视频动画案例，连音效都能合成！从提示词到动画成片，每个都是大片效果！不给图片也能做动画！从儿童动画到科普视频，从电影特效到纪录片画质]]></itunes:title>
+      <itunes:author><![CDATA[AI超元域]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/C8hMcdSYtKk/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=C8hMcdSYtKk">https://www.youtube.com/watch?v=C8hMcdSYtKk</a></p><h1>值得閱讀的理由</h1>
+<ul>
+  <li>深入實測最新 AI 影片與動畫生成模型（Claude Fable 5.5）的強大功能與實際表現。</li>
+  <li>透過多個豐富的實際案例（如藝術發展史、科普地質變遷、AI 推理過程等），展示從提示詞到精緻成片的大片級效果。</li>
+  <li>解析該模型在圖像融合、自動音效合成及複雜場景刻畫上的突破與應用潛力。</li>
+</ul>
+<hr />
+<h1>摘要</h1>
+<p>本影片由「AI超元域」頻道發布，針對即將發布的 <strong>Claude Fable 5.5</strong> 動畫與影片生成模型進行深度實測。主講者在影片中展示了多個透過該模型製作的代表性動畫案例，並強調其在畫面精緻度與音效合成上的卓越表現。</p>
+
+<h2>各案例實際表現與特色</h2>
+<p>影片首先展示了對近期熱門影片的復刻測試。透過上傳 OpenAI 相關宣傳圖、標誌及 AI 生成的圖像素材搭配完整提示詞，模型成功生成了包含自動合成音效的高品質 MP4 影片，其畫面流暢度與音效表現均達到極佳水準。此外，在展示藝術發展史的動畫中，即使未提供圖像素材，僅憑提示詞描述，模型便能自動生成不同時代（如梵谷畫風）且光影與反光效果極其逼真的貓咪動畫。</p>
+
+<p>接著，影片測試了日常時間流逝與手錶細節拆解的動畫，其精緻程度令畫面呈現出極高的真實感。在較短的提示詞測試中，例如製作 15 秒的彈球動畫或復刻特定短片，模型不僅能精準呈現質感（如木製桌子紋理與高亮文字特效），還能將彈球自然轉化為模型標誌性的元素，並全程由系統自行合成對應音效。而在圖像動態化測試中，上傳蝴蝶圖片後，模型能讓蝴蝶依序飛入畫面並最終精準組成指定圖案，保持了原始圖片的風格與一致性。</p>
+
+<h2>科普與大模型推理動畫</h2>
+<p>在大型科普案例中，主講者要求模型生成一場長達數分鐘的地質代變遷史動畫。畫面從埃迪卡拉紀的多細胞生物、寒武紀的三葉蟲、奧陶紀的角石、到泥盆紀的鄧氏魚、石炭紀的巨脈蜻蜓與巨型蜈蚣，乃至二疊紀的水龍獸、三疊紀與侏儸紀的恐龍奔跑、白堊紀的霸王龍、隕石撞擊、古近紀、新近紀直到第四季的猛瑪象與冰河時期人類。模型不僅還現了各個時期的獨特環境（如石炭紀的霧氣與植物、二疊紀的乾旱感、冰河紀的冰川效果），還在生物奔跑時展現了地面震動的細節。</p>
+
+<p>最後，影片展示了以 Token 旅程為主題的動畫，極其精準且直觀地呈現了大模型的內部推理步驟與過程。主講者總結指出，經過實際對比，Claude Fable 5.5 的生成效果明顯優於其他同類模型，並預告未來將公開更多實測項目。影片網址：[https://www.youtube.com/watch?v=C8hMcdSYtKk](https://www.youtube.com/watch?v=C8hMcdSYtKk)</p>
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=C8hMcdSYtKk">https://www.youtube.com/watch?v=C8hMcdSYtKk</a></p><p>🚀视频简介：</p><p></p><p>✅ Claude Fable 5.5交出了MP4：图片素材、动画细节与合成音效，8个案例展示实际效果</p><p></p><p>🎬 这次把Claude Fable 5.5交出的动画直接放出来看：8个案例，从宣传短片到地质年代与大模型推理主题动画。测试全部在Claude官方桌面版进行，片中展示了MP4成片，也能听到它合成的音效。</p><p></p><p>🦋 有的案例上传图片，有的只写提示词。静图里的蝴蝶依次飞入画面，最终组成原图图案；没有提供图片的艺术史和一天生活动画，则展示了画风变化、手表拆解以及补出的建筑和跑步场景。弹球、文字高亮和木纹质感，也会逐一看效果。</p><p></p><p>🔎 地质年代动画是另一项重点：看跨时代场景怎样呈现，再分享相同提示词下与Claude Opus 5.5、GPT-6 Astra的体验差异。最后播放《一个Token的旅程》。跨模型感受限定在本次地质动画。你最想用它做哪一种动画？</p><p></p><p>👉👉👉我的开源项目: <a href="https://github.com/win4r/">https://github.com/win4r/</a></p><p>👉👉👉请我喝咖啡: <a href="https://ko-fi.com/aila">https://ko-fi.com/aila</a></p><p></p><p></p><p>🔥🔥🔥YouTube时间戳：</p><p>00:00 内测体验与动画实测</p><p>01:13 官方桌面版实测环境</p><p>01:41 宣传动画与音效合成</p><p>02:52 艺术发展史风格切换</p><p>03:44 一天生活与手表拆解</p><p>04:52 弹球动效与合成音效</p><p>05:40 高亮文字与木纹质感</p><p>06:14 蝴蝶起舞与原图构图</p><p>07:05 地质年代变迁动画</p><p>12:06 一个Token的旅程</p><p>15:52 本期回顾与后续预告</p><p></p><p>#fable55 #fable51 #fable5 #opus55 #aianimation #aivideo #aivideos #claude #anthropic #claudefable #claudefable5 #claudefable55 #ai #aigc #agi #aishorts #aiart</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/C8hMcdSYtKk/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=C8hMcdSYtKk">https://www.youtube.com/watch?v=C8hMcdSYtKk</a></p><h1>值得閱讀的理由</h1>
+<ul>
+  <li>深入實測最新 AI 影片與動畫生成模型（Claude Fable 5.5）的強大功能與實際表現。</li>
+  <li>透過多個豐富的實際案例（如藝術發展史、科普地質變遷、AI 推理過程等），展示從提示詞到精緻成片的大片級效果。</li>
+  <li>解析該模型在圖像融合、自動音效合成及複雜場景刻畫上的突破與應用潛力。</li>
+</ul>
+<hr />
+<h1>摘要</h1>
+<p>本影片由「AI超元域」頻道發布，針對即將發布的 <strong>Claude Fable 5.5</strong> 動畫與影片生成模型進行深度實測。主講者在影片中展示了多個透過該模型製作的代表性動畫案例，並強調其在畫面精緻度與音效合成上的卓越表現。</p>
+
+<h2>各案例實際表現與特色</h2>
+<p>影片首先展示了對近期熱門影片的復刻測試。透過上傳 OpenAI 相關宣傳圖、標誌及 AI 生成的圖像素材搭配完整提示詞，模型成功生成了包含自動合成音效的高品質 MP4 影片，其畫面流暢度與音效表現均達到極佳水準。此外，在展示藝術發展史的動畫中，即使未提供圖像素材，僅憑提示詞描述，模型便能自動生成不同時代（如梵谷畫風）且光影與反光效果極其逼真的貓咪動畫。</p>
+
+<p>接著，影片測試了日常時間流逝與手錶細節拆解的動畫，其精緻程度令畫面呈現出極高的真實感。在較短的提示詞測試中，例如製作 15 秒的彈球動畫或復刻特定短片，模型不僅能精準呈現質感（如木製桌子紋理與高亮文字特效），還能將彈球自然轉化為模型標誌性的元素，並全程由系統自行合成對應音效。而在圖像動態化測試中，上傳蝴蝶圖片後，模型能讓蝴蝶依序飛入畫面並最終精準組成指定圖案，保持了原始圖片的風格與一致性。</p>
+
+<h2>科普與大模型推理動畫</h2>
+<p>在大型科普案例中，主講者要求模型生成一場長達數分鐘的地質代變遷史動畫。畫面從埃迪卡拉紀的多細胞生物、寒武紀的三葉蟲、奧陶紀的角石、到泥盆紀的鄧氏魚、石炭紀的巨脈蜻蜓與巨型蜈蚣，乃至二疊紀的水龍獸、三疊紀與侏儸紀的恐龍奔跑、白堊紀的霸王龍、隕石撞擊、古近紀、新近紀直到第四季的猛瑪象與冰河時期人類。模型不僅還現了各個時期的獨特環境（如石炭紀的霧氣與植物、二疊紀的乾旱感、冰河紀的冰川效果），還在生物奔跑時展現了地面震動的細節。</p>
+
+<p>最後，影片展示了以 Token 旅程為主題的動畫，極其精準且直觀地呈現了大模型的內部推理步驟與過程。主講者總結指出，經過實際對比，Claude Fable 5.5 的生成效果明顯優於其他同類模型，並預告未來將公開更多實測項目。影片網址：[https://www.youtube.com/watch?v=C8hMcdSYtKk](https://www.youtube.com/watch?v=C8hMcdSYtKk)</p>
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=C8hMcdSYtKk">https://www.youtube.com/watch?v=C8hMcdSYtKk</a></p><p>🚀视频简介：</p><p></p><p>✅ Claude Fable 5.5交出了MP4：图片素材、动画细节与合成音效，8个案例展示实际效果</p><p></p><p>🎬 这次把Claude Fable 5.5交出的动画直接放出来看：8个案例，从宣传短片到地质年代与大模型推理主题动画。测试全部在Claude官方桌面版进行，片中展示了MP4成片，也能听到它合成的音效。</p><p></p><p>🦋 有的案例上传图片，有的只写提示词。静图里的蝴蝶依次飞入画面，最终组成原图图案；没有提供图片的艺术史和一天生活动画，则展示了画风变化、手表拆解以及补出的建筑和跑步场景。弹球、文字高亮和木纹质感，也会逐一看效果。</p><p></p><p>🔎 地质年代动画是另一项重点：看跨时代场景怎样呈现，再分享相同提示词下与Claude Opus 5.5、GPT-6 Astra的体验差异。最后播放《一个Token的旅程》。跨模型感受限定在本次地质动画。你最想用它做哪一种动画？</p><p></p><p>👉👉👉我的开源项目: <a href="https://github.com/win4r/">https://github.com/win4r/</a></p><p>👉👉👉请我喝咖啡: <a href="https://ko-fi.com/aila">https://ko-fi.com/aila</a></p><p></p><p></p><p>🔥🔥🔥YouTube时间戳：</p><p>00:00 内测体验与动画实测</p><p>01:13 官方桌面版实测环境</p><p>01:41 宣传动画与音效合成</p><p>02:52 艺术发展史风格切换</p><p>03:44 一天生活与手表拆解</p><p>04:52 弹球动效与合成音效</p><p>05:40 高亮文字与木纹质感</p><p>06:14 蝴蝶起舞与原图构图</p><p>07:05 地质年代变迁动画</p><p>12:06 一个Token的旅程</p><p>15:52 本期回顾与后续预告</p><p></p><p>#fable55 #fable51 #fable5 #opus55 #aianimation #aivideo #aivideos #claude #anthropic #claudefable #claudefable5 #claudefable55 #ai #aigc #agi #aishorts #aiart</p>]]>
+      </description>
+      <content:encoded><![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/C8hMcdSYtKk/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=C8hMcdSYtKk">https://www.youtube.com/watch?v=C8hMcdSYtKk</a></p><h1>值得閱讀的理由</h1>
+<ul>
+  <li>深入實測最新 AI 影片與動畫生成模型（Claude Fable 5.5）的強大功能與實際表現。</li>
+  <li>透過多個豐富的實際案例（如藝術發展史、科普地質變遷、AI 推理過程等），展示從提示詞到精緻成片的大片級效果。</li>
+  <li>解析該模型在圖像融合、自動音效合成及複雜場景刻畫上的突破與應用潛力。</li>
+</ul>
+<hr />
+<h1>摘要</h1>
+<p>本影片由「AI超元域」頻道發布，針對即將發布的 <strong>Claude Fable 5.5</strong> 動畫與影片生成模型進行深度實測。主講者在影片中展示了多個透過該模型製作的代表性動畫案例，並強調其在畫面精緻度與音效合成上的卓越表現。</p>
+
+<h2>各案例實際表現與特色</h2>
+<p>影片首先展示了對近期熱門影片的復刻測試。透過上傳 OpenAI 相關宣傳圖、標誌及 AI 生成的圖像素材搭配完整提示詞，模型成功生成了包含自動合成音效的高品質 MP4 影片，其畫面流暢度與音效表現均達到極佳水準。此外，在展示藝術發展史的動畫中，即使未提供圖像素材，僅憑提示詞描述，模型便能自動生成不同時代（如梵谷畫風）且光影與反光效果極其逼真的貓咪動畫。</p>
+
+<p>接著，影片測試了日常時間流逝與手錶細節拆解的動畫，其精緻程度令畫面呈現出極高的真實感。在較短的提示詞測試中，例如製作 15 秒的彈球動畫或復刻特定短片，模型不僅能精準呈現質感（如木製桌子紋理與高亮文字特效），還能將彈球自然轉化為模型標誌性的元素，並全程由系統自行合成對應音效。而在圖像動態化測試中，上傳蝴蝶圖片後，模型能讓蝴蝶依序飛入畫面並最終精準組成指定圖案，保持了原始圖片的風格與一致性。</p>
+
+<h2>科普與大模型推理動畫</h2>
+<p>在大型科普案例中，主講者要求模型生成一場長達數分鐘的地質代變遷史動畫。畫面從埃迪卡拉紀的多細胞生物、寒武紀的三葉蟲、奧陶紀的角石、到泥盆紀的鄧氏魚、石炭紀的巨脈蜻蜓與巨型蜈蚣，乃至二疊紀的水龍獸、三疊紀與侏儸紀的恐龍奔跑、白堊紀的霸王龍、隕石撞擊、古近紀、新近紀直到第四季的猛瑪象與冰河時期人類。模型不僅還現了各個時期的獨特環境（如石炭紀的霧氣與植物、二疊紀的乾旱感、冰河紀的冰川效果），還在生物奔跑時展現了地面震動的細節。</p>
+
+<p>最後，影片展示了以 Token 旅程為主題的動畫，極其精準且直觀地呈現了大模型的內部推理步驟與過程。主講者總結指出，經過實際對比，Claude Fable 5.5 的生成效果明顯優於其他同類模型，並預告未來將公開更多實測項目。影片網址：[https://www.youtube.com/watch?v=C8hMcdSYtKk](https://www.youtube.com/watch?v=C8hMcdSYtKk)</p>
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=C8hMcdSYtKk">https://www.youtube.com/watch?v=C8hMcdSYtKk</a></p><p>🚀视频简介：</p><p></p><p>✅ Claude Fable 5.5交出了MP4：图片素材、动画细节与合成音效，8个案例展示实际效果</p><p></p><p>🎬 这次把Claude Fable 5.5交出的动画直接放出来看：8个案例，从宣传短片到地质年代与大模型推理主题动画。测试全部在Claude官方桌面版进行，片中展示了MP4成片，也能听到它合成的音效。</p><p></p><p>🦋 有的案例上传图片，有的只写提示词。静图里的蝴蝶依次飞入画面，最终组成原图图案；没有提供图片的艺术史和一天生活动画，则展示了画风变化、手表拆解以及补出的建筑和跑步场景。弹球、文字高亮和木纹质感，也会逐一看效果。</p><p></p><p>🔎 地质年代动画是另一项重点：看跨时代场景怎样呈现，再分享相同提示词下与Claude Opus 5.5、GPT-6 Astra的体验差异。最后播放《一个Token的旅程》。跨模型感受限定在本次地质动画。你最想用它做哪一种动画？</p><p></p><p>👉👉👉我的开源项目: <a href="https://github.com/win4r/">https://github.com/win4r/</a></p><p>👉👉👉请我喝咖啡: <a href="https://ko-fi.com/aila">https://ko-fi.com/aila</a></p><p></p><p></p><p>🔥🔥🔥YouTube时间戳：</p><p>00:00 内测体验与动画实测</p><p>01:13 官方桌面版实测环境</p><p>01:41 宣传动画与音效合成</p><p>02:52 艺术发展史风格切换</p><p>03:44 一天生活与手表拆解</p><p>04:52 弹球动效与合成音效</p><p>05:40 高亮文字与木纹质感</p><p>06:14 蝴蝶起舞与原图构图</p><p>07:05 地质年代变迁动画</p><p>12:06 一个Token的旅程</p><p>15:52 本期回顾与后续预告</p><p></p><p>#fable55 #fable51 #fable5 #opus55 #aianimation #aivideo #aivideos #claude #anthropic #claudefable #claudefable5 #claudefable55 #ai #aigc #agi #aishorts #aiart</p>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/C8hMcdSYtKk/hqdefault.jpg"/>
+      <pubDate>2026-10-21T13:53:49.000Z</pubDate>
+    </item></channel>
 </rss>
