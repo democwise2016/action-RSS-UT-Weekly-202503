@@ -1,26 +1,26 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
   <channel>
     <title><![CDATA[AI超元域[YT+]]]></title>
-    <link>undefined</link>
+    <link>http://www.youtube.com/feeds/videos.xml?channel_id=UCIomFkAj4Vq_rGX2Jot7D8A</link>
     <image>
-      <url>https://fastly.picsum.photos/id/687/800/800.jpg?hmac=3fF3IPw87pthSdAUY6RbjiATvbmRcxD2aJ7Yw5jcofs</url>
+      <url>https://yt3.ggpht.com/6AyGuZqZQctDdjIWe9VYpaCVAD84ADoSpCcuUmaw2ANCPJu88x1A5svwfZpW5Hvhapl5N1nuqQ=s88-c-k-c0x00ffffff-no-rj</url>
       <title>AI超元域[YT+]</title>
-      <link>undefined</link>
+      <link>http://www.youtube.com/feeds/videos.xml?channel_id=UCIomFkAj4Vq_rGX2Jot7D8A</link>
     </image>
     <language>en-us</language>
-    <atom:link href="undefined" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://www.youtube.com/feeds/videos.xml?channel_id=UCIomFkAj4Vq_rGX2Jot7D8A" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[AI超元域[YT+]]]></copyright>
     <itunes:author><![CDATA[AI超元域[YT+]]]></itunes:author>
     <itunes:summary>
       <![CDATA[
-      Failed to parse feed: Status code 404<br />
+      AI从业者，擅长大模型微调、RAG、AI智能体开发等。<br />
 <br />
 <a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCIomFkAj4Vq_rGX2Jot7D8A" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCIomFkAj4Vq_rGX2Jot7D8A</a>
       ]]>
     </itunes:summary>
     <description>
       <![CDATA[
-      Failed to parse feed: Status code 404<br />
+      AI从业者，擅长大模型微调、RAG、AI智能体开发等。<br />
 <br />
 <a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCIomFkAj4Vq_rGX2Jot7D8A" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCIomFkAj4Vq_rGX2Jot7D8A</a>
       ]]>
@@ -28,6 +28,379 @@
     <itunes:owner>
       <itunes:name><![CDATA[AI超元域[YT+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/687/800/800.jpg?hmac=3fF3IPw87pthSdAUY6RbjiATvbmRcxD2aJ7Yw5jcofs"/>
-</channel>
+    <itunes:image href="https://yt3.ggpht.com/6AyGuZqZQctDdjIWe9VYpaCVAD84ADoSpCcuUmaw2ANCPJu88x1A5svwfZpW5Hvhapl5N1nuqQ=s88-c-k-c0x00ffffff-no-rj"/>
+<item>
+      <title><![CDATA[🚀世界最强AI！深度实测Claude Fable 5.2！价格更低、速度更快！7大场景真实测评，从可探索的古画场景到Unity 3D游戏开发到Godot 4复杂游戏开发，再看动画视频生成！改写游戏开发]]></title>
+      <link>https://www.youtube.com/watch?v=wZYzXW3tQYQ</link>
+      <itunes:title><![CDATA[🚀世界最强AI！深度实测Claude Fable 5.2！价格更低、速度更快！7大场景真实测评，从可探索的古画场景到Unity 3D游戏开发到Godot 4复杂游戏开发，再看动画视频生成！改写游戏开发]]></itunes:title>
+      <itunes:author><![CDATA[AI超元域]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/wZYzXW3tQYQ/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=wZYzXW3tQYQ">https://www.youtube.com/watch?v=wZYzXW3tQYQ</a></p><h1>值得閱讀的理由</h1>
+<ul>
+  <li>深入實測最新推出的 AI 模型（Claude Fable 5.2），了解其在價格、速度與實際應用上的表現。</li>
+  <li>涵蓋 7 大不同應用場景的真實測試，包含古畫探索、Unity 3D 與 Godot 4 遊戲開發、動畫生成等。</li>
+  <li>探討該技術對開發者效率與設計領域帶來的潛在改變與影響。</li>
+</ul>
+
+<hr />
+
+<h1>摘要</h1>
+
+<p>這部影片針對備受關注的新一代 AI 模型 <strong>Claude Fable 5.2</strong> 進行了深度的實際測評。影片開篇即點出該模型主打「價格更低、速度更快」的特性，並在僅開啟 Medium 推理的情況下，挑戰多項高難度的複雜場景。</p>
+
+<h2>7 大場景實測與應用</h2>
+<p>影片中透過 7 個具代表性的案例進行現場實測，展現其在不同領域的生成與處理能力：</p>
+<ul>
+  <li><strong>視覺與藝術場景：</strong>包含可探索的古畫場景（如清明上河圖中船隻過橋的細節）、具備精細光影變化的建築場景（如聖家堂彩窗光影）。</li>
+  <li><strong>遊戲開發測試：</strong>實測範圍橫跨 Unity 3D 童話世界場景開發，以及 Godot 4 複雜遊戲開發（如三關海戰等邏輯與畫面呈現）。</li>
+  <li><strong>影音與多媒體生成：</strong>展示了動畫影片生成、原生 GIF 生成、電影分鏡生成等功能。</li>
+  <li><strong>設計與開發輔助：</strong>涵蓋圖像編輯一致性、產品攝影、UI 介面原型生成、書法作品生成、替換場景與光影調整、多輪 P 圖，甚至延伸至操作機械手臂與 4K 動畫等綜合能力。</li>
+</ul>
+
+<p>總體而言，這部影片全面地檢視了 Claude Fable 5.2 在開發者效率提升以及設計領域可能帶來的衝擊與變革。由於影片未提供確切時間軸細節，以上內容基於實際可取得的簡介與綜合影音資訊進行整理。</p>
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=wZYzXW3tQYQ">https://www.youtube.com/watch?v=wZYzXW3tQYQ</a></p><p>🚀视频简介：</p><p></p><p>✅ Claude Fable 5.2只开Medium推理，复杂场景竟然做到这一步？7个案例现场实测：清明上河图船只过桥、圣家堂彩窗光影、Unity童话世界、Godot三关海战，还有直接播放的配乐动画</p><p></p><p>🎮 一张图片变成能探索的童话场景，海战从海盗据点一路演到金银岛。本期用7个案例实测Claude Fable 5.2，看看它能把复杂场景、游戏和动画做成什么样。</p><p></p><p>🏰 测试环境是Claude桌面版，推理级别为Medium。从可切换昼夜的像素天空城堡，到清明上河图里放倒桅杆过桥的船只，再到圣家堂的彩窗与室内光影，逐个进入场景，查看交互、动作和建筑细节。</p><p></p><p>🎬 接着展示ChatGPT图片转Unity场景、Godot三关海战，再播放四季与艺术发展史动画，观察配乐和画面细节。开头也会纠正此前的版本名称，介绍相较Fable 5.1标准输入输出价格下降20%、输出速度最高提升30%的变化。速度数据来自官方说明，本期聚焦运行效果与实际演示范围，欢迎跟着画面判断这些案例的表现。</p><p></p><p>👉👉👉我的开源项目:<a href="https://github.com/win4r/">https://github.com/win4r/</a></p><p>👉👉👉请我喝咖啡:<a href="https://ko-fi.com/aila">https://ko-fi.com/aila</a></p><p></p><p>🔥🔥🔥YouTube时间戳：</p><p>00:00 新版变化与版本纠正</p><p>00:53 桌面版设置与知识问答</p><p>01:36 像素天空城堡交互</p><p>02:15 清明上河图虹桥探索</p><p>05:34 圣家堂建筑与彩窗光影</p><p>07:15 一张图片变成童话场景</p><p>09:07 三关海战与战斗演示</p><p>11:43 四季动画与配乐效果</p><p>13:07 艺术发展史动画展示</p><p>13:53 实测总结与后续预告</p><p></p><p></p><p>#claude #fable52 #claudefable52 #claudeai #anthropic #ai #aigc #vibecoding #aicoding #aianimation #aivideogenerator #aiart #claudecode #aiagents</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/wZYzXW3tQYQ/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=wZYzXW3tQYQ">https://www.youtube.com/watch?v=wZYzXW3tQYQ</a></p><h1>值得閱讀的理由</h1>
+<ul>
+  <li>深入實測最新推出的 AI 模型（Claude Fable 5.2），了解其在價格、速度與實際應用上的表現。</li>
+  <li>涵蓋 7 大不同應用場景的真實測試，包含古畫探索、Unity 3D 與 Godot 4 遊戲開發、動畫生成等。</li>
+  <li>探討該技術對開發者效率與設計領域帶來的潛在改變與影響。</li>
+</ul>
+
+<hr />
+
+<h1>摘要</h1>
+
+<p>這部影片針對備受關注的新一代 AI 模型 <strong>Claude Fable 5.2</strong> 進行了深度的實際測評。影片開篇即點出該模型主打「價格更低、速度更快」的特性，並在僅開啟 Medium 推理的情況下，挑戰多項高難度的複雜場景。</p>
+
+<h2>7 大場景實測與應用</h2>
+<p>影片中透過 7 個具代表性的案例進行現場實測，展現其在不同領域的生成與處理能力：</p>
+<ul>
+  <li><strong>視覺與藝術場景：</strong>包含可探索的古畫場景（如清明上河圖中船隻過橋的細節）、具備精細光影變化的建築場景（如聖家堂彩窗光影）。</li>
+  <li><strong>遊戲開發測試：</strong>實測範圍橫跨 Unity 3D 童話世界場景開發，以及 Godot 4 複雜遊戲開發（如三關海戰等邏輯與畫面呈現）。</li>
+  <li><strong>影音與多媒體生成：</strong>展示了動畫影片生成、原生 GIF 生成、電影分鏡生成等功能。</li>
+  <li><strong>設計與開發輔助：</strong>涵蓋圖像編輯一致性、產品攝影、UI 介面原型生成、書法作品生成、替換場景與光影調整、多輪 P 圖，甚至延伸至操作機械手臂與 4K 動畫等綜合能力。</li>
+</ul>
+
+<p>總體而言，這部影片全面地檢視了 Claude Fable 5.2 在開發者效率提升以及設計領域可能帶來的衝擊與變革。由於影片未提供確切時間軸細節，以上內容基於實際可取得的簡介與綜合影音資訊進行整理。</p>
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=wZYzXW3tQYQ">https://www.youtube.com/watch?v=wZYzXW3tQYQ</a></p><p>🚀视频简介：</p><p></p><p>✅ Claude Fable 5.2只开Medium推理，复杂场景竟然做到这一步？7个案例现场实测：清明上河图船只过桥、圣家堂彩窗光影、Unity童话世界、Godot三关海战，还有直接播放的配乐动画</p><p></p><p>🎮 一张图片变成能探索的童话场景，海战从海盗据点一路演到金银岛。本期用7个案例实测Claude Fable 5.2，看看它能把复杂场景、游戏和动画做成什么样。</p><p></p><p>🏰 测试环境是Claude桌面版，推理级别为Medium。从可切换昼夜的像素天空城堡，到清明上河图里放倒桅杆过桥的船只，再到圣家堂的彩窗与室内光影，逐个进入场景，查看交互、动作和建筑细节。</p><p></p><p>🎬 接着展示ChatGPT图片转Unity场景、Godot三关海战，再播放四季与艺术发展史动画，观察配乐和画面细节。开头也会纠正此前的版本名称，介绍相较Fable 5.1标准输入输出价格下降20%、输出速度最高提升30%的变化。速度数据来自官方说明，本期聚焦运行效果与实际演示范围，欢迎跟着画面判断这些案例的表现。</p><p></p><p>👉👉👉我的开源项目:<a href="https://github.com/win4r/">https://github.com/win4r/</a></p><p>👉👉👉请我喝咖啡:<a href="https://ko-fi.com/aila">https://ko-fi.com/aila</a></p><p></p><p>🔥🔥🔥YouTube时间戳：</p><p>00:00 新版变化与版本纠正</p><p>00:53 桌面版设置与知识问答</p><p>01:36 像素天空城堡交互</p><p>02:15 清明上河图虹桥探索</p><p>05:34 圣家堂建筑与彩窗光影</p><p>07:15 一张图片变成童话场景</p><p>09:07 三关海战与战斗演示</p><p>11:43 四季动画与配乐效果</p><p>13:07 艺术发展史动画展示</p><p>13:53 实测总结与后续预告</p><p></p><p></p><p>#claude #fable52 #claudefable52 #claudeai #anthropic #ai #aigc #vibecoding #aicoding #aianimation #aivideogenerator #aiart #claudecode #aiagents</p>]]>
+      </description>
+      <content:encoded><![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/wZYzXW3tQYQ/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=wZYzXW3tQYQ">https://www.youtube.com/watch?v=wZYzXW3tQYQ</a></p><h1>值得閱讀的理由</h1>
+<ul>
+  <li>深入實測最新推出的 AI 模型（Claude Fable 5.2），了解其在價格、速度與實際應用上的表現。</li>
+  <li>涵蓋 7 大不同應用場景的真實測試，包含古畫探索、Unity 3D 與 Godot 4 遊戲開發、動畫生成等。</li>
+  <li>探討該技術對開發者效率與設計領域帶來的潛在改變與影響。</li>
+</ul>
+
+<hr />
+
+<h1>摘要</h1>
+
+<p>這部影片針對備受關注的新一代 AI 模型 <strong>Claude Fable 5.2</strong> 進行了深度的實際測評。影片開篇即點出該模型主打「價格更低、速度更快」的特性，並在僅開啟 Medium 推理的情況下，挑戰多項高難度的複雜場景。</p>
+
+<h2>7 大場景實測與應用</h2>
+<p>影片中透過 7 個具代表性的案例進行現場實測，展現其在不同領域的生成與處理能力：</p>
+<ul>
+  <li><strong>視覺與藝術場景：</strong>包含可探索的古畫場景（如清明上河圖中船隻過橋的細節）、具備精細光影變化的建築場景（如聖家堂彩窗光影）。</li>
+  <li><strong>遊戲開發測試：</strong>實測範圍橫跨 Unity 3D 童話世界場景開發，以及 Godot 4 複雜遊戲開發（如三關海戰等邏輯與畫面呈現）。</li>
+  <li><strong>影音與多媒體生成：</strong>展示了動畫影片生成、原生 GIF 生成、電影分鏡生成等功能。</li>
+  <li><strong>設計與開發輔助：</strong>涵蓋圖像編輯一致性、產品攝影、UI 介面原型生成、書法作品生成、替換場景與光影調整、多輪 P 圖，甚至延伸至操作機械手臂與 4K 動畫等綜合能力。</li>
+</ul>
+
+<p>總體而言，這部影片全面地檢視了 Claude Fable 5.2 在開發者效率提升以及設計領域可能帶來的衝擊與變革。由於影片未提供確切時間軸細節，以上內容基於實際可取得的簡介與綜合影音資訊進行整理。</p>
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=wZYzXW3tQYQ">https://www.youtube.com/watch?v=wZYzXW3tQYQ</a></p><p>🚀视频简介：</p><p></p><p>✅ Claude Fable 5.2只开Medium推理，复杂场景竟然做到这一步？7个案例现场实测：清明上河图船只过桥、圣家堂彩窗光影、Unity童话世界、Godot三关海战，还有直接播放的配乐动画</p><p></p><p>🎮 一张图片变成能探索的童话场景，海战从海盗据点一路演到金银岛。本期用7个案例实测Claude Fable 5.2，看看它能把复杂场景、游戏和动画做成什么样。</p><p></p><p>🏰 测试环境是Claude桌面版，推理级别为Medium。从可切换昼夜的像素天空城堡，到清明上河图里放倒桅杆过桥的船只，再到圣家堂的彩窗与室内光影，逐个进入场景，查看交互、动作和建筑细节。</p><p></p><p>🎬 接着展示ChatGPT图片转Unity场景、Godot三关海战，再播放四季与艺术发展史动画，观察配乐和画面细节。开头也会纠正此前的版本名称，介绍相较Fable 5.1标准输入输出价格下降20%、输出速度最高提升30%的变化。速度数据来自官方说明，本期聚焦运行效果与实际演示范围，欢迎跟着画面判断这些案例的表现。</p><p></p><p>👉👉👉我的开源项目:<a href="https://github.com/win4r/">https://github.com/win4r/</a></p><p>👉👉👉请我喝咖啡:<a href="https://ko-fi.com/aila">https://ko-fi.com/aila</a></p><p></p><p>🔥🔥🔥YouTube时间戳：</p><p>00:00 新版变化与版本纠正</p><p>00:53 桌面版设置与知识问答</p><p>01:36 像素天空城堡交互</p><p>02:15 清明上河图虹桥探索</p><p>05:34 圣家堂建筑与彩窗光影</p><p>07:15 一张图片变成童话场景</p><p>09:07 三关海战与战斗演示</p><p>11:43 四季动画与配乐效果</p><p>13:07 艺术发展史动画展示</p><p>13:53 实测总结与后续预告</p><p></p><p></p><p>#claude #fable52 #claudefable52 #claudeai #anthropic #ai #aigc #vibecoding #aicoding #aianimation #aivideogenerator #aiart #claudecode #aiagents</p>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/wZYzXW3tQYQ/hqdefault.jpg"/>
+      <pubDate>2026-11-10T08:07:47.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[🚀Grok Bot进阶玩法保姆级教程！超越Meta Muse/OpenAI Dots/Claude Duet！定制专属邮箱、自动沉淀skill、Pages制作、视频生成！让Grok Bot越用越聪明]]></title>
+      <link>https://www.youtube.com/watch?v=aRY7YrXOmKo</link>
+      <itunes:title><![CDATA[🚀Grok Bot进阶玩法保姆级教程！超越Meta Muse/OpenAI Dots/Claude Duet！定制专属邮箱、自动沉淀skill、Pages制作、视频生成！让Grok Bot越用越聪明]]></itunes:title>
+      <itunes:author><![CDATA[AI超元域]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/aRY7YrXOmKo/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=aRY7YrXOmKo">https://www.youtube.com/watch?v=aRY7YrXOmKo</a></p><h1>值得閱讀的理由</h1>
+<ul>
+  <li>深入介紹 Grok Bot 的進階實測應用，展示如何透過專屬邮箱、自動技能沉淀（Skill）提升日常工作效率。</li>
+  <li>示範如何利用可互動頁面（Pages）與看板整理複雜資料，並由文件檢索員快速找回對應內容。</li>
+  <li>挑戰並展示如何運用 AI 創作並生成具有香港 TVB 風格的 15 秒武侠短片。</li>
+</ul>
+
+<hr />
+
+<h1>摘要</h1>
+
+<p>這部影片主要實測並介紹了 <strong>Grok Bot</strong> 的多項高級用法與自動化場景，探討如何讓 AI 助理越用越聰明，並在日常工作中發揮具體作用。</p>
+
+<h2>專屬郵箱與自動化任務</h2>
+<p> 至 首先展示了進階用法中的郵箱場景，包含如何領取專屬郵箱、訂閱 AI 相關資訊，並設定於每天晚上 8 點自動發送任務，隨後實測了實際收到的內容與定時設置。</p>
+
+<h2>工作技能沉淀與資料整理</h2>
+<p> 介紹了定期覆盤與技能沉淀機制，讓專職助手檢查對話和工作經驗，將生成的技能與檔案交付規則同步至 GitHub 進行任務配置，使經驗得以在後續工作中覆用。同時 示範利用可互動頁面（Pages）整理團隊周報、模型趨勢榜等重要資料，並透過檔案檢索員找回對應的看板。</p>
+
+<h2>影音創作與短片生成</h2>
+<p> 開始展示影片生產線看板的建立，並於 創建影片導演並安裝對應技能，設定場景的畫幅、氛圍、畫風與聲音。最後在 實際呈現結合代碼動畫與特定視頻模型所產生的 15 秒港風武俠打斗短片生成效果。</p>
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=aRY7YrXOmKo">https://www.youtube.com/watch?v=aRY7YrXOmKo</a></p><p>🚀视频简介：</p><p>✅ 聊天记录居然还能变成可复用技能？我给Grok Bot安排每天复盘工作，让专职助手整理经验、查找文件，再用专属邮箱发送AI资讯，最后挑战15秒TVB风格武侠短片，完整操作和生成效果一次看</p><p></p><p>📬 AI 资讯已经发进我的邮箱，15秒武侠视频也生成了。这期继续实测 Grok Bot，看看专属邮箱、技能沉淀、Pages 和视频导演，如何分别承担日常工作中的具体任务。</p><p></p><p>🧠 从领取邮箱、订阅资讯到发送邮件，我会展示实际收到的内容，并介绍每天晚上8点发送的任务设置。接着让技能沉淀员检查对话和工作经验，查看生成的技能与文件交付规则，介绍同步到 GitHub 的任务配置，让经验有机会在后续工作中复用。</p><p></p><p>🎬 资料整理部分会展示团队周报、模型趋势榜和视频看板，再由文件检索员找回对应 Pages。视频创作则从画幅、氛围、画风和声音的选择开始，最后看香港 TVB 风格武侠打斗的生成效果。定时任务的长期稳定性未在本期验证，具体设置和实际结果都在视频里。</p><p></p><p></p><p>👉👉👉视频中的skill：<a href="https://github.com/win4r/video-director">https://github.com/win4r/video-director</a></p><p>👉👉👉请我喝咖啡：<a href="https://ko-fi.com/aila">https://ko-fi.com/aila</a></p><p></p><p></p><p>🔥🔥🔥YouTube时间戳：</p><p>00:00 本期高级用法与邮箱场景</p><p>00:57 领取专属邮箱并订阅资讯</p><p>01:43 资讯邮件实测与定时设置</p><p>02:24 定期复盘并沉淀工作技能</p><p>03:39 用可交互页面整理重要资料</p><p>04:57 创建视频生产线看板</p><p>05:17 让文件检索员找回看板</p><p>05:53 创建视频导演并安装技能</p><p>06:14 设定场景画风与声音</p><p>07:05 代码动画与视频模型的选择</p><p>07:25 十五秒港风武侠视频展示</p><p></p><p>#grokbot #grok #grokai #grokvideo #aiagents #muse #dots #claudeduet #vibecoding #aicoding #aivideo #aigc #ai #grok45 #cursor #mac #macmini #agi #aivideo #aivideogenerator</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/aRY7YrXOmKo/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=aRY7YrXOmKo">https://www.youtube.com/watch?v=aRY7YrXOmKo</a></p><h1>值得閱讀的理由</h1>
+<ul>
+  <li>深入介紹 Grok Bot 的進階實測應用，展示如何透過專屬邮箱、自動技能沉淀（Skill）提升日常工作效率。</li>
+  <li>示範如何利用可互動頁面（Pages）與看板整理複雜資料，並由文件檢索員快速找回對應內容。</li>
+  <li>挑戰並展示如何運用 AI 創作並生成具有香港 TVB 風格的 15 秒武侠短片。</li>
+</ul>
+
+<hr />
+
+<h1>摘要</h1>
+
+<p>這部影片主要實測並介紹了 <strong>Grok Bot</strong> 的多項高級用法與自動化場景，探討如何讓 AI 助理越用越聰明，並在日常工作中發揮具體作用。</p>
+
+<h2>專屬郵箱與自動化任務</h2>
+<p> 至 首先展示了進階用法中的郵箱場景，包含如何領取專屬郵箱、訂閱 AI 相關資訊，並設定於每天晚上 8 點自動發送任務，隨後實測了實際收到的內容與定時設置。</p>
+
+<h2>工作技能沉淀與資料整理</h2>
+<p> 介紹了定期覆盤與技能沉淀機制，讓專職助手檢查對話和工作經驗，將生成的技能與檔案交付規則同步至 GitHub 進行任務配置，使經驗得以在後續工作中覆用。同時 示範利用可互動頁面（Pages）整理團隊周報、模型趨勢榜等重要資料，並透過檔案檢索員找回對應的看板。</p>
+
+<h2>影音創作與短片生成</h2>
+<p> 開始展示影片生產線看板的建立，並於 創建影片導演並安裝對應技能，設定場景的畫幅、氛圍、畫風與聲音。最後在 實際呈現結合代碼動畫與特定視頻模型所產生的 15 秒港風武俠打斗短片生成效果。</p>
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=aRY7YrXOmKo">https://www.youtube.com/watch?v=aRY7YrXOmKo</a></p><p>🚀视频简介：</p><p>✅ 聊天记录居然还能变成可复用技能？我给Grok Bot安排每天复盘工作，让专职助手整理经验、查找文件，再用专属邮箱发送AI资讯，最后挑战15秒TVB风格武侠短片，完整操作和生成效果一次看</p><p></p><p>📬 AI 资讯已经发进我的邮箱，15秒武侠视频也生成了。这期继续实测 Grok Bot，看看专属邮箱、技能沉淀、Pages 和视频导演，如何分别承担日常工作中的具体任务。</p><p></p><p>🧠 从领取邮箱、订阅资讯到发送邮件，我会展示实际收到的内容，并介绍每天晚上8点发送的任务设置。接着让技能沉淀员检查对话和工作经验，查看生成的技能与文件交付规则，介绍同步到 GitHub 的任务配置，让经验有机会在后续工作中复用。</p><p></p><p>🎬 资料整理部分会展示团队周报、模型趋势榜和视频看板，再由文件检索员找回对应 Pages。视频创作则从画幅、氛围、画风和声音的选择开始，最后看香港 TVB 风格武侠打斗的生成效果。定时任务的长期稳定性未在本期验证，具体设置和实际结果都在视频里。</p><p></p><p></p><p>👉👉👉视频中的skill：<a href="https://github.com/win4r/video-director">https://github.com/win4r/video-director</a></p><p>👉👉👉请我喝咖啡：<a href="https://ko-fi.com/aila">https://ko-fi.com/aila</a></p><p></p><p></p><p>🔥🔥🔥YouTube时间戳：</p><p>00:00 本期高级用法与邮箱场景</p><p>00:57 领取专属邮箱并订阅资讯</p><p>01:43 资讯邮件实测与定时设置</p><p>02:24 定期复盘并沉淀工作技能</p><p>03:39 用可交互页面整理重要资料</p><p>04:57 创建视频生产线看板</p><p>05:17 让文件检索员找回看板</p><p>05:53 创建视频导演并安装技能</p><p>06:14 设定场景画风与声音</p><p>07:05 代码动画与视频模型的选择</p><p>07:25 十五秒港风武侠视频展示</p><p></p><p>#grokbot #grok #grokai #grokvideo #aiagents #muse #dots #claudeduet #vibecoding #aicoding #aivideo #aigc #ai #grok45 #cursor #mac #macmini #agi #aivideo #aivideogenerator</p>]]>
+      </description>
+      <content:encoded><![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/aRY7YrXOmKo/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=aRY7YrXOmKo">https://www.youtube.com/watch?v=aRY7YrXOmKo</a></p><h1>值得閱讀的理由</h1>
+<ul>
+  <li>深入介紹 Grok Bot 的進階實測應用，展示如何透過專屬邮箱、自動技能沉淀（Skill）提升日常工作效率。</li>
+  <li>示範如何利用可互動頁面（Pages）與看板整理複雜資料，並由文件檢索員快速找回對應內容。</li>
+  <li>挑戰並展示如何運用 AI 創作並生成具有香港 TVB 風格的 15 秒武侠短片。</li>
+</ul>
+
+<hr />
+
+<h1>摘要</h1>
+
+<p>這部影片主要實測並介紹了 <strong>Grok Bot</strong> 的多項高級用法與自動化場景，探討如何讓 AI 助理越用越聰明，並在日常工作中發揮具體作用。</p>
+
+<h2>專屬郵箱與自動化任務</h2>
+<p> 至 首先展示了進階用法中的郵箱場景，包含如何領取專屬郵箱、訂閱 AI 相關資訊，並設定於每天晚上 8 點自動發送任務，隨後實測了實際收到的內容與定時設置。</p>
+
+<h2>工作技能沉淀與資料整理</h2>
+<p> 介紹了定期覆盤與技能沉淀機制，讓專職助手檢查對話和工作經驗，將生成的技能與檔案交付規則同步至 GitHub 進行任務配置，使經驗得以在後續工作中覆用。同時 示範利用可互動頁面（Pages）整理團隊周報、模型趨勢榜等重要資料，並透過檔案檢索員找回對應的看板。</p>
+
+<h2>影音創作與短片生成</h2>
+<p> 開始展示影片生產線看板的建立，並於 創建影片導演並安裝對應技能，設定場景的畫幅、氛圍、畫風與聲音。最後在 實際呈現結合代碼動畫與特定視頻模型所產生的 15 秒港風武俠打斗短片生成效果。</p>
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=aRY7YrXOmKo">https://www.youtube.com/watch?v=aRY7YrXOmKo</a></p><p>🚀视频简介：</p><p>✅ 聊天记录居然还能变成可复用技能？我给Grok Bot安排每天复盘工作，让专职助手整理经验、查找文件，再用专属邮箱发送AI资讯，最后挑战15秒TVB风格武侠短片，完整操作和生成效果一次看</p><p></p><p>📬 AI 资讯已经发进我的邮箱，15秒武侠视频也生成了。这期继续实测 Grok Bot，看看专属邮箱、技能沉淀、Pages 和视频导演，如何分别承担日常工作中的具体任务。</p><p></p><p>🧠 从领取邮箱、订阅资讯到发送邮件，我会展示实际收到的内容，并介绍每天晚上8点发送的任务设置。接着让技能沉淀员检查对话和工作经验，查看生成的技能与文件交付规则，介绍同步到 GitHub 的任务配置，让经验有机会在后续工作中复用。</p><p></p><p>🎬 资料整理部分会展示团队周报、模型趋势榜和视频看板，再由文件检索员找回对应 Pages。视频创作则从画幅、氛围、画风和声音的选择开始，最后看香港 TVB 风格武侠打斗的生成效果。定时任务的长期稳定性未在本期验证，具体设置和实际结果都在视频里。</p><p></p><p></p><p>👉👉👉视频中的skill：<a href="https://github.com/win4r/video-director">https://github.com/win4r/video-director</a></p><p>👉👉👉请我喝咖啡：<a href="https://ko-fi.com/aila">https://ko-fi.com/aila</a></p><p></p><p></p><p>🔥🔥🔥YouTube时间戳：</p><p>00:00 本期高级用法与邮箱场景</p><p>00:57 领取专属邮箱并订阅资讯</p><p>01:43 资讯邮件实测与定时设置</p><p>02:24 定期复盘并沉淀工作技能</p><p>03:39 用可交互页面整理重要资料</p><p>04:57 创建视频生产线看板</p><p>05:17 让文件检索员找回看板</p><p>05:53 创建视频导演并安装技能</p><p>06:14 设定场景画风与声音</p><p>07:05 代码动画与视频模型的选择</p><p>07:25 十五秒港风武侠视频展示</p><p></p><p>#grokbot #grok #grokai #grokvideo #aiagents #muse #dots #claudeduet #vibecoding #aicoding #aivideo #aigc #ai #grok45 #cursor #mac #macmini #agi #aivideo #aivideogenerator</p>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/aRY7YrXOmKo/hqdefault.jpg"/>
+      <pubDate>2026-11-07T12:25:48.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[🚀ChatGPT Images 2.6全方位实测！原生GIF生成、图像编辑一致性、电影分镜生成、产品摄影和UI界面原型生成、书法作品生成、换场景、改光影、多轮P图！样样精通！取代设计师！开发者效率倍增]]></title>
+      <link>https://www.youtube.com/watch?v=9fGwwQaaLSQ</link>
+      <itunes:title><![CDATA[🚀ChatGPT Images 2.6全方位实测！原生GIF生成、图像编辑一致性、电影分镜生成、产品摄影和UI界面原型生成、书法作品生成、换场景、改光影、多轮P图！样样精通！取代设计师！开发者效率倍增]]></itunes:title>
+      <itunes:author><![CDATA[AI超元域]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/9fGwwQaaLSQ/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=9fGwwQaaLSQ">https://www.youtube.com/watch?v=9fGwwQaaLSQ</a></p><h1>值得閱讀的理由</h1>
+<ul>
+  <li>完整開箱評測 OpenAI 最新推出的 ChatGPT Images 2.6 圖片生成模型與各項核心功能。</li>
+  <li>詳細介紹如何利用文字或照片直接產出動態循環 GIF，以及如何管理與使用「參考圖庫」。</li>
+  <li>展示多場景實測（如電影分鏡、產品攝影、UI 介面原型與書法作品生成等），協助評估對設計工作流程的實際幫助。</li>
+</ul>
+
+<hr />
+
+<h1>摘要</h1>
+
+<p>影片開頭介紹了 OpenAI 於 2026 年 11 月初正式發表的 <strong>ChatGPT Images 2.6</strong> 全方位實測。本次更新主打生成速度大幅提升，較以往版本快上 50%，並強化了圖像編輯過程中的一致性。</p>
+
+<p>在核心新功能方面，影片展示了備受關注的 <strong>原生 GIF 生成</strong> 能力。使用者現在可以直接透過簡單的文字指令，或是上傳既有照片，讓靜態畫面轉為具備連續動作的循環 GIF 小圖，甚至能調整播放速度與修改單一畫格。此外，新版本亦加入了<strong>參考圖庫</strong>功能，能將特定人物、寵物或角色的圖像儲存起來，方便在後續的多輪創作中直接呼叫，維持高度的外觀一致性。</p>
+
+<p>實測部分涵蓋了多種應用場景，包含產品攝影、UI 介面原型設計、電影分鏡生成、書法作品創作以及場景與光影轉換等。示範顯示其在多輪修改與細節保持上的表現更加穩定，有助於大幅提升設計與內容創作的效率。</p>
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=9fGwwQaaLSQ">https://www.youtube.com/watch?v=9fGwwQaaLSQ</a></p><p>🚀视频简介：</p><p>✅ 10张侠客图竟然能接着拍成视频！ChatGPT Images 2.6搭配Grok Bot实测：从长安街头到白马少年，再到拔剑与策马狂奔，实测图像接力生成视频，古装镜头的光影与细节究竟如何？</p><p></p><p>🖼️ 一张毛坯房照片，1分27秒生成10张不同风格的装修图。这次把ChatGPT Images 2.6放进多种实际创作场景，既看第一眼的画面效果，也看连续修改之后的表现。</p><p></p><p>🏀 白羽鸡打篮球的GIF改了三版，复杂动作到第三版才更满意。随后继续测试平面图转室内效果图、不同书体转换、折纸步骤图和产品摄影，观察换背景、改侧光之后，瓶身细节是否还能保持一致。视频还展示了宋词分镜、古装镜头，以及手机与桌面界面原型图。</p><p></p><p>🎬 我也把10张长安侠客图交给Grok Bot生成视频，展示从图像到成片的衔接。书法简繁混用、纸飞机步骤存在疑点、部分露珠和表情不够自然，这些问题同样保留。想知道漂亮画面背后的能力边界，可以从这轮完整实测中找答案。</p><p></p><p>👉👉👉我的开源项目:<a href="https://github.com/win4r/">https://github.com/win4r/</a></p><p>👉👉👉请我喝咖啡:<a href="https://ko-fi.com/aila">https://ko-fi.com/aila</a></p><p></p><p>🔥🔥🔥YouTube 时间戳：</p><p>00:00 新版功能与实测看点</p><p>00:49 篮球动图与风格测试</p><p>01:45 毛坯房生成装修图</p><p>02:55 平面图生成室内图</p><p>03:16 汉字书法与书体切换</p><p>04:46 折纸步骤与衔接问题</p><p>05:37 产品摄影与编辑一致性</p><p>06:18 宋词画面与人物神情</p><p>07:10 侠客分镜接力生成视频</p><p>09:03 赛博分镜与界面原型</p><p>09:38 古装镜头与光影细节</p><p>10:04 更多案例与实测总结</p><p></p><p></p><p>#chatgpt #openai #chatgptimages #chatgptimages26 #images26 #aiimages #aidesign #aiart #aishorts #aivideo #aigc #agi #ai #aiimagegenerator #grok #grokbot</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/9fGwwQaaLSQ/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=9fGwwQaaLSQ">https://www.youtube.com/watch?v=9fGwwQaaLSQ</a></p><h1>值得閱讀的理由</h1>
+<ul>
+  <li>完整開箱評測 OpenAI 最新推出的 ChatGPT Images 2.6 圖片生成模型與各項核心功能。</li>
+  <li>詳細介紹如何利用文字或照片直接產出動態循環 GIF，以及如何管理與使用「參考圖庫」。</li>
+  <li>展示多場景實測（如電影分鏡、產品攝影、UI 介面原型與書法作品生成等），協助評估對設計工作流程的實際幫助。</li>
+</ul>
+
+<hr />
+
+<h1>摘要</h1>
+
+<p>影片開頭介紹了 OpenAI 於 2026 年 11 月初正式發表的 <strong>ChatGPT Images 2.6</strong> 全方位實測。本次更新主打生成速度大幅提升，較以往版本快上 50%，並強化了圖像編輯過程中的一致性。</p>
+
+<p>在核心新功能方面，影片展示了備受關注的 <strong>原生 GIF 生成</strong> 能力。使用者現在可以直接透過簡單的文字指令，或是上傳既有照片，讓靜態畫面轉為具備連續動作的循環 GIF 小圖，甚至能調整播放速度與修改單一畫格。此外，新版本亦加入了<strong>參考圖庫</strong>功能，能將特定人物、寵物或角色的圖像儲存起來，方便在後續的多輪創作中直接呼叫，維持高度的外觀一致性。</p>
+
+<p>實測部分涵蓋了多種應用場景，包含產品攝影、UI 介面原型設計、電影分鏡生成、書法作品創作以及場景與光影轉換等。示範顯示其在多輪修改與細節保持上的表現更加穩定，有助於大幅提升設計與內容創作的效率。</p>
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=9fGwwQaaLSQ">https://www.youtube.com/watch?v=9fGwwQaaLSQ</a></p><p>🚀视频简介：</p><p>✅ 10张侠客图竟然能接着拍成视频！ChatGPT Images 2.6搭配Grok Bot实测：从长安街头到白马少年，再到拔剑与策马狂奔，实测图像接力生成视频，古装镜头的光影与细节究竟如何？</p><p></p><p>🖼️ 一张毛坯房照片，1分27秒生成10张不同风格的装修图。这次把ChatGPT Images 2.6放进多种实际创作场景，既看第一眼的画面效果，也看连续修改之后的表现。</p><p></p><p>🏀 白羽鸡打篮球的GIF改了三版，复杂动作到第三版才更满意。随后继续测试平面图转室内效果图、不同书体转换、折纸步骤图和产品摄影，观察换背景、改侧光之后，瓶身细节是否还能保持一致。视频还展示了宋词分镜、古装镜头，以及手机与桌面界面原型图。</p><p></p><p>🎬 我也把10张长安侠客图交给Grok Bot生成视频，展示从图像到成片的衔接。书法简繁混用、纸飞机步骤存在疑点、部分露珠和表情不够自然，这些问题同样保留。想知道漂亮画面背后的能力边界，可以从这轮完整实测中找答案。</p><p></p><p>👉👉👉我的开源项目:<a href="https://github.com/win4r/">https://github.com/win4r/</a></p><p>👉👉👉请我喝咖啡:<a href="https://ko-fi.com/aila">https://ko-fi.com/aila</a></p><p></p><p>🔥🔥🔥YouTube 时间戳：</p><p>00:00 新版功能与实测看点</p><p>00:49 篮球动图与风格测试</p><p>01:45 毛坯房生成装修图</p><p>02:55 平面图生成室内图</p><p>03:16 汉字书法与书体切换</p><p>04:46 折纸步骤与衔接问题</p><p>05:37 产品摄影与编辑一致性</p><p>06:18 宋词画面与人物神情</p><p>07:10 侠客分镜接力生成视频</p><p>09:03 赛博分镜与界面原型</p><p>09:38 古装镜头与光影细节</p><p>10:04 更多案例与实测总结</p><p></p><p></p><p>#chatgpt #openai #chatgptimages #chatgptimages26 #images26 #aiimages #aidesign #aiart #aishorts #aivideo #aigc #agi #ai #aiimagegenerator #grok #grokbot</p>]]>
+      </description>
+      <content:encoded><![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/9fGwwQaaLSQ/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=9fGwwQaaLSQ">https://www.youtube.com/watch?v=9fGwwQaaLSQ</a></p><h1>值得閱讀的理由</h1>
+<ul>
+  <li>完整開箱評測 OpenAI 最新推出的 ChatGPT Images 2.6 圖片生成模型與各項核心功能。</li>
+  <li>詳細介紹如何利用文字或照片直接產出動態循環 GIF，以及如何管理與使用「參考圖庫」。</li>
+  <li>展示多場景實測（如電影分鏡、產品攝影、UI 介面原型與書法作品生成等），協助評估對設計工作流程的實際幫助。</li>
+</ul>
+
+<hr />
+
+<h1>摘要</h1>
+
+<p>影片開頭介紹了 OpenAI 於 2026 年 11 月初正式發表的 <strong>ChatGPT Images 2.6</strong> 全方位實測。本次更新主打生成速度大幅提升，較以往版本快上 50%，並強化了圖像編輯過程中的一致性。</p>
+
+<p>在核心新功能方面，影片展示了備受關注的 <strong>原生 GIF 生成</strong> 能力。使用者現在可以直接透過簡單的文字指令，或是上傳既有照片，讓靜態畫面轉為具備連續動作的循環 GIF 小圖，甚至能調整播放速度與修改單一畫格。此外，新版本亦加入了<strong>參考圖庫</strong>功能，能將特定人物、寵物或角色的圖像儲存起來，方便在後續的多輪創作中直接呼叫，維持高度的外觀一致性。</p>
+
+<p>實測部分涵蓋了多種應用場景，包含產品攝影、UI 介面原型設計、電影分鏡生成、書法作品創作以及場景與光影轉換等。示範顯示其在多輪修改與細節保持上的表現更加穩定，有助於大幅提升設計與內容創作的效率。</p>
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=9fGwwQaaLSQ">https://www.youtube.com/watch?v=9fGwwQaaLSQ</a></p><p>🚀视频简介：</p><p>✅ 10张侠客图竟然能接着拍成视频！ChatGPT Images 2.6搭配Grok Bot实测：从长安街头到白马少年，再到拔剑与策马狂奔，实测图像接力生成视频，古装镜头的光影与细节究竟如何？</p><p></p><p>🖼️ 一张毛坯房照片，1分27秒生成10张不同风格的装修图。这次把ChatGPT Images 2.6放进多种实际创作场景，既看第一眼的画面效果，也看连续修改之后的表现。</p><p></p><p>🏀 白羽鸡打篮球的GIF改了三版，复杂动作到第三版才更满意。随后继续测试平面图转室内效果图、不同书体转换、折纸步骤图和产品摄影，观察换背景、改侧光之后，瓶身细节是否还能保持一致。视频还展示了宋词分镜、古装镜头，以及手机与桌面界面原型图。</p><p></p><p>🎬 我也把10张长安侠客图交给Grok Bot生成视频，展示从图像到成片的衔接。书法简繁混用、纸飞机步骤存在疑点、部分露珠和表情不够自然，这些问题同样保留。想知道漂亮画面背后的能力边界，可以从这轮完整实测中找答案。</p><p></p><p>👉👉👉我的开源项目:<a href="https://github.com/win4r/">https://github.com/win4r/</a></p><p>👉👉👉请我喝咖啡:<a href="https://ko-fi.com/aila">https://ko-fi.com/aila</a></p><p></p><p>🔥🔥🔥YouTube 时间戳：</p><p>00:00 新版功能与实测看点</p><p>00:49 篮球动图与风格测试</p><p>01:45 毛坯房生成装修图</p><p>02:55 平面图生成室内图</p><p>03:16 汉字书法与书体切换</p><p>04:46 折纸步骤与衔接问题</p><p>05:37 产品摄影与编辑一致性</p><p>06:18 宋词画面与人物神情</p><p>07:10 侠客分镜接力生成视频</p><p>09:03 赛博分镜与界面原型</p><p>09:38 古装镜头与光影细节</p><p>10:04 更多案例与实测总结</p><p></p><p></p><p>#chatgpt #openai #chatgptimages #chatgptimages26 #images26 #aiimages #aidesign #aiart #aishorts #aivideo #aigc #agi #ai #aiimagegenerator #grok #grokbot</p>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/9fGwwQaaLSQ/hqdefault.jpg"/>
+      <pubDate>2026-11-05T11:41:07.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[🚀Grok Bot高级玩法教程！超越Meta Muse/OpenAI Dots/Claude Duet！多设备任务互通、多智能体群聊、跨群协作、持久云电脑、AI 记忆管理！让Grok Bot越用越聪明]]></title>
+      <link>https://www.youtube.com/watch?v=uK3j5AbpiF0</link>
+      <itunes:title><![CDATA[🚀Grok Bot高级玩法教程！超越Meta Muse/OpenAI Dots/Claude Duet！多设备任务互通、多智能体群聊、跨群协作、持久云电脑、AI 记忆管理！让Grok Bot越用越聪明]]></itunes:title>
+      <itunes:author><![CDATA[AI超元域]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/uK3j5AbpiF0/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=uK3j5AbpiF0">https://www.youtube.com/watch?v=uK3j5AbpiF0</a></p><h1>值得閱讀的理由</h1><ul><li>深入了解 Grok Bot 的多設備互通機制與安全控制，學會如何用手機遠端調度電腦並防止未授權操作。</li><li>掌握 AI 記憶管理與持久雲電腦架構，體驗系統如何透過獨立 Bot 自動整理長期記憶並執行定時任務。</li><li>探索強大的多 Agent 群聊協作與無縫開發鏈，實踐從頭腦風暴、規格撰寫到交接 Cursor Cloud Agents 的自動化流程。</li></ul><hr /><h1>摘要</h1><h2>Grok Bot 優勢與多設備安全互通</h2><p>作者展示了 <strong>Grok Bot</strong> 相較於市場上其他具備雲端電腦的 AI 工具所展現的極高靈活性，除了能產出圖文與編寫程式，更具備完善的<strong>多設備管理</strong>架構。使用者不僅能藉由手機向遠端的 Mac mini 下達指令，同時還能為主力 MacBook 設定<strong>安全防護規則</strong>，全面杜絕來自外部設備的未授權操作，兼顧遠端操控的便利與本地環境的安全。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/uK3j5AbpiF0_60.jpg" /></p><h2>持久雲電腦與專職記憶管理員</h2><p>影片中進一步揭露了 Grok Bot 背後配置高達 8 核 CPU、16GB 記憶體與 128GB 硬碟的<strong>持久雲電腦</strong>。該環境支援背景自主瀏覽與<strong>定時資訊抓取</strong>，並將結果整理成易於閱讀的結構化 HTML 頁面。作者隨後透過一句自然語言指令，迅速建立起專門負責<strong>長期記憶管理</strong>的專職 Bot，每日自動從對話中提煉高價值資訊存入共享資料庫，讓 AI 系統越用越聰明。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/uK3j5AbpiF0_309.jpg" /></p><h2>多 Bot 群聊頭腦風暴與跨群規格生成</h2><p>在進階協作方面，作者呈現了創新的<strong>多 Agent 群聊</strong>模式，將研究員、工程師等多個職能 Bot 拉進同一個群組針對沙盒遊戲進行頭腦風暴，並將討論成果自動彙整同步至 <strong>Notion</strong>。更具特色的是其<strong>跨群任務傳遞</strong>機制，系統能直接將發想結果轉交至規格文檔群組，自動編寫出結構嚴謹的專案開發規格書。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/uK3j5AbpiF0_510.jpg" /></p><h2>本地開發到雲端 Cursor Agents 的完整交接</h2><p>確認開發規格後，任務首先被分派至 Mac mini 透過 <strong>Grok CLI</strong> 建立本地 Git 倉庫，逐步進行編寫、編譯與測試。當需要轉移運算資源時，作者展示了流暢的<strong>任務交接鏈</strong>，能立即將本地工作暫停並無縫移轉給雲端的 <strong>Cursor Cloud Agents</strong> 接手續寫，成功驗證了一整套從構思、撰寫規格到跨設備跨雲端開發的完整自動化閉環。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/uK3j5AbpiF0_700.jpg" /></p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=uK3j5AbpiF0">https://www.youtube.com/watch?v=uK3j5AbpiF0</a></p><p>🚀视频简介：</p><p></p><p>✅Grok Bot比OpenAI Dots、Meta Muse、Claude Duet更灵活吗？实测跨设备、云电脑、BOT群聊，跨群写规格再交给Grok CLI和Cursor Cloud Agents</p><p></p><p>📱 手机不仅能跟 Grok Bot 聊天，还能给另一台电脑下任务。我先在手机端检查 Mac mini 的 Grok CLI 状态，再演示主力 MacBook 如何通过一条禁止跨设备执行的规则，限制来自其他设备的操作指令。</p><p></p><p>☁️ 接着打开 Grok Bot 的持久云电脑，查看定时抓取的 AI 资讯与 HTML 阅读页面。视频中查询到的配置是 8 核 CPU、16GB 内存、128GB 硬盘。在手机上也能查看采集结果与核验边界，让定时任务不只停留在对话里。随后我让主 BOT 分派工作，创建一个每天整理长期记忆的专职 BOT；首轮实际记录了 5 条新记忆。</p><p></p><p>🤖 更有意思的是群聊协作：研究员、编码助手等 BOT 一起讨论沙盒游戏创意，结果被整理进 Notion，并跨群生成规格文档。最后任务先在 Mac mini 用 Grok CLI 启动，再转交 Cursor Cloud Agents。开发仍在推进，视频重点是这条任务交接链是否跑通。</p><p></p><p></p><p>👉👉👉我的开源项目: <a href="https://github.com/win4r/">https://github.com/win4r/</a></p><p>👉👉👉请我喝咖啡: <a href="https://ko-fi.com/aila">https://ko-fi.com/aila</a></p><p></p><p></p><p>🔥🔥🔥YouTube时间戳：</p><p></p><p>00:00 Grok Bot与云电脑功能概览</p><p>00:59 手机操控多设备与安全规则</p><p>02:08 手机查看定时资讯结果</p><p>02:59 持久云电脑与硬件配置</p><p>04:19 主BOT调度多个专职BOT</p><p>05:09 一句话创建记忆管理员</p><p>06:51 首轮整理新增5条记忆</p><p>07:22 多BOT群聊协作与规格文档</p><p>08:30 沙盒游戏头脑风暴</p><p>09:45 跨群生成开发规格文档</p><p>10:18 Mac mini启动远程开发</p><p>11:40 交接Cursor Cloud Agents</p><p></p><p></p><p>#grokbot #grok #grokai #grokvideo #aiagents #muse #dots #claudeduet #vibecoding #aicoding #aivideo #aigc #ai #grok45 #cursor #mac #macmini #agi</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/uK3j5AbpiF0/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=uK3j5AbpiF0">https://www.youtube.com/watch?v=uK3j5AbpiF0</a></p><h1>值得閱讀的理由</h1><ul><li>深入了解 Grok Bot 的多設備互通機制與安全控制，學會如何用手機遠端調度電腦並防止未授權操作。</li><li>掌握 AI 記憶管理與持久雲電腦架構，體驗系統如何透過獨立 Bot 自動整理長期記憶並執行定時任務。</li><li>探索強大的多 Agent 群聊協作與無縫開發鏈，實踐從頭腦風暴、規格撰寫到交接 Cursor Cloud Agents 的自動化流程。</li></ul><hr /><h1>摘要</h1><h2>Grok Bot 優勢與多設備安全互通</h2><p>作者展示了 <strong>Grok Bot</strong> 相較於市場上其他具備雲端電腦的 AI 工具所展現的極高靈活性，除了能產出圖文與編寫程式，更具備完善的<strong>多設備管理</strong>架構。使用者不僅能藉由手機向遠端的 Mac mini 下達指令，同時還能為主力 MacBook 設定<strong>安全防護規則</strong>，全面杜絕來自外部設備的未授權操作，兼顧遠端操控的便利與本地環境的安全。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/uK3j5AbpiF0_60.jpg" /></p><h2>持久雲電腦與專職記憶管理員</h2><p>影片中進一步揭露了 Grok Bot 背後配置高達 8 核 CPU、16GB 記憶體與 128GB 硬碟的<strong>持久雲電腦</strong>。該環境支援背景自主瀏覽與<strong>定時資訊抓取</strong>，並將結果整理成易於閱讀的結構化 HTML 頁面。作者隨後透過一句自然語言指令，迅速建立起專門負責<strong>長期記憶管理</strong>的專職 Bot，每日自動從對話中提煉高價值資訊存入共享資料庫，讓 AI 系統越用越聰明。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/uK3j5AbpiF0_309.jpg" /></p><h2>多 Bot 群聊頭腦風暴與跨群規格生成</h2><p>在進階協作方面，作者呈現了創新的<strong>多 Agent 群聊</strong>模式，將研究員、工程師等多個職能 Bot 拉進同一個群組針對沙盒遊戲進行頭腦風暴，並將討論成果自動彙整同步至 <strong>Notion</strong>。更具特色的是其<strong>跨群任務傳遞</strong>機制，系統能直接將發想結果轉交至規格文檔群組，自動編寫出結構嚴謹的專案開發規格書。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/uK3j5AbpiF0_510.jpg" /></p><h2>本地開發到雲端 Cursor Agents 的完整交接</h2><p>確認開發規格後，任務首先被分派至 Mac mini 透過 <strong>Grok CLI</strong> 建立本地 Git 倉庫，逐步進行編寫、編譯與測試。當需要轉移運算資源時，作者展示了流暢的<strong>任務交接鏈</strong>，能立即將本地工作暫停並無縫移轉給雲端的 <strong>Cursor Cloud Agents</strong> 接手續寫，成功驗證了一整套從構思、撰寫規格到跨設備跨雲端開發的完整自動化閉環。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/uK3j5AbpiF0_700.jpg" /></p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=uK3j5AbpiF0">https://www.youtube.com/watch?v=uK3j5AbpiF0</a></p><p>🚀视频简介：</p><p></p><p>✅Grok Bot比OpenAI Dots、Meta Muse、Claude Duet更灵活吗？实测跨设备、云电脑、BOT群聊，跨群写规格再交给Grok CLI和Cursor Cloud Agents</p><p></p><p>📱 手机不仅能跟 Grok Bot 聊天，还能给另一台电脑下任务。我先在手机端检查 Mac mini 的 Grok CLI 状态，再演示主力 MacBook 如何通过一条禁止跨设备执行的规则，限制来自其他设备的操作指令。</p><p></p><p>☁️ 接着打开 Grok Bot 的持久云电脑，查看定时抓取的 AI 资讯与 HTML 阅读页面。视频中查询到的配置是 8 核 CPU、16GB 内存、128GB 硬盘。在手机上也能查看采集结果与核验边界，让定时任务不只停留在对话里。随后我让主 BOT 分派工作，创建一个每天整理长期记忆的专职 BOT；首轮实际记录了 5 条新记忆。</p><p></p><p>🤖 更有意思的是群聊协作：研究员、编码助手等 BOT 一起讨论沙盒游戏创意，结果被整理进 Notion，并跨群生成规格文档。最后任务先在 Mac mini 用 Grok CLI 启动，再转交 Cursor Cloud Agents。开发仍在推进，视频重点是这条任务交接链是否跑通。</p><p></p><p></p><p>👉👉👉我的开源项目: <a href="https://github.com/win4r/">https://github.com/win4r/</a></p><p>👉👉👉请我喝咖啡: <a href="https://ko-fi.com/aila">https://ko-fi.com/aila</a></p><p></p><p></p><p>🔥🔥🔥YouTube时间戳：</p><p></p><p>00:00 Grok Bot与云电脑功能概览</p><p>00:59 手机操控多设备与安全规则</p><p>02:08 手机查看定时资讯结果</p><p>02:59 持久云电脑与硬件配置</p><p>04:19 主BOT调度多个专职BOT</p><p>05:09 一句话创建记忆管理员</p><p>06:51 首轮整理新增5条记忆</p><p>07:22 多BOT群聊协作与规格文档</p><p>08:30 沙盒游戏头脑风暴</p><p>09:45 跨群生成开发规格文档</p><p>10:18 Mac mini启动远程开发</p><p>11:40 交接Cursor Cloud Agents</p><p></p><p></p><p>#grokbot #grok #grokai #grokvideo #aiagents #muse #dots #claudeduet #vibecoding #aicoding #aivideo #aigc #ai #grok45 #cursor #mac #macmini #agi</p>]]>
+      </description>
+      <content:encoded><![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/uK3j5AbpiF0/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=uK3j5AbpiF0">https://www.youtube.com/watch?v=uK3j5AbpiF0</a></p><h1>值得閱讀的理由</h1><ul><li>深入了解 Grok Bot 的多設備互通機制與安全控制，學會如何用手機遠端調度電腦並防止未授權操作。</li><li>掌握 AI 記憶管理與持久雲電腦架構，體驗系統如何透過獨立 Bot 自動整理長期記憶並執行定時任務。</li><li>探索強大的多 Agent 群聊協作與無縫開發鏈，實踐從頭腦風暴、規格撰寫到交接 Cursor Cloud Agents 的自動化流程。</li></ul><hr /><h1>摘要</h1><h2>Grok Bot 優勢與多設備安全互通</h2><p>作者展示了 <strong>Grok Bot</strong> 相較於市場上其他具備雲端電腦的 AI 工具所展現的極高靈活性，除了能產出圖文與編寫程式，更具備完善的<strong>多設備管理</strong>架構。使用者不僅能藉由手機向遠端的 Mac mini 下達指令，同時還能為主力 MacBook 設定<strong>安全防護規則</strong>，全面杜絕來自外部設備的未授權操作，兼顧遠端操控的便利與本地環境的安全。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/uK3j5AbpiF0_60.jpg" /></p><h2>持久雲電腦與專職記憶管理員</h2><p>影片中進一步揭露了 Grok Bot 背後配置高達 8 核 CPU、16GB 記憶體與 128GB 硬碟的<strong>持久雲電腦</strong>。該環境支援背景自主瀏覽與<strong>定時資訊抓取</strong>，並將結果整理成易於閱讀的結構化 HTML 頁面。作者隨後透過一句自然語言指令，迅速建立起專門負責<strong>長期記憶管理</strong>的專職 Bot，每日自動從對話中提煉高價值資訊存入共享資料庫，讓 AI 系統越用越聰明。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/uK3j5AbpiF0_309.jpg" /></p><h2>多 Bot 群聊頭腦風暴與跨群規格生成</h2><p>在進階協作方面，作者呈現了創新的<strong>多 Agent 群聊</strong>模式，將研究員、工程師等多個職能 Bot 拉進同一個群組針對沙盒遊戲進行頭腦風暴，並將討論成果自動彙整同步至 <strong>Notion</strong>。更具特色的是其<strong>跨群任務傳遞</strong>機制，系統能直接將發想結果轉交至規格文檔群組，自動編寫出結構嚴謹的專案開發規格書。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/uK3j5AbpiF0_510.jpg" /></p><h2>本地開發到雲端 Cursor Agents 的完整交接</h2><p>確認開發規格後，任務首先被分派至 Mac mini 透過 <strong>Grok CLI</strong> 建立本地 Git 倉庫，逐步進行編寫、編譯與測試。當需要轉移運算資源時，作者展示了流暢的<strong>任務交接鏈</strong>，能立即將本地工作暫停並無縫移轉給雲端的 <strong>Cursor Cloud Agents</strong> 接手續寫，成功驗證了一整套從構思、撰寫規格到跨設備跨雲端開發的完整自動化閉環。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202503/file-cache/uK3j5AbpiF0_700.jpg" /></p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=uK3j5AbpiF0">https://www.youtube.com/watch?v=uK3j5AbpiF0</a></p><p>🚀视频简介：</p><p></p><p>✅Grok Bot比OpenAI Dots、Meta Muse、Claude Duet更灵活吗？实测跨设备、云电脑、BOT群聊，跨群写规格再交给Grok CLI和Cursor Cloud Agents</p><p></p><p>📱 手机不仅能跟 Grok Bot 聊天，还能给另一台电脑下任务。我先在手机端检查 Mac mini 的 Grok CLI 状态，再演示主力 MacBook 如何通过一条禁止跨设备执行的规则，限制来自其他设备的操作指令。</p><p></p><p>☁️ 接着打开 Grok Bot 的持久云电脑，查看定时抓取的 AI 资讯与 HTML 阅读页面。视频中查询到的配置是 8 核 CPU、16GB 内存、128GB 硬盘。在手机上也能查看采集结果与核验边界，让定时任务不只停留在对话里。随后我让主 BOT 分派工作，创建一个每天整理长期记忆的专职 BOT；首轮实际记录了 5 条新记忆。</p><p></p><p>🤖 更有意思的是群聊协作：研究员、编码助手等 BOT 一起讨论沙盒游戏创意，结果被整理进 Notion，并跨群生成规格文档。最后任务先在 Mac mini 用 Grok CLI 启动，再转交 Cursor Cloud Agents。开发仍在推进，视频重点是这条任务交接链是否跑通。</p><p></p><p></p><p>👉👉👉我的开源项目: <a href="https://github.com/win4r/">https://github.com/win4r/</a></p><p>👉👉👉请我喝咖啡: <a href="https://ko-fi.com/aila">https://ko-fi.com/aila</a></p><p></p><p></p><p>🔥🔥🔥YouTube时间戳：</p><p></p><p>00:00 Grok Bot与云电脑功能概览</p><p>00:59 手机操控多设备与安全规则</p><p>02:08 手机查看定时资讯结果</p><p>02:59 持久云电脑与硬件配置</p><p>04:19 主BOT调度多个专职BOT</p><p>05:09 一句话创建记忆管理员</p><p>06:51 首轮整理新增5条记忆</p><p>07:22 多BOT群聊协作与规格文档</p><p>08:30 沙盒游戏头脑风暴</p><p>09:45 跨群生成开发规格文档</p><p>10:18 Mac mini启动远程开发</p><p>11:40 交接Cursor Cloud Agents</p><p></p><p></p><p>#grokbot #grok #grokai #grokvideo #aiagents #muse #dots #claudeduet #vibecoding #aicoding #aivideo #aigc #ai #grok45 #cursor #mac #macmini #agi</p>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/uK3j5AbpiF0/hqdefault.jpg"/>
+      <pubDate>2026-11-03T15:12:00.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[🚀本地部署全方位实测Unlimited-OCR-2！33亿参数能把复杂文档读到什么程度？从模糊扫描书页到双栏研究报告，从复杂表格到数学公式，再到中日韩混排文档，逐项检查文字识别、表格结构与排版解析效果]]></title>
+      <link>https://www.youtube.com/watch?v=W7lSIikNJBI</link>
+      <itunes:title><![CDATA[🚀本地部署全方位实测Unlimited-OCR-2！33亿参数能把复杂文档读到什么程度？从模糊扫描书页到双栏研究报告，从复杂表格到数学公式，再到中日韩混排文档，逐项检查文字识别、表格结构与排版解析效果]]></itunes:title>
+      <itunes:author><![CDATA[AI超元域]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/W7lSIikNJBI/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=W7lSIikNJBI">https://www.youtube.com/watch?v=W7lSIikNJBI</a></p><h1>值得閱讀的理由</h1>
+<ul>
+  <li><strong>深入了解最新 AI 模型：</strong>影片針對百度最新開源的 33 億參數文檔解析模型 Unlimited-OCR-2 進行了全方位的本地部署實測。</li>
+  <li><strong>解析複雜文件極限：</strong>展示模型在模糊掃描書頁、雙欄研究報告、複雜表格、數學公式及中日韓混排文檔中的實際辨識效果。</li>
+  <li><strong>具備高參考價值的技術評測：</strong>透過具體案例檢驗文字識別、表格結構與排版解析能力，幫助開發者與技術愛好者快速掌握其實際應用表現。</li>
+</ul>
+
+<hr />
+
+<h1>摘要</h1>
+<p>這部由 YouTube 頻道創作者（@AIsuperdomain）所發布的影片，主要進行了百度開源模型 <strong>Unlimited-OCR-2</strong> 的本地部署與全方位實測。該模型的參數量約為 33 億（3.34B），主打能夠處理超長與複雜的文檔解析任務。</p>
+
+<p>在影片內容中，實測範圍涵蓋多種高難度的文件類型。首先針對<strong>模糊的掃描書頁</strong>與<strong>雙欄研究報告</strong>進行文字識別與排版結構的檢驗，確認其在非標準格式下的表現；其次，影片也實際測試了<strong>複雜表格</strong>，強調其不僅要辨識出文字內容，更需要完整保留原本的表格結構。</p>
+
+<p>此外，實測項目還包含了<strong>數學公式</strong>以及<strong>中日韓混排文檔</strong>的解析效果，全面逐項檢視該模型在多語言環境與符號辨識上的精確度，為關注開源多模態文件解析技術的觀眾提供了一個直觀的本地部署運行參考。</p>
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=W7lSIikNJBI">https://www.youtube.com/watch?v=W7lSIikNJBI</a></p><p>🚀视频简介：</p><p></p><p>✅复杂表格不只要认出文字，还要保住原来的结构！Unlimited-OCR-2本地实测：面对多种复杂表格、双栏研究报告和包含公式的混合文档，它能否正确提取内容并保留表格结构？从原始PDF到解析结果逐项核对，再检查表格上下方的正文与页面内容，看看百度这款33亿参数模型到底能处理多复杂的文档</p><p></p><p>📄 单页扫描书页2.6秒，10页PDF用时39.7秒：这是Unlimited-OCR-2在本次RTX A6000测试中的表现。复杂文档能否读准，还要把识别结果和原文放在一起核对。</p><p></p><p>🔍 本期从本地运行和测试界面讲起，依次挑战双栏排版、复杂表格、数学公式、模糊扫描件、竖排繁体，以及同页混排的中文、日语和韩语。部分复杂文档为合成样例，重点观察文字提取、表格结构保留和阅读顺序，展示各类样例的实际解析结果。</p><p></p><p>👉👉👉我的开源项目:<a href="https://github.com/win4r/">https://github.com/win4r/</a></p><p>👉👉👉请我喝咖啡:<a href="https://ko-fi.com/aila">https://ko-fi.com/aila</a></p><p></p><p>🔥🔥🔥YouTube 时间戳：</p><p>00:00 模型亮点与测试背景</p><p>01:20 本地部署与开源工具</p><p>02:17 单页扫描与解析耗时</p><p>03:15 十页文档解析实测</p><p>04:07 双栏报告与阅读顺序</p><p>05:06 复杂表格结构识别</p><p>05:55 数学公式与图表识别</p><p>06:37 模糊扫描件识别效果</p><p>07:04 竖排繁体的顺序问题</p><p>07:50 中日韩混排文档实测</p><p>08:39 实测总结与使用感受</p><p></p><p>#unlimitedocr2 #ocr #pdf #vlm #llm #aivision #unlimitedocr #aigc #ai #aiagents #agi #aicoding #vibecoding #multimodal</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/W7lSIikNJBI/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=W7lSIikNJBI">https://www.youtube.com/watch?v=W7lSIikNJBI</a></p><h1>值得閱讀的理由</h1>
+<ul>
+  <li><strong>深入了解最新 AI 模型：</strong>影片針對百度最新開源的 33 億參數文檔解析模型 Unlimited-OCR-2 進行了全方位的本地部署實測。</li>
+  <li><strong>解析複雜文件極限：</strong>展示模型在模糊掃描書頁、雙欄研究報告、複雜表格、數學公式及中日韓混排文檔中的實際辨識效果。</li>
+  <li><strong>具備高參考價值的技術評測：</strong>透過具體案例檢驗文字識別、表格結構與排版解析能力，幫助開發者與技術愛好者快速掌握其實際應用表現。</li>
+</ul>
+
+<hr />
+
+<h1>摘要</h1>
+<p>這部由 YouTube 頻道創作者（@AIsuperdomain）所發布的影片，主要進行了百度開源模型 <strong>Unlimited-OCR-2</strong> 的本地部署與全方位實測。該模型的參數量約為 33 億（3.34B），主打能夠處理超長與複雜的文檔解析任務。</p>
+
+<p>在影片內容中，實測範圍涵蓋多種高難度的文件類型。首先針對<strong>模糊的掃描書頁</strong>與<strong>雙欄研究報告</strong>進行文字識別與排版結構的檢驗，確認其在非標準格式下的表現；其次，影片也實際測試了<strong>複雜表格</strong>，強調其不僅要辨識出文字內容，更需要完整保留原本的表格結構。</p>
+
+<p>此外，實測項目還包含了<strong>數學公式</strong>以及<strong>中日韓混排文檔</strong>的解析效果，全面逐項檢視該模型在多語言環境與符號辨識上的精確度，為關注開源多模態文件解析技術的觀眾提供了一個直觀的本地部署運行參考。</p>
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=W7lSIikNJBI">https://www.youtube.com/watch?v=W7lSIikNJBI</a></p><p>🚀视频简介：</p><p></p><p>✅复杂表格不只要认出文字，还要保住原来的结构！Unlimited-OCR-2本地实测：面对多种复杂表格、双栏研究报告和包含公式的混合文档，它能否正确提取内容并保留表格结构？从原始PDF到解析结果逐项核对，再检查表格上下方的正文与页面内容，看看百度这款33亿参数模型到底能处理多复杂的文档</p><p></p><p>📄 单页扫描书页2.6秒，10页PDF用时39.7秒：这是Unlimited-OCR-2在本次RTX A6000测试中的表现。复杂文档能否读准，还要把识别结果和原文放在一起核对。</p><p></p><p>🔍 本期从本地运行和测试界面讲起，依次挑战双栏排版、复杂表格、数学公式、模糊扫描件、竖排繁体，以及同页混排的中文、日语和韩语。部分复杂文档为合成样例，重点观察文字提取、表格结构保留和阅读顺序，展示各类样例的实际解析结果。</p><p></p><p>👉👉👉我的开源项目:<a href="https://github.com/win4r/">https://github.com/win4r/</a></p><p>👉👉👉请我喝咖啡:<a href="https://ko-fi.com/aila">https://ko-fi.com/aila</a></p><p></p><p>🔥🔥🔥YouTube 时间戳：</p><p>00:00 模型亮点与测试背景</p><p>01:20 本地部署与开源工具</p><p>02:17 单页扫描与解析耗时</p><p>03:15 十页文档解析实测</p><p>04:07 双栏报告与阅读顺序</p><p>05:06 复杂表格结构识别</p><p>05:55 数学公式与图表识别</p><p>06:37 模糊扫描件识别效果</p><p>07:04 竖排繁体的顺序问题</p><p>07:50 中日韩混排文档实测</p><p>08:39 实测总结与使用感受</p><p></p><p>#unlimitedocr2 #ocr #pdf #vlm #llm #aivision #unlimitedocr #aigc #ai #aiagents #agi #aicoding #vibecoding #multimodal</p>]]>
+      </description>
+      <content:encoded><![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/W7lSIikNJBI/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=W7lSIikNJBI">https://www.youtube.com/watch?v=W7lSIikNJBI</a></p><h1>值得閱讀的理由</h1>
+<ul>
+  <li><strong>深入了解最新 AI 模型：</strong>影片針對百度最新開源的 33 億參數文檔解析模型 Unlimited-OCR-2 進行了全方位的本地部署實測。</li>
+  <li><strong>解析複雜文件極限：</strong>展示模型在模糊掃描書頁、雙欄研究報告、複雜表格、數學公式及中日韓混排文檔中的實際辨識效果。</li>
+  <li><strong>具備高參考價值的技術評測：</strong>透過具體案例檢驗文字識別、表格結構與排版解析能力，幫助開發者與技術愛好者快速掌握其實際應用表現。</li>
+</ul>
+
+<hr />
+
+<h1>摘要</h1>
+<p>這部由 YouTube 頻道創作者（@AIsuperdomain）所發布的影片，主要進行了百度開源模型 <strong>Unlimited-OCR-2</strong> 的本地部署與全方位實測。該模型的參數量約為 33 億（3.34B），主打能夠處理超長與複雜的文檔解析任務。</p>
+
+<p>在影片內容中，實測範圍涵蓋多種高難度的文件類型。首先針對<strong>模糊的掃描書頁</strong>與<strong>雙欄研究報告</strong>進行文字識別與排版結構的檢驗，確認其在非標準格式下的表現；其次，影片也實際測試了<strong>複雜表格</strong>，強調其不僅要辨識出文字內容，更需要完整保留原本的表格結構。</p>
+
+<p>此外，實測項目還包含了<strong>數學公式</strong>以及<strong>中日韓混排文檔</strong>的解析效果，全面逐項檢視該模型在多語言環境與符號辨識上的精確度，為關注開源多模態文件解析技術的觀眾提供了一個直觀的本地部署運行參考。</p>
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=W7lSIikNJBI">https://www.youtube.com/watch?v=W7lSIikNJBI</a></p><p>🚀视频简介：</p><p></p><p>✅复杂表格不只要认出文字，还要保住原来的结构！Unlimited-OCR-2本地实测：面对多种复杂表格、双栏研究报告和包含公式的混合文档，它能否正确提取内容并保留表格结构？从原始PDF到解析结果逐项核对，再检查表格上下方的正文与页面内容，看看百度这款33亿参数模型到底能处理多复杂的文档</p><p></p><p>📄 单页扫描书页2.6秒，10页PDF用时39.7秒：这是Unlimited-OCR-2在本次RTX A6000测试中的表现。复杂文档能否读准，还要把识别结果和原文放在一起核对。</p><p></p><p>🔍 本期从本地运行和测试界面讲起，依次挑战双栏排版、复杂表格、数学公式、模糊扫描件、竖排繁体，以及同页混排的中文、日语和韩语。部分复杂文档为合成样例，重点观察文字提取、表格结构保留和阅读顺序，展示各类样例的实际解析结果。</p><p></p><p>👉👉👉我的开源项目:<a href="https://github.com/win4r/">https://github.com/win4r/</a></p><p>👉👉👉请我喝咖啡:<a href="https://ko-fi.com/aila">https://ko-fi.com/aila</a></p><p></p><p>🔥🔥🔥YouTube 时间戳：</p><p>00:00 模型亮点与测试背景</p><p>01:20 本地部署与开源工具</p><p>02:17 单页扫描与解析耗时</p><p>03:15 十页文档解析实测</p><p>04:07 双栏报告与阅读顺序</p><p>05:06 复杂表格结构识别</p><p>05:55 数学公式与图表识别</p><p>06:37 模糊扫描件识别效果</p><p>07:04 竖排繁体的顺序问题</p><p>07:50 中日韩混排文档实测</p><p>08:39 实测总结与使用感受</p><p></p><p>#unlimitedocr2 #ocr #pdf #vlm #llm #aivision #unlimitedocr #aigc #ai #aiagents #agi #aicoding #vibecoding #multimodal</p>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/W7lSIikNJBI/hqdefault.jpg"/>
+      <pubDate>2026-10-30T14:26:38.000Z</pubDate>
+    </item></channel>
 </rss>
